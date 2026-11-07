@@ -1,0 +1,697 @@
+[
+  {
+    "id": "src-sukthankar-1933-mbh-ce",
+    "type": "critical-edition",
+    "authors": [
+      "V. S. Sukthankar",
+      "S. K. Belvalkar",
+      "P. L. Vaidya (Hrsg.)"
+    ],
+    "title": "The Mahābhārata. For the First Time Critically Edited",
+    "year": "1933–1966",
+    "publisher": "Bhandarkar Oriental Research Institute, Poona",
+    "areas": [
+      "mahabharata",
+      "bhagavad-gita"
+    ],
+    "quality": "high",
+    "verified": false,
+    "notes": "Kritische Edition (19 Bände). Referenztext für Stellenangaben nach „CE“. Bibliografische Details (Bandzahl, Herausgeber je Parvan) vor Zitation am Exemplar prüfen."
+  },
+  {
+    "id": "src-jamison-brereton-2014",
+    "type": "translation",
+    "authors": [
+      "Stephanie W. Jamison",
+      "Joel P. Brereton"
+    ],
+    "title": "The Rigveda: The Earliest Religious Poetry of India",
+    "year": 2014,
+    "publisher": "Oxford University Press",
+    "series": "South Asia Research",
+    "areas": [
+      "vedas"
+    ],
+    "quality": "high",
+    "verified": false,
+    "notes": "Vollständige englische Übersetzung des Ṛgveda mit Einleitungen zu jedem Hymnus (3 Bände). Aktuelle wissenschaftliche Standardübersetzung."
+  },
+  {
+    "id": "src-olivelle-2005-manu",
+    "type": "critical-edition",
+    "authors": [
+      "Patrick Olivelle"
+    ],
+    "title": "Manu's Code of Law: A Critical Edition and Translation of the Mānava-Dharmaśāstra",
+    "year": 2005,
+    "publisher": "Oxford University Press",
+    "series": "South Asia Research",
+    "areas": [
+      "cosmology",
+      "philosophy"
+    ],
+    "quality": "high",
+    "verified": false,
+    "notes": "Kritische Edition mit Übersetzung. Kap. 1 enthält die Zeitlehre (Yugas, Manvantaras, Tag und Nacht Brahmās). Olivelle datiert den Text in das 2.–3. Jh. n. Chr."
+  },
+  {
+    "id": "src-burgess-1860-surya-siddhanta",
+    "type": "translation",
+    "authors": [
+      "Ebenezer Burgess"
+    ],
+    "title": "Translation of the Sûrya-Siddhânta, a Text-Book of Hindu Astronomy; with Notes and an Appendix",
+    "year": 1860,
+    "publisher": "Journal of the American Oriental Society, Bd. 6",
+    "areas": [
+      "astronomy",
+      "cosmology"
+    ],
+    "quality": "medium",
+    "verified": false,
+    "notes": "Klassische, gemeinfreie Übersetzung mit Kommentar (unter Mitwirkung von W. D. Whitney). Philologisch veraltet, für die Zeitrechnung (Kap. 1) aber weiterhin Referenz."
+  },
+  {
+    "id": "src-wilson-1840-vishnu-purana",
+    "type": "translation",
+    "authors": [
+      "Horace Hayman Wilson"
+    ],
+    "title": "The Vishńu Puráńa: A System of Hindu Mythology and Tradition",
+    "year": 1840,
+    "publisher": "John Murray / Oriental Translation Fund, London",
+    "url": "https://www.sacred-texts.com/hin/vp/index.htm",
+    "areas": [
+      "puranas",
+      "cosmology"
+    ],
+    "quality": "medium",
+    "verified": false,
+    "notes": "Erste vollständige englische Übersetzung (gemeinfrei). Buch 1, Kap. 3 enthält die Zeitlehre; Buch 6 die Auflösung (Pralaya). Übersetzungsstil des 19. Jh., Textgrundlage nicht kritisch ediert. URL verweist auf eine Online-Transkription (sacred-texts.com) – Übereinstimmung mit dem Druck prüfen."
+  },
+  {
+    "id": "src-clark-1930-aryabhatiya",
+    "type": "translation",
+    "authors": [
+      "Walter Eugene Clark"
+    ],
+    "title": "The Āryabhaṭīya of Āryabhaṭa: An Ancient Indian Work on Mathematics and Astronomy",
+    "year": 1930,
+    "publisher": "University of Chicago Press",
+    "areas": [
+      "astronomy",
+      "other-fields"
+    ],
+    "quality": "medium",
+    "verified": false,
+    "notes": "Englische Übersetzung mit Anmerkungen. Enthält die Angabe Āryabhaṭas zu seinem Alter im Kali-Jahr 3600 (Kālakriyāpāda) und seine abweichende Yuga-Einteilung."
+  },
+  {
+    "id": "src-pingree-1981-jyotihsastra",
+    "type": "book",
+    "authors": [
+      "David Pingree"
+    ],
+    "title": "Jyotiḥśāstra: Astral and Mathematical Literature",
+    "year": 1981,
+    "publisher": "Otto Harrassowitz, Wiesbaden",
+    "series": "A History of Indian Literature, Bd. VI, Fasz. 4",
+    "areas": [
+      "astronomy",
+      "cosmology"
+    ],
+    "quality": "high",
+    "verified": false,
+    "notes": "Standardüberblick über die indische astronomisch-mathematische Literatur und ihre Datierung."
+  },
+  {
+    "id": "src-gonzalez-reimann-2002",
+    "type": "book",
+    "authors": [
+      "Luis González-Reimann"
+    ],
+    "title": "The Mahābhārata and the Yugas: India's Great Epic Poem and the Hindu System of World Ages",
+    "year": 2002,
+    "publisher": "Peter Lang, New York",
+    "series": "Asian Thought and Culture, Bd. 52",
+    "areas": [
+      "mahabharata",
+      "cosmology"
+    ],
+    "quality": "high",
+    "verified": false,
+    "notes": "Monografie zur Entwicklung der Yuga-Lehre im Mahābhārata; zentrale These: Die Yuga-Lehre ist im Epos noch im Entstehen, die Umrechnung in Götterjahre eine spätere Entwicklung."
+  },
+  {
+    "id": "src-kenoyer-1998",
+    "type": "book",
+    "authors": [
+      "Jonathan Mark Kenoyer"
+    ],
+    "title": "Ancient Cities of the Indus Valley Civilization",
+    "year": 1998,
+    "publisher": "Oxford University Press / American Institute of Pakistan Studies",
+    "areas": [
+      "archaeology",
+      "history"
+    ],
+    "quality": "high",
+    "verified": false,
+    "notes": "Überblickswerk eines Grabungsleiters in Harappa. Phasengliederung (Early, Mature, Late Harappan)."
+  },
+  {
+    "id": "src-possehl-2002",
+    "type": "book",
+    "authors": [
+      "Gregory L. Possehl"
+    ],
+    "title": "The Indus Civilization: A Contemporary Perspective",
+    "year": 2002,
+    "publisher": "AltaMira Press, Walnut Creek",
+    "areas": [
+      "archaeology",
+      "history"
+    ],
+    "quality": "high",
+    "verified": false,
+    "notes": "Synthese zu Chronologie, Siedlungen, Wirtschaft und Niedergang der Indus-Zivilisation."
+  },
+  {
+    "id": "src-kielhorn-aihole",
+    "type": "inscription",
+    "authors": [
+      "Franz Kielhorn (Hrsg.)"
+    ],
+    "title": "Aihole Inscription of Pulikesin II.; Saka-Samvat 556",
+    "year": "1900–1901",
+    "publisher": "Epigraphia Indica, Bd. 6",
+    "areas": [
+      "history",
+      "cosmology"
+    ],
+    "quality": "high",
+    "verified": false,
+    "notes": "Edition der Inschrift am Meguti-Tempel von Aihole (634/635 n. Chr., Dichter Ravikīrti), die eine Datierung nach Jahren seit dem Bhārata-Krieg und nach der Śaka-Ära enthält. Band/Seitenangaben vor Zitation prüfen."
+  },
+  {
+    "id": "src-yukteswar-1894",
+    "type": "modern-interpretation",
+    "authors": [
+      "Swami Sri Yukteswar Giri"
+    ],
+    "title": "Kaivalya Darsanam / The Holy Science",
+    "year": 1894,
+    "areas": [
+      "cosmology"
+    ],
+    "quality": "low",
+    "verified": false,
+    "notes": "Religiös-esoterische Neuinterpretation des Yuga-Systems als 24.000-jähriger Zyklus. Hier nur als Beleg für diese moderne Deutung aufgeführt, nicht als wissenschaftliche Quelle."
+  },
+  {
+    "id": "src-bhatt-shah-1960-ram-ce",
+    "type": "critical-edition",
+    "authors": [
+      "G. H. Bhatt",
+      "U. P. Shah (Hrsg.)"
+    ],
+    "title": "The Vālmīki-Rāmāyaṇa. Critically Edited for the First Time",
+    "year": "1960–1975",
+    "publisher": "Oriental Institute, Baroda",
+    "areas": [
+      "ramayana"
+    ],
+    "quality": "high",
+    "verified": false,
+    "notes": "Kritische Edition in 7 Bänden. Referenztext für Stellenangaben; Herausgeber je Band vor Zitation prüfen."
+  },
+  {
+    "id": "src-goldman-1984-ramayana",
+    "type": "translation",
+    "authors": [
+      "Robert P. Goldman (Hrsg.)"
+    ],
+    "title": "The Rāmāyaṇa of Vālmīki: An Epic of Ancient India",
+    "year": "1984–2017",
+    "publisher": "Princeton University Press",
+    "areas": [
+      "ramayana"
+    ],
+    "quality": "high",
+    "verified": false,
+    "notes": "Annotierte englische Übersetzung auf Grundlage der Kritischen Edition (7 Bände) mit ausführlichen Einleitungen zur Text- und Datierungsfrage."
+  },
+  {
+    "id": "src-olivelle-1998-upanishads",
+    "type": "translation",
+    "authors": [
+      "Patrick Olivelle"
+    ],
+    "title": "The Early Upaniṣads: Annotated Text and Translation",
+    "year": 1998,
+    "publisher": "Oxford University Press",
+    "series": "South Asia Research",
+    "areas": [
+      "upanishads",
+      "philosophy"
+    ],
+    "quality": "high",
+    "notes": "Sanskrittext mit Übersetzung der frühen Upaniṣaden (u. a. Bṛhadāraṇyaka, Chāndogya). Standardausgabe.",
+    "verified": false
+  },
+  {
+    "id": "src-witzel-1997-canon",
+    "type": "article",
+    "authors": [
+      "Michael Witzel"
+    ],
+    "title": "The Development of the Vedic Canon and its Schools: The Social and Political Milieu",
+    "year": 1997,
+    "publisher": "In: M. Witzel (Hrsg.), Inside the Texts, Beyond the Texts. Harvard Oriental Series, Opera Minora 2, Cambridge (Mass.)",
+    "areas": [
+      "vedas",
+      "history"
+    ],
+    "quality": "high",
+    "notes": "Grundlegender Aufsatz zur relativen Chronologie der vedischen Textschichten und Schulen (śākhā).",
+    "verified": false
+  },
+  {
+    "id": "src-witzel-1995-kuru",
+    "type": "article",
+    "authors": [
+      "Michael Witzel"
+    ],
+    "title": "Early Sanskritization: Origins and Development of the Kuru State",
+    "year": 1995,
+    "publisher": "Electronic Journal of Vedic Studies 1(4)",
+    "areas": [
+      "vedas",
+      "history",
+      "mahabharata"
+    ],
+    "quality": "high",
+    "notes": "These zur Entstehung des Kuru-Reiches als erstem größeren vedischem Staatswesen und zur Sammlung der Texte in dieser Zeit.",
+    "verified": false
+  },
+  {
+    "id": "src-staal-2008-vedas",
+    "type": "book",
+    "authors": [
+      "Frits Staal"
+    ],
+    "title": "Discovering the Vedas: Origins, Mantras, Rituals, Insights",
+    "year": 2008,
+    "publisher": "Penguin Books India, New Delhi",
+    "areas": [
+      "vedas"
+    ],
+    "quality": "high",
+    "notes": "Gesamtdarstellung eines Ritualforschers; u. a. zu mündlicher Überlieferung und Rezitationstechniken.",
+    "verified": false
+  },
+  {
+    "id": "src-brockington-1998-epics",
+    "type": "book",
+    "authors": [
+      "John Brockington"
+    ],
+    "title": "The Sanskrit Epics",
+    "year": 1998,
+    "publisher": "Brill, Leiden",
+    "series": "Handbuch der Orientalistik, Abt. 2, Bd. 12",
+    "areas": [
+      "mahabharata",
+      "ramayana"
+    ],
+    "quality": "high",
+    "notes": "Handbuch zu Mahābhārata und Rāmāyaṇa: Textgeschichte, Schichten, Datierung, Forschungsgeschichte.",
+    "verified": false
+  },
+  {
+    "id": "src-hiltebeitel-2001",
+    "type": "book",
+    "authors": [
+      "Alf Hiltebeitel"
+    ],
+    "title": "Rethinking the Mahābhārata: A Reader’s Guide to the Education of the Dharma King",
+    "year": 2001,
+    "publisher": "University of Chicago Press",
+    "areas": [
+      "mahabharata"
+    ],
+    "quality": "high",
+    "notes": "Vertritt die These einer vergleichsweise raschen, planvollen schriftlichen Komposition des Epos – Gegenposition zu Modellen langen Wachstums.",
+    "verified": false
+  },
+  {
+    "id": "src-malinar-2007-gita",
+    "type": "book",
+    "authors": [
+      "Angelika Malinar"
+    ],
+    "title": "The Bhagavadgītā: Doctrines and Contexts",
+    "year": 2007,
+    "publisher": "Cambridge University Press",
+    "areas": [
+      "bhagavad-gita"
+    ],
+    "quality": "high",
+    "notes": "Philologisch-historische Studie zur Gītā im Kontext des Mahābhārata.",
+    "verified": false
+  },
+  {
+    "id": "src-davis-2015-gita",
+    "type": "book",
+    "authors": [
+      "Richard H. Davis"
+    ],
+    "title": "The Bhagavad Gita: A Biography",
+    "year": 2015,
+    "publisher": "Princeton University Press",
+    "series": "Lives of Great Religious Books",
+    "areas": [
+      "bhagavad-gita"
+    ],
+    "quality": "high",
+    "notes": "Rezeptionsgeschichte der Gītā von den klassischen Kommentatoren bis zur Moderne.",
+    "verified": false
+  },
+  {
+    "id": "src-richman-1991",
+    "type": "book",
+    "authors": [
+      "Paula Richman (Hrsg.)"
+    ],
+    "title": "Many Rāmāyaṇas: The Diversity of a Narrative Tradition in South Asia",
+    "year": 1991,
+    "publisher": "University of California Press, Berkeley",
+    "areas": [
+      "ramayana"
+    ],
+    "quality": "high",
+    "notes": "Sammelband zur Vielfalt der Rāma-Erzählungen; enthält A. K. Ramanujans Essay „Three Hundred Rāmāyaṇas“.",
+    "verified": false
+  },
+  {
+    "id": "src-rocher-1986-puranas",
+    "type": "book",
+    "authors": [
+      "Ludo Rocher"
+    ],
+    "title": "The Purāṇas",
+    "year": 1986,
+    "publisher": "Otto Harrassowitz, Wiesbaden",
+    "series": "A History of Indian Literature, Bd. II, Fasz. 3",
+    "areas": [
+      "puranas"
+    ],
+    "quality": "high",
+    "notes": "Standardüberblick zu Gattung, Einzeltexten und Datierungsproblemen der Purāṇas.",
+    "verified": false
+  },
+  {
+    "id": "src-flood-1996",
+    "type": "book",
+    "authors": [
+      "Gavin Flood"
+    ],
+    "title": "An Introduction to Hinduism",
+    "year": 1996,
+    "publisher": "Cambridge University Press",
+    "areas": [
+      "philosophy",
+      "vedas",
+      "puranas"
+    ],
+    "quality": "high",
+    "notes": "Einführungswerk mit Kapiteln zu Veda, Upaniṣaden, Epen, Purāṇas und Philosophie.",
+    "verified": false
+  },
+  {
+    "id": "src-thapar-2002",
+    "type": "book",
+    "authors": [
+      "Romila Thapar"
+    ],
+    "title": "Early India: From the Origins to AD 1300",
+    "year": 2002,
+    "publisher": "Allen Lane, London / University of California Press",
+    "areas": [
+      "history"
+    ],
+    "quality": "high",
+    "notes": "Historische Gesamtdarstellung; auch zum Verhältnis von Überlieferung (itihāsa-purāṇa) und Geschichte.",
+    "verified": false
+  },
+  {
+    "id": "src-bryant-2001",
+    "type": "book",
+    "authors": [
+      "Edwin Bryant"
+    ],
+    "title": "The Quest for the Origins of Vedic Culture: The Indo-Aryan Migration Debate",
+    "year": 2001,
+    "publisher": "Oxford University Press",
+    "areas": [
+      "history",
+      "vedas"
+    ],
+    "quality": "high",
+    "notes": "Darstellung der Argumente aller Seiten der Debatte um die Herkunft der Indo-Arier.",
+    "verified": false
+  },
+  {
+    "id": "src-parpola-1994",
+    "type": "book",
+    "authors": [
+      "Asko Parpola"
+    ],
+    "title": "Deciphering the Indus Script",
+    "year": 1994,
+    "publisher": "Cambridge University Press",
+    "areas": [
+      "archaeology"
+    ],
+    "quality": "high",
+    "notes": "Umfassende Studie zur Indus-Schrift; vertritt einen protodravidischen Lösungsansatz (Hypothese).",
+    "verified": false
+  },
+  {
+    "id": "src-giosan-2012",
+    "type": "article",
+    "authors": [
+      "Liviu Giosan u. a."
+    ],
+    "title": "Fluvial landscapes of the Harappan civilization",
+    "year": 2012,
+    "publisher": "Proceedings of the National Academy of Sciences 109(26)",
+    "areas": [
+      "archaeology",
+      "history"
+    ],
+    "quality": "high",
+    "notes": "Geowissenschaftliche Studie: Der Ghaggar-Hakra war zur Harappa-Zeit vor allem monsungespeist, kein großer gletschergespeister Fluss.",
+    "verified": false
+  },
+  {
+    "id": "src-clift-2012",
+    "type": "article",
+    "authors": [
+      "Peter D. Clift u. a."
+    ],
+    "title": "U-Pb zircon dating evidence for a Pleistocene Sarasvati River and capture of the Yamuna River",
+    "year": 2012,
+    "publisher": "Geology 40(3)",
+    "areas": [
+      "archaeology",
+      "history"
+    ],
+    "quality": "high",
+    "notes": "Hinweise auf einen größeren Flusslauf im Pleistozän und eine frühe Umlenkung der Yamunā – lange vor der Harappa-Zeit.",
+    "verified": false
+  },
+  {
+    "id": "src-shinde-2019",
+    "type": "article",
+    "authors": [
+      "Vasant Shinde u. a."
+    ],
+    "title": "An Ancient Harappan Genome Lacks Ancestry from Steppe Pastoralists or Iranian Farmers",
+    "year": 2019,
+    "publisher": "Cell 179(3)",
+    "areas": [
+      "archaeology",
+      "history"
+    ],
+    "quality": "high",
+    "notes": "Genom einer Person aus Rakhigarhi.",
+    "verified": false
+  },
+  {
+    "id": "src-narasimhan-2019",
+    "type": "article",
+    "authors": [
+      "Vagheesh M. Narasimhan u. a."
+    ],
+    "title": "The formation of human populations in South and Central Asia",
+    "year": 2019,
+    "publisher": "Science 365(6457)",
+    "areas": [
+      "history"
+    ],
+    "quality": "high",
+    "notes": "Großstudie alter DNA; beschreibt einen Zustrom steppenbezogener Abstammung nach Südasien im 2. Jt. v. Chr.",
+    "verified": false
+  },
+  {
+    "id": "src-sarma-1985-vedanga-jyotisa",
+    "type": "translation",
+    "authors": [
+      "T. S. Kuppanna Sastry",
+      "K. V. Sarma (Hrsg.)"
+    ],
+    "title": "Vedāṅga Jyotiṣa of Lagadha",
+    "year": 1985,
+    "publisher": "Indian National Science Academy, New Delhi",
+    "areas": [
+      "astronomy"
+    ],
+    "quality": "high",
+    "notes": "Edition und Übersetzung des ältesten erhaltenen indischen Astronomietextes.",
+    "verified": false
+  },
+  {
+    "id": "src-plofker-2009",
+    "type": "book",
+    "authors": [
+      "Kim Plofker"
+    ],
+    "title": "Mathematics in India",
+    "year": 2009,
+    "publisher": "Princeton University Press",
+    "areas": [
+      "astronomy",
+      "other-fields"
+    ],
+    "quality": "high",
+    "notes": "Standardwerk zur Geschichte der indischen Mathematik und mathematischen Astronomie.",
+    "verified": false
+  },
+  {
+    "id": "src-tilak-1893-orion",
+    "type": "book",
+    "authors": [
+      "Bal Gangadhar Tilak"
+    ],
+    "title": "The Orion, or Researches into the Antiquity of the Vedas",
+    "year": 1893,
+    "publisher": "Bombay",
+    "areas": [
+      "astronomy",
+      "vedas"
+    ],
+    "quality": "low",
+    "notes": "Früher astronomischer Datierungsversuch der Veden. Forschungsgeschichtlich bedeutsam, methodisch überholt.",
+    "verified": false
+  },
+  {
+    "id": "src-unesco-2008-vedic-chanting",
+    "type": "institutional",
+    "authors": [
+      "UNESCO"
+    ],
+    "title": "Tradition of Vedic chanting",
+    "year": 2008,
+    "url": "https://ich.unesco.org/en/RL/tradition-of-vedic-chanting-00062",
+    "areas": [
+      "vedas"
+    ],
+    "quality": "medium",
+    "notes": "Eintrag in der Repräsentativen Liste des immateriellen Kulturerbes (2003 proklamiert, 2008 eingetragen). URL-Format plausibel, aber nicht geprüft.",
+    "verified": false
+  },
+  {
+    "id": "src-marshall-1931",
+    "type": "excavation-report",
+    "authors": [
+      "John Marshall (Hrsg.)"
+    ],
+    "title": "Mohenjo-daro and the Indus Civilization",
+    "year": 1931,
+    "publisher": "Arthur Probsthain, London",
+    "areas": [
+      "archaeology"
+    ],
+    "quality": "high",
+    "notes": "Grabungsbericht in drei Bänden über die Ausgrabungen in Mohenjo-Daro 1922–1927. Forschungsgeschichtlich grundlegend; Deutungen teils überholt.",
+    "verified": false
+  },
+  {
+    "id": "src-dales-1964",
+    "type": "article",
+    "authors": [
+      "George F. Dales"
+    ],
+    "title": "The Mythical Massacre at Mohenjo-daro",
+    "year": 1964,
+    "publisher": "Expedition 6(3), University of Pennsylvania Museum",
+    "areas": [
+      "archaeology"
+    ],
+    "quality": "high",
+    "notes": "Widerlegt die These, die Skelettfunde von Mohenjo-Daro belegten ein letztes Massaker durch Eindringlinge.",
+    "verified": false
+  },
+  {
+    "id": "src-brereton-1986-tat-tvam-asi",
+    "type": "article",
+    "authors": [
+      "Joel P. Brereton"
+    ],
+    "title": "„Tat Tvam Asi“ in Context",
+    "year": 1986,
+    "publisher": "Zeitschrift der Deutschen Morgenländischen Gesellschaft 136",
+    "areas": [
+      "upanishads",
+      "philosophy"
+    ],
+    "quality": "high",
+    "notes": "Philologische Neudeutung der Formel in Chāndogya-Upaniṣad 6 („So bist du“).",
+    "verified": false
+  },
+  {
+    "id": "src-pargiter-1913-dynasties",
+    "type": "critical-edition",
+    "authors": [
+      "Frederick Eden Pargiter"
+    ],
+    "title": "The Purana Text of the Dynasties of the Kali Age",
+    "year": 1913,
+    "publisher": "Oxford University Press",
+    "areas": [
+      "puranas",
+      "history"
+    ],
+    "quality": "medium",
+    "notes": "Kritische Zusammenstellung der purāṇischen Königslisten für das Kali-Zeitalter mit Übersetzung. Klassisch, in Einzelheiten überholt.",
+    "verified": false
+  },
+  {
+    "id": "src-pingree-1978-yavanajataka",
+    "type": "critical-edition",
+    "authors": [
+      "David Pingree"
+    ],
+    "title": "The Yavanajātaka of Sphujidhvaja",
+    "year": 1978,
+    "publisher": "Harvard University Press, Cambridge (Mass.)",
+    "series": "Harvard Oriental Series 48",
+    "areas": [
+      "astronomy"
+    ],
+    "quality": "high",
+    "notes": "Edition, Übersetzung und Kommentar des Sanskrit-Werks zur griechischen Horoskopastrologie (3. Jh. n. Chr.).",
+    "verified": false
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "id": "loc-harappa",
+    "name": "Harappa",
+    "kind": "site",
+    "coordinates": [30.63, 72.86],
+    "modern": "Provinz Punjab, Pakistan",
+    "summary": "Namengebende Fundstätte der Harappa- bzw. Indus-Zivilisation am alten Lauf des Ravi; Ausgrabungen seit den 1920er-Jahren.",
+    "evidence": ["established"],
+    "sources": ["src-kenoyer-1998", "src-possehl-2002"],
+    "related": ["evt-mature-harappan"]
+  },
+  {
+    "id": "loc-mohenjo-daro",
+    "name": "Mohenjo-Daro",
+    "kind": "site",
+    "coordinates": [27.33, 68.14],
+    "modern": "Provinz Sindh, Pakistan",
+    "summary": "Eine der größten Städte der reifen Harappa-Phase mit planmäßigem Straßenraster, Entwässerung und dem „Großen Bad“. UNESCO-Welterbe.",
+    "evidence": ["established"],
+    "sources": ["src-kenoyer-1998", "src-possehl-2002"],
+    "related": ["evt-mature-harappan"]
+  },
+  {
+    "id": "loc-dholavira",
+    "name": "Dholavira",
+    "kind": "site",
+    "coordinates": [23.89, 70.21],
+    "modern": "Khadir-Insel, Rann of Kutch, Gujarat, Indien",
+    "summary": "Harappa-zeitliche Stadt mit ausgefeiltem Wassermanagement (Reservoirs); UNESCO-Welterbe seit 2021.",
+    "evidence": ["established"],
+    "sources": ["src-possehl-2002"],
+    "related": ["evt-mature-harappan"]
+  },
+  {
+    "id": "loc-rakhigarhi",
+    "name": "Rakhigarhi",
+    "kind": "site",
+    "coordinates": [29.29, 76.11],
+    "modern": "Distrikt Hisar, Haryana, Indien",
+    "summary": "Großer Harappa-Fundplatz im Ghaggar-Becken; bekannt u. a. durch eine 2019 publizierte Genomanalyse eines Individuums.",
+    "evidence": ["established"],
+    "sources": ["src-possehl-2002"],
+    "related": ["evt-mature-harappan", "q-sarasvati-identification"]
+  },
+  {
+    "id": "loc-kurukshetra",
+    "name": "Kurukshetra",
+    "name_iast": "Kurukṣetra",
+    "kind": "sacred",
+    "coordinates": [29.97, 76.85],
+    "modern": "Haryana, Indien",
+    "summary": "Im Mahābhārata Schauplatz des großen Krieges und schon in vedischer Literatur als heiliges Land genannt. Die Gleichsetzung der heutigen Stadt mit dem epischen Schlachtfeld beruht auf Tradition; ein archäologischer Nachweis der Schlacht existiert nicht.",
+    "texts": ["mahabharata", "bhagavad-gita"],
+    "evidence": ["primary", "tradition", "unresolved"],
+    "sources": ["src-sukthankar-1933-mbh-ce"]
+  },
+  {
+    "id": "loc-aihole",
+    "name": "Aihole",
+    "kind": "city",
+    "coordinates": [16.02, 75.88],
+    "modern": "Distrikt Bagalkot, Karnataka, Indien",
+    "summary": "Frühe Cālukya-Tempelstadt; die Inschrift am Meguti-Tempel (634/635 n. Chr.) ist ein wichtiger früher Beleg für die Zählung von Jahren seit dem Bhārata-Krieg.",
+    "evidence": ["established"],
+    "sources": ["src-kielhorn-aihole"],
+    "related": ["evt-aihole-inscription"]
+  }
+]

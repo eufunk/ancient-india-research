@@ -1,0 +1,13 @@
+[
+  {
+    "id": "kuru",
+    "name": "Kuru-Dynastie (im Mahābhārata)",
+    "name_iast": "Kuru / Kaurava",
+    "summary": "Herrscherhaus von Hastināpura, dem sowohl die Pāṇḍavas als auch die Kauravas angehören. Davon zu unterscheiden ist das historisch-philologisch erschlossene Kuru-Reich der spätvedischen Zeit, dessen Verhältnis zur epischen Genealogie offen ist.",
+    "texts": ["mahabharata"],
+    "members": ["vyasa", "bhishma", "pandu", "kunti", "yudhishthira", "arjuna", "karna", "krishna"],
+    "evidence": ["primary", "unresolved"],
+    "sources": ["src-sukthankar-1933-mbh-ce"],
+    "related": ["loc-kurukshetra"]
+  }
+]

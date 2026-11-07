@@ -1,0 +1,204 @@
+[
+  {
+    "id": "rigveda",
+    "title": "Rigveda",
+    "title_iast": "Ṛgveda",
+    "devanagari": "ऋग्वेद",
+    "category": "veda",
+    "summary": "Älteste Sammlung (Saṃhitā) vedischer Hymnen, mündlich überliefert und in zehn Büchern (Maṇḍalas) geordnet.",
+    "structure": "10 Maṇḍalas, 1.028 Hymnen (sūkta) in der Śākala-Rezension (inkl. 11 Vālakhilya-Hymnen: 1.017 + 11)",
+    "dating": {
+      "scholarly": "Mehrheitlich ca. 1500–1000 v. Chr. (Kernbestand, v. a. Maṇḍalas 2–7 älter als 1 und 10); umstritten",
+      "traditional": "Als apauruṣeya („nicht menschlichen Ursprungs“) und ewig betrachtet; keine Abfassungszeit im eigentlichen Sinn"
+    },
+    "evidence": [
+      "primary",
+      "disputed"
+    ],
+    "sources": [
+      "src-jamison-brereton-2014"
+    ],
+    "related": [
+      "q-rigveda-dating"
+    ]
+  },
+  {
+    "id": "mahabharata",
+    "title": "Mahabharata",
+    "title_iast": "Mahābhārata",
+    "devanagari": "महाभारत",
+    "category": "itihasa",
+    "summary": "Sanskrit-Epos in 18 Büchern (Parvans) über den Konflikt der Pāṇḍavas und Kauravas; enthält u. a. die Bhagavad Gītā.",
+    "structure": "18 Parvans + Anhang Harivaṃśa; Kritische Edition (BORI) mit rund 75.000 Versen",
+    "dating": {
+      "scholarly": "Textwachstum etwa zwischen ca. 400 v. Chr. und ca. 400 n. Chr. (verbreitete Einschätzung; Details umstritten)",
+      "traditional": "Von Vyāsa verfasst; der Krieg findet am Übergang vom Dvāpara- zum Kali-Yuga statt (traditionell um 3102 v. Chr. gerechnet)"
+    },
+    "evidence": [
+      "primary",
+      "disputed",
+      "tradition"
+    ],
+    "sources": [
+      "src-sukthankar-1933-mbh-ce",
+      "src-gonzalez-reimann-2002"
+    ],
+    "related": [
+      "bhagavad-gita",
+      "kuru",
+      "loc-kurukshetra",
+      "evt-kali-yuga-epoch"
+    ]
+  },
+  {
+    "id": "bhagavad-gita",
+    "title": "Bhagavad Gita",
+    "title_iast": "Bhagavadgītā",
+    "devanagari": "भगवद्गीता",
+    "category": "itihasa",
+    "summary": "Dialog zwischen Kṛṣṇa und Arjuna vor der Schlacht von Kurukṣetra; Teil des Bhīṣmaparvan des Mahābhārata.",
+    "structure": "18 Kapitel, 700 Verse (Vulgata); in der Kritischen Edition MBh 6.23–40",
+    "dating": {
+      "scholarly": "Meist in die Jahrhunderte um die Zeitenwende datiert; Abfassung und Schichtung umstritten",
+      "traditional": "Von Kṛṣṇa auf dem Schlachtfeld von Kurukṣetra gesprochen, von Vyāsa überliefert"
+    },
+    "evidence": [
+      "primary",
+      "disputed"
+    ],
+    "sources": [
+      "src-sukthankar-1933-mbh-ce"
+    ],
+    "related": [
+      "mahabharata",
+      "krishna",
+      "arjuna",
+      "loc-kurukshetra"
+    ]
+  },
+  {
+    "id": "ramayana",
+    "title": "Ramayana",
+    "title_iast": "Rāmāyaṇa",
+    "devanagari": "रामायण",
+    "category": "itihasa",
+    "summary": "Sanskrit-Epos über Rāma, dem Vālmīki zugeschrieben; Grundlage zahlreicher regionaler und internationaler Fassungen.",
+    "structure": "7 Kāṇḍas (Bāla, Ayodhyā, Araṇya, Kiṣkindhā, Sundara, Yuddha, Uttara)",
+    "dating": {
+      "scholarly": "Kernbestand (Bücher 2–6) meist ins 1. Jt. v. Chr., Bücher 1 und 7 als spätere Zusätze betrachtet; Datierung umstritten",
+      "traditional": "Von Vālmīki im Tretā-Yuga verfasst, als Zeitgenosse Rāmas"
+    },
+    "evidence": [
+      "primary",
+      "disputed",
+      "tradition"
+    ],
+    "sources": [
+      "src-bhatt-shah-1960-ram-ce",
+      "src-goldman-1984-ramayana"
+    ],
+    "related": [
+      "rama",
+      "sita",
+      "ravana",
+      "hanuman"
+    ]
+  },
+  {
+    "id": "manusmriti",
+    "title": "Manusmriti",
+    "title_iast": "Manusmṛti / Mānava-Dharmaśāstra",
+    "devanagari": "मनुस्मृति",
+    "category": "smriti",
+    "summary": "Einflussreichster Dharmaśāstra-Text; Kapitel 1 enthält eine systematische Darstellung der kosmischen Zeitmaße.",
+    "structure": "12 Kapitel (adhyāya), ca. 2.700 Verse",
+    "dating": {
+      "scholarly": "Nach Olivelle (2005) ca. 2.–3. Jh. n. Chr.",
+      "traditional": "Lehre des Urvaters Manu, überliefert durch Bhṛgu"
+    },
+    "evidence": [
+      "primary",
+      "established"
+    ],
+    "sources": [
+      "src-olivelle-2005-manu"
+    ],
+    "related": [
+      "yuga-system"
+    ]
+  },
+  {
+    "id": "vishnu-purana",
+    "title": "Vishnu Purana",
+    "title_iast": "Viṣṇupurāṇa",
+    "devanagari": "विष्णुपुराण",
+    "category": "purana",
+    "summary": "Vaiṣṇava-Purāṇa in sechs Büchern mit Kosmogonie, Zeitlehre, Genealogien und Lehre von der Weltauflösung.",
+    "structure": "6 Aṃśas (Bücher)",
+    "dating": {
+      "scholarly": "Meist in die Mitte des 1. Jt. n. Chr. datiert; Spannbreite und Schichtung umstritten",
+      "traditional": "Von Parāśara, dem Vater Vyāsas, an Maitreya verkündet"
+    },
+    "evidence": [
+      "primary",
+      "disputed"
+    ],
+    "sources": [
+      "src-wilson-1840-vishnu-purana"
+    ],
+    "related": [
+      "yuga-system"
+    ]
+  },
+  {
+    "id": "surya-siddhanta",
+    "title": "Surya Siddhanta",
+    "title_iast": "Sūryasiddhānta",
+    "devanagari": "सूर्यसिद्धान्त",
+    "category": "shastra",
+    "summary": "Astronomisches Lehrbuch (siddhānta), das die Yuga-Zeitrechnung als Grundlage astronomischer Berechnungen verwendet.",
+    "structure": "14 Kapitel (Burgess 1860)",
+    "dating": {
+      "scholarly": "Ein älterer Sūryasiddhānta wird von Varāhamihira (6. Jh.) referiert; die erhaltene Fassung ist jünger und überarbeitet (Datierung umstritten)",
+      "traditional": "Vom Sonnengott (Sūrya) dem Asura Maya am Ende des Kṛta-Yuga offenbart"
+    },
+    "evidence": [
+      "primary",
+      "disputed",
+      "tradition"
+    ],
+    "sources": [
+      "src-burgess-1860-surya-siddhanta",
+      "src-pingree-1981-jyotihsastra"
+    ],
+    "related": [
+      "yuga-system",
+      "aryabhatiya"
+    ]
+  },
+  {
+    "id": "aryabhatiya",
+    "title": "Aryabhatiya",
+    "title_iast": "Āryabhaṭīya",
+    "devanagari": "आर्यभटीय",
+    "category": "shastra",
+    "summary": "Mathematisch-astronomisches Werk Āryabhaṭas; enthält eine der frühesten datierbaren Angaben zur Kali-Yuga-Epoche.",
+    "structure": "4 Abschnitte (Gītikā, Gaṇita, Kālakriyā, Gola), 121 Strophen",
+    "dating": {
+      "scholarly": "499 n. Chr. (aus der Selbstangabe des Autors erschlossen)",
+      "traditional": "–"
+    },
+    "evidence": [
+      "primary",
+      "established"
+    ],
+    "sources": [
+      "src-clark-1930-aryabhatiya",
+      "src-pingree-1981-jyotihsastra"
+    ],
+    "related": [
+      "evt-aryabhatiya",
+      "evt-kali-yuga-epoch"
+    ]
+  }
+]

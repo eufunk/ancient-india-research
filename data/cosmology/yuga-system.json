@@ -1,0 +1,20 @@
+{
+  "id": "yuga-system-data",
+  "title": "Das klassische Yuga-System",
+  "basis": "Puranisch-astronomisches Standardmodell (Manusmṛti 1, Viṣṇupurāṇa 1.3, Sūryasiddhānta 1); 1 Götterjahr = 360 Menschenjahre",
+  "divine_year_human_years": 360,
+  "yugas": [
+    { "id": "krta", "name": "Kṛta / Satya", "name_iast": "Kṛtayuga", "sandhya": 400, "core": 4000, "sandhyamsha": 400, "dharma_feet": 4 },
+    { "id": "treta", "name": "Tretā", "name_iast": "Tretāyuga", "sandhya": 300, "core": 3000, "sandhyamsha": 300, "dharma_feet": 3 },
+    { "id": "dvapara", "name": "Dvāpara", "name_iast": "Dvāparayuga", "sandhya": 200, "core": 2000, "sandhyamsha": 200, "dharma_feet": 2 },
+    { "id": "kali", "name": "Kali", "name_iast": "Kaliyuga", "sandhya": 100, "core": 1000, "sandhyamsha": 100, "dharma_feet": 1 }
+  ],
+  "mahayugas_per_manvantara": 71,
+  "manvantaras_per_kalpa": 14,
+  "manvantara_sandhis_per_kalpa": 15,
+  "brahma_year_days": 360,
+  "brahma_life_years": 100,
+  "notes": "Die Werte geben die Tradition wieder und sind keine historischen Datierungen. Einzelne Texte weichen ab (z. B. teilt Āryabhaṭa das Mahāyuga in vier gleich lange Viertel). Die 15 Sandhis à Kṛta-Länge folgen dem Sūryasiddhānta, damit ein Kalpa genau 1.000 Mahāyugas ergibt.",
+  "sources": ["src-olivelle-2005-manu", "src-wilson-1840-vishnu-purana", "src-burgess-1860-surya-siddhanta"],
+  "related": ["yuga-system"]
+}

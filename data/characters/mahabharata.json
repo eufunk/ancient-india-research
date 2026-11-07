@@ -1,0 +1,128 @@
+[
+  {
+    "id": "vyasa",
+    "name": "Vyasa",
+    "name_iast": "Vyāsa (Kṛṣṇa Dvaipāyana)",
+    "devanagari": "व्यास",
+    "summary": "Der Tradition nach Verfasser des Mahābhārata und Ordner der Veden; im Epos zugleich handelnde Figur und leiblicher Vater von Dhṛtarāṣṭra und Pāṇḍu (durch niyoga).",
+    "texts": ["mahabharata"],
+    "dynasty": "kuru",
+    "relations": [
+      { "type": "other", "target": "bhishma", "note": "Stiefbruder: Vyāsas Mutter Satyavatī heiratete Bhīṣmas Vater Śantanu" }
+    ],
+    "historicity": "unresolved",
+    "evidence": ["primary", "tradition"],
+    "sources": ["src-sukthankar-1933-mbh-ce"]
+  },
+  {
+    "id": "bhishma",
+    "name": "Bhishma",
+    "name_iast": "Bhīṣma",
+    "devanagari": "भीष्म",
+    "summary": "Sohn König Śantanus und der Gaṅgā; legt das Gelübde lebenslanger Ehelosigkeit ab und ist der ältere Ahnherr beider Parteien. Oberbefehlshaber der Kauravas in den ersten zehn Kriegstagen.",
+    "texts": ["mahabharata"],
+    "dynasty": "kuru",
+    "locations": ["loc-kurukshetra"],
+    "historicity": "unresolved",
+    "evidence": ["primary"],
+    "sources": ["src-sukthankar-1933-mbh-ce"]
+  },
+  {
+    "id": "pandu",
+    "name": "Pandu",
+    "name_iast": "Pāṇḍu",
+    "devanagari": "पाण्डु",
+    "summary": "Kuru-König, Sohn Vyāsas und Ambālikās; nominell Vater der fünf Pāṇḍavas, die laut Epos von Göttern gezeugt wurden.",
+    "texts": ["mahabharata"],
+    "dynasty": "kuru",
+    "relations": [
+      { "type": "father", "target": "vyasa", "note": "durch niyoga" },
+      { "type": "spouse", "target": "kunti" }
+    ],
+    "historicity": "unresolved",
+    "evidence": ["primary"],
+    "sources": ["src-sukthankar-1933-mbh-ce"]
+  },
+  {
+    "id": "kunti",
+    "name": "Kunti",
+    "name_iast": "Kuntī (Pṛthā)",
+    "devanagari": "कुन्ती",
+    "summary": "Gattin Pāṇḍus, Mutter von Karṇa, Yudhiṣṭhira, Bhīma und Arjuna; Tante Kṛṣṇas (Schwester Vasudevas).",
+    "texts": ["mahabharata"],
+    "dynasty": "kuru",
+    "historicity": "unresolved",
+    "evidence": ["primary"],
+    "sources": ["src-sukthankar-1933-mbh-ce"]
+  },
+  {
+    "id": "yudhishthira",
+    "name": "Yudhishthira",
+    "name_iast": "Yudhiṣṭhira",
+    "devanagari": "युधिष्ठिर",
+    "summary": "Ältester der Pāṇḍavas, Sohn Kuntīs durch Dharma; verkörpert das Ideal des gerechten Königs und verliert im Würfelspiel Reich und Freiheit.",
+    "texts": ["mahabharata"],
+    "dynasty": "kuru",
+    "relations": [
+      { "type": "father", "target": "pandu", "note": "nominell; leiblich vom Gott Dharma" },
+      { "type": "mother", "target": "kunti" },
+      { "type": "sibling", "target": "arjuna" }
+    ],
+    "locations": ["loc-kurukshetra"],
+    "historicity": "unresolved",
+    "evidence": ["primary"],
+    "sources": ["src-sukthankar-1933-mbh-ce"]
+  },
+  {
+    "id": "arjuna",
+    "name": "Arjuna",
+    "name_iast": "Arjuna",
+    "devanagari": "अर्जुन",
+    "summary": "Dritter der Pāṇḍavas, Sohn Kuntīs durch Indra; herausragender Bogenschütze und Gesprächspartner Kṛṣṇas in der Bhagavad Gītā.",
+    "texts": ["mahabharata", "bhagavad-gita"],
+    "dynasty": "kuru",
+    "relations": [
+      { "type": "father", "target": "pandu", "note": "nominell; leiblich von Indra" },
+      { "type": "mother", "target": "kunti" },
+      { "type": "cousin", "target": "krishna", "note": "Kuntī ist Kṛṣṇas Tante väterlicherseits" },
+      { "type": "student", "target": "krishna", "note": "in der Bhagavad Gītā" }
+    ],
+    "locations": ["loc-kurukshetra"],
+    "historicity": "unresolved",
+    "evidence": ["primary"],
+    "sources": ["src-sukthankar-1933-mbh-ce"]
+  },
+  {
+    "id": "karna",
+    "name": "Karna",
+    "name_iast": "Karṇa",
+    "devanagari": "कर्ण",
+    "summary": "Vorehelicher Sohn Kuntīs durch den Sonnengott Sūrya, ausgesetzt und von einem Wagenlenker aufgezogen; kämpft auf Seiten der Kauravas gegen seine Halbbrüder.",
+    "texts": ["mahabharata"],
+    "relations": [
+      { "type": "mother", "target": "kunti" },
+      { "type": "half-sibling", "target": "arjuna" },
+      { "type": "opponent", "target": "arjuna" }
+    ],
+    "locations": ["loc-kurukshetra"],
+    "historicity": "unresolved",
+    "evidence": ["primary"],
+    "sources": ["src-sukthankar-1933-mbh-ce"]
+  },
+  {
+    "id": "krishna",
+    "name": "Krishna",
+    "name_iast": "Kṛṣṇa (Vāsudeva)",
+    "devanagari": "कृष्ण",
+    "summary": "Im Mahābhārata Fürst der Vṛṣṇis/Yādavas, Verbündeter und Wagenlenker Arjunas und Lehrer der Bhagavad Gītā; in der Vaiṣṇava-Tradition Avatāra bzw. höchste Gottheit.",
+    "texts": ["mahabharata", "bhagavad-gita", "vishnu-purana"],
+    "relations": [
+      { "type": "teacher", "target": "arjuna", "note": "in der Bhagavad Gītā" },
+      { "type": "ally", "target": "yudhishthira" }
+    ],
+    "locations": ["loc-kurukshetra"],
+    "historicity": "unresolved",
+    "evidence": ["primary", "tradition"],
+    "sources": ["src-sukthankar-1933-mbh-ce"]
+  }
+]

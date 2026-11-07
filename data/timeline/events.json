@@ -1,0 +1,93 @@
+[
+  {
+    "id": "evt-early-harappan",
+    "title": "Frühe Harappa-Phase",
+    "chronology": "scholarly",
+    "start": -3300,
+    "end": -2600,
+    "display": "ca. 3300–2600 v. Chr.",
+    "summary": "Regionale Kulturen im Indus-Gebiet, aus denen die urbane Harappa-Zivilisation hervorgeht (Phasengliederung nach Kenoyer).",
+    "evidence": ["established"],
+    "sources": ["src-kenoyer-1998"]
+  },
+  {
+    "id": "evt-mature-harappan",
+    "title": "Reife Harappa-Phase (Indus-Zivilisation)",
+    "chronology": "scholarly",
+    "start": -2600,
+    "end": -1900,
+    "display": "ca. 2600–1900 v. Chr.",
+    "summary": "Blütezeit der Städte (Harappa, Mohenjo-Daro, Dholavira, Rakhigarhi) mit standardisierten Gewichten, Siegeln und der bislang unentzifferten Indus-Schrift.",
+    "evidence": ["established"],
+    "sources": ["src-kenoyer-1998", "src-possehl-2002"],
+    "related": ["loc-harappa", "loc-mohenjo-daro", "loc-dholavira", "loc-rakhigarhi", "q-indus-script"]
+  },
+  {
+    "id": "evt-late-harappan",
+    "title": "Späte Harappa-Phase",
+    "chronology": "scholarly",
+    "start": -1900,
+    "end": -1300,
+    "display": "ca. 1900–1300 v. Chr.",
+    "summary": "Deurbanisierung und Regionalisierung; Ursachen (u. a. Klima, Flussverlagerungen, Handel) werden diskutiert.",
+    "evidence": ["established", "disputed"],
+    "sources": ["src-kenoyer-1998", "src-possehl-2002"]
+  },
+  {
+    "id": "evt-rigveda-composition",
+    "title": "Entstehung des Ṛgveda (Kernbestand)",
+    "chronology": "scholarly",
+    "start": -1500,
+    "end": -1000,
+    "display": "ca. 1500–1000 v. Chr. (Mehrheitsposition)",
+    "summary": "Datierung überwiegend aus sprachlichen und kulturhistorischen Argumenten erschlossen; frühere Ansätze werden vertreten, sind aber Minderheitspositionen.",
+    "evidence": ["hypothesis", "disputed"],
+    "sources": ["src-jamison-brereton-2014"],
+    "related": ["rigveda", "q-rigveda-dating"]
+  },
+  {
+    "id": "evt-kali-yuga-epoch",
+    "title": "Beginn des Kali-Yuga (traditionelle Epoche)",
+    "chronology": "traditional",
+    "start": -3102,
+    "display": "17./18. Februar 3102 v. Chr. (traditionell, julianisch)",
+    "summary": "Epoche der Kali-Zeitrechnung, wie sie in der astronomischen Literatur ab dem 5./6. Jh. n. Chr. verwendet wird. Der Tradition nach Zeitpunkt nach dem Mahābhārata-Krieg bzw. dem Tod Kṛṣṇas. Ob es sich um eine überlieferte Erinnerung oder eine astronomisch rückgerechnete Epoche handelt, ist Gegenstand der Forschung.",
+    "evidence": ["tradition", "disputed"],
+    "sources": ["src-clark-1930-aryabhatiya", "src-pingree-1981-jyotihsastra"],
+    "related": ["yuga-system", "aryabhatiya", "q-kali-epoch-origin"]
+  },
+  {
+    "id": "evt-aryabhatiya",
+    "title": "Āryabhaṭīya verfasst",
+    "chronology": "scholarly",
+    "start": 499,
+    "display": "499 n. Chr.",
+    "summary": "Āryabhaṭa gibt an, im Kali-Jahr 3600 23 Jahre alt gewesen zu sein; daraus ergibt sich die Datierung des Werks und einer der frühesten datierbaren Belege der Kali-Epoche.",
+    "evidence": ["primary", "established"],
+    "sources": ["src-clark-1930-aryabhatiya"],
+    "related": ["aryabhatiya", "evt-kali-yuga-epoch"]
+  },
+  {
+    "id": "evt-aihole-inscription",
+    "title": "Aihole-Inschrift Pulakeśins II.",
+    "chronology": "scholarly",
+    "start": 634,
+    "display": "634/635 n. Chr.",
+    "summary": "Datiert sich sowohl nach Jahren seit dem Bhārata-Krieg als auch nach der Śaka-Ära; früher epigrafischer Beleg dafür, dass eine Kriegs-Epoche um 3100 v. Chr. gerechnet wurde.",
+    "evidence": ["primary", "established"],
+    "sources": ["src-kielhorn-aihole"],
+    "related": ["loc-aihole", "evt-kali-yuga-epoch"]
+  },
+  {
+    "id": "evt-mbh-critical-edition",
+    "title": "Kritische Edition des Mahābhārata (BORI)",
+    "chronology": "scholarly",
+    "start": 1919,
+    "end": 1966,
+    "display": "Projekt 1919 begonnen, veröffentlicht 1933–1966",
+    "summary": "Am Bhandarkar Oriental Research Institute (Pune) erarbeitete Edition auf Grundlage zahlreicher Handschriften.",
+    "evidence": ["established"],
+    "sources": ["src-sukthankar-1933-mbh-ce"],
+    "related": ["mahabharata"]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "rama",
+    "name": "Rama",
+    "name_iast": "Rāma (Dāśarathi)",
+    "devanagari": "राम",
+    "summary": "Prinz von Ayodhyā, Sohn König Daśarathas; Held des Rāmāyaṇa, der seine entführte Gattin Sītā aus Laṅkā zurückgewinnt. In der Vaiṣṇava-Tradition Avatāra Viṣṇus.",
+    "texts": [
+      "ramayana"
+    ],
+    "relations": [
+      {
+        "type": "spouse",
+        "target": "sita"
+      },
+      {
+        "type": "opponent",
+        "target": "ravana"
+      }
+    ],
+    "historicity": "unresolved",
+    "evidence": [
+      "primary",
+      "tradition"
+    ],
+    "sources": [
+      "src-bhatt-shah-1960-ram-ce",
+      "src-goldman-1984-ramayana"
+    ]
+  },
+  {
+    "id": "sita",
+    "name": "Sita",
+    "name_iast": "Sītā (Jānakī, Vaidehī)",
+    "devanagari": "सीता",
+    "summary": "Gattin Rāmas, Tochter König Janakas von Videha (der Erzählung nach aus einer Ackerfurche geboren); wird von Rāvaṇa nach Laṅkā entführt.",
+    "texts": [
+      "ramayana"
+    ],
+    "historicity": "unresolved",
+    "evidence": [
+      "primary"
+    ],
+    "sources": [
+      "src-bhatt-shah-1960-ram-ce",
+      "src-goldman-1984-ramayana"
+    ]
+  },
+  {
+    "id": "ravana",
+    "name": "Ravana",
+    "name_iast": "Rāvaṇa",
+    "devanagari": "रावण",
+    "summary": "Zehnköpfiger König der Rākṣasas von Laṅkā, der Sītā entführt und von Rāma besiegt wird.",
+    "texts": [
+      "ramayana"
+    ],
+    "historicity": "unresolved",
+    "evidence": [
+      "primary"
+    ],
+    "sources": [
+      "src-bhatt-shah-1960-ram-ce",
+      "src-goldman-1984-ramayana"
+    ]
+  },
+  {
+    "id": "hanuman",
+    "name": "Hanuman",
+    "name_iast": "Hanumān",
+    "devanagari": "हनुमान्",
+    "summary": "Vānara (Affenwesen), Sohn des Windgottes Vāyu, Minister Sugrīvas und treuer Helfer Rāmas; springt nach Laṅkā und findet Sītā (Sundarakāṇḍa).",
+    "texts": [
+      "ramayana"
+    ],
+    "relations": [
+      {
+        "type": "devotee",
+        "target": "rama"
+      }
+    ],
+    "historicity": "unresolved",
+    "evidence": [
+      "primary",
+      "tradition"
+    ],
+    "sources": [
+      "src-bhatt-shah-1960-ram-ce",
+      "src-goldman-1984-ramayana"
+    ]
+  }
+]

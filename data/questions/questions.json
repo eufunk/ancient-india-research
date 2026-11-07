@@ -1,0 +1,52 @@
+[
+  {
+    "id": "q-yuga-divine-years",
+    "question": "Seit wann werden die Yuga-Längen als „Götterjahre“ (× 360) verstanden?",
+    "area": "cosmology",
+    "kind": "open",
+    "status": "open",
+    "notes": "Mahābhārata-Passagen nennen 4.000/3.000/2.000/1.000 Jahre (plus Dämmerungen), ohne überall eindeutig von Götterjahren zu sprechen. González-Reimann (2002) sieht die Umrechnung als spätere Entwicklung. Zu prüfen: Wortlaut in MBh (CE) 3.186–188 und 12.224 sowie Manusmṛti 1.67–71.",
+    "related": ["yuga-system", "mahabharata", "manusmriti"],
+    "sources": ["src-gonzalez-reimann-2002", "src-olivelle-2005-manu"]
+  },
+  {
+    "id": "q-kali-epoch-origin",
+    "question": "Ist die Kali-Epoche 3102 v. Chr. eine überlieferte Erinnerung oder eine astronomisch rückgerechnete Epoche?",
+    "area": "astronomy",
+    "kind": "contradiction",
+    "status": "open",
+    "notes": "Die Epoche ist erst in Texten ab dem 5./6. Jh. n. Chr. belegt. Verbreitete Forschungsmeinung: Sie wurde als Zeitpunkt einer mittleren Planetenkonjunktion berechnet. Gegenpositionen und Primärbelege systematisch zusammenstellen.",
+    "related": ["evt-kali-yuga-epoch", "aryabhatiya", "surya-siddhanta"],
+    "sources": ["src-pingree-1981-jyotihsastra"]
+  },
+  {
+    "id": "q-rigveda-dating",
+    "question": "Welche Argumente stützen die verschiedenen Datierungen des Ṛgveda – und wie belastbar sind sie?",
+    "area": "vedas",
+    "kind": "todo",
+    "status": "open",
+    "notes": "Linguistische Argumente (Verwandtschaft mit dem Avestischen, Mitanni-Belege), materielle Kultur (Pferd, Streitwagen, Eisen) und astronomische Datierungsversuche getrennt dokumentieren, jeweils mit Kritik.",
+    "related": ["rigveda", "evt-rigveda-composition"],
+    "sources": ["src-jamison-brereton-2014"]
+  },
+  {
+    "id": "q-indus-script",
+    "question": "Ist die Indus-Schrift eine Schrift im linguistischen Sinn, und welche Sprache(n) kodiert sie?",
+    "area": "archaeology",
+    "kind": "open",
+    "status": "open",
+    "notes": "Die Zeichen sind unentziffert; Inschriften sind sehr kurz. Konkurrierende Hypothesen (dravidisch, indo-arisch, nicht-sprachliches Zeichensystem) mit Literatur dokumentieren.",
+    "related": ["evt-mature-harappan"],
+    "sources": ["src-possehl-2002"]
+  },
+  {
+    "id": "q-sarasvati-identification",
+    "question": "Lässt sich die Sarasvatī des Ṛgveda mit dem Ghaggar-Hakra-System gleichsetzen?",
+    "area": "history",
+    "kind": "contradiction",
+    "status": "open",
+    "notes": "Geologische Studien zur Fluss­geschichte des Ghaggar-Hakra, philologische Analyse der Ṛgveda-Stellen und archäologische Siedlungsverteilung getrennt bewerten. Erste geowissenschaftliche Studien erfasst (Giosan u. a. 2012: zur Harappa-Zeit vor allem monsungespeist; Clift u. a. 2012: größerer Flusslauf im Pleistozän, frühe Umlenkung der Yamunā). Weitere Literatur, v. a. zur Datierung der Flussverlagerungen, ergänzen.",
+    "related": ["rigveda", "loc-rakhigarhi", "kap-staedte-am-indus"],
+    "sources": ["src-giosan-2012", "src-clift-2012"]
+  }
+]

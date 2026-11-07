@@ -1,0 +1,1682 @@
+{
+  "format": "ancient-india-research/courses",
+  "version": 1,
+  "generated": "2026-11-07T16:45:12.201Z",
+  "course": {
+    "id": "kurs-antikes-indien",
+    "title": "Das antike Indien",
+    "language": "de",
+    "note": "Szenarien sind illustrative Darstellungen, keine historischen Quellen. Evidenzkategorien: primary, established, hypothesis, tradition, disputed, unresolved."
+  },
+  "modules": [
+    {
+      "id": "mod-01-einfuehrung",
+      "order": 1,
+      "title": "Einführung: Wie wir vom antiken Indien wissen",
+      "summary": "Quellenarten, Methoden und die Grundunterscheidung zwischen Überlieferung und historischem Nachweis.",
+      "chapters": [
+        {
+          "id": "kap-quellen-und-methoden",
+          "order": 1,
+          "title": "Überlieferung, Quelle, Beweis",
+          "subtitle": "Wie die Indienforschung arbeitet",
+          "status": "review",
+          "verification": "partial",
+          "summary": "Woher stammt unser Wissen über das antike Indien? Das Kapitel stellt die fünf großen Quellengruppen vor – Texte, Inschriften, Archäologie, Sprachwissenschaft und Naturwissenschaften – und zeigt, warum die Unterscheidung zwischen Überlieferung und historischem Nachweis der Schlüssel zu jedem weiteren Modul ist.",
+          "reading_time_minutes": 12,
+          "learning_objectives": [
+            "Die wichtigsten Quellengruppen zum antiken Indien benennen und ihre Stärken und Grenzen erklären.",
+            "Zwischen dem Inhalt einer Überlieferung und der Frage nach ihrer Historizität unterscheiden.",
+            "Verstehen, was eine kritische Edition ist und warum Handschriften voneinander abweichen.",
+            "Die Evidenzkategorien dieses Kurses sicher anwenden."
+          ],
+          "scenario_markdown": "Pune, ein Lesesaal am Bhandarkar Oriental Research Institute. Eine Studentin hat zwei Ausgaben des Mahābhārata vor sich: eine populäre Druckausgabe aus dem 19. Jahrhundert und einen Band der Kritischen Edition. Sie sucht eine berühmte Episode – und findet sie in der Kritischen Edition nicht im Haupttext, sondern klein gedruckt im Anhang.\n\nHat jemand die Szene gestrichen? Ihr Betreuer schüttelt den Kopf: „Niemand hat etwas gestrichen. Die Herausgeber haben festgestellt, dass ein großer Teil der Handschriften diese Passage gar nicht enthält. Die Frage ist nicht, ob die Episode *wahr* ist, sondern seit wann sie *zum Text gehört*.“\n\nMit dieser Frage – was wissen wir, woher wissen wir es, und wie sicher ist es? – beginnt dieser Kurs.\n",
+          "body_markdown": "## Ein Kontinent der Texte – und der Lücken\n\nKaum eine alte Kultur hat so viele Texte hervorgebracht wie die des indischen Subkontinents. Die Hymnen des Ṛgveda, die Epen, die Purāṇas, Hunderte philosophischer, grammatischer, medizinischer und astronomischer Werke – die Sanskrit-Literatur ist gewaltig. Und doch steht die Forschung vor einem Paradox: Gerade für die ältesten Epochen fehlen oft die Ankerpunkte, mit denen sich Ereignisse sicher datieren lassen.\n\nDas hat mehrere Gründe. Die vedischen Texte wurden über viele Jahrhunderte **mündlich** weitergegeben, bevor man sie aufschrieb. Die Schreibmaterialien des Subkontinents – Palmblatt und Birkenrinde – halten dem feuchten Klima nur begrenzt stand. Die meisten erhaltenen Handschriften sind daher nur wenige hundert Jahre alt, auch wenn sie Texte überliefern, die weit älter sind. Und schließlich hatte die Tradition selbst andere Interessen als die moderne Geschichtswissenschaft: Sie bewahrte, was religiös, rituell und ethisch bedeutsam war, nicht notwendig, was sich auf ein Jahr festlegen lässt.\n\n## Fünf Quellengruppen\n\nWas wir über das antike Indien wissen, stammt aus fünf großen Quellengruppen. Jede hat eigene Stärken – und eigene blinde Flecken.\n\n**1. Texte.** Sie sind die reichste Quelle für Vorstellungen, Rituale, Werte und Weltbilder. Ihre Schwäche liegt in der Datierung: Texte wuchsen, wurden ergänzt und umgearbeitet. Für die vedische Literatur lässt sich aus Sprache, Inhalt und gegenseitigen Bezügen eine **relative Chronologie** gewinnen – welcher Text älter ist als welcher –, aber kaum ein absolutes Datum (Witzel 1997). **Kategorie:** Wissenschaftlich gesichert (relative Abfolge), Umstritten (absolute Daten).\n\n**2. Inschriften.** Sie sind datierbar, ortsfest und unverändert erhalten. Die ältesten sicher entzifferten Inschriften Indiens sind die Edikte des Maurya-Kaisers Aśoka aus dem 3. Jahrhundert v. Chr. in Brāhmī- und Kharoṣṭhī-Schrift. Die Entzifferung der Brāhmī durch James Prinsep in den 1830er-Jahren öffnete der Forschung dieses Archiv. **Kategorie:** Wissenschaftlich gesichert.\n\n**3. Archäologie.** Ausgrabungen liefern materielle Befunde – Städte, Werkzeuge, Keramik, Gräber – und mit naturwissenschaftlichen Methoden auch absolute Daten. Ihre Grenze: Gegenstände sprechen nicht. Eine Ruinenstadt verrät nicht von selbst, welche Sprache ihre Bewohner sprachen oder welche Geschichten sie erzählten. Das zeigt sich besonders deutlich bei der Indus-Zivilisation, deren Schrift bis heute unentziffert ist.\n\n**4. Sprachwissenschaft.** Sanskrit gehört zur indogermanischen Sprachfamilie; das vedische Sanskrit steht dem Altiranischen der Avesta besonders nahe. Aus solchen Verwandtschaften lassen sich Wanderungs- und Kontaktgeschichten rekonstruieren. Diese Rekonstruktionen sind methodisch gut begründet, aber sie liefern Modelle, keine Augenzeugenberichte – und ihre Deutung ist teils heftig umstritten (Bryant 2001). **Kategorie:** Wissenschaftliche Hypothese bis Wissenschaftlich gesichert, je nach Einzelfrage.\n\n**5. Naturwissenschaften.** Radiokarbondatierung, Geologie und seit einigen Jahren die Analyse alter DNA haben neue Daten erschlossen – etwa zur Geschichte von Flusssystemen oder zur Herkunft von Bevölkerungsgruppen. Auch hier gilt: Die Daten sind präzise, ihre Verknüpfung mit Texten und Sprachen ist eine Interpretation.\n\nHinzu kommen **Berichte von außen**: Der griechische Gesandte Megasthenes schrieb um 300 v. Chr. über den Maurya-Hof (erhalten nur in Fragmenten bei späteren Autoren), chinesische Pilger wie Faxian (5. Jh.) und Xuanzang (7. Jh.) beschrieben buddhistische Stätten.\n\n## Der Anker der Chronologie\n\nWie gewinnt man überhaupt ein festes Datum? Ein klassisches Beispiel ist die Verknüpfung indischer mit griechischer Überlieferung. Griechische Autoren berichten von einem König *Sandrokottos*, der nach dem Indienzug Alexanders (um 326 v. Chr.) herrschte. Seit dem späten 18. Jahrhundert wird er mit **Candragupta Maurya** gleichgesetzt. Diese Gleichung wurde zu einem Fixpunkt, von dem aus sich die Chronologie der Maurya-Zeit aufbauen ließ – gestützt später durch die Aśoka-Inschriften, die hellenistische Könige namentlich erwähnen. **Kategorie:** Wissenschaftlich gesichert (Forschungskonsens).\n\nFür alles, was vor der Maurya-Zeit liegt, werden die Daten unsicherer. Je weiter man zurückgeht, desto mehr beruhen sie auf relativen Abfolgen, sprachlichen Argumenten und archäologischen Korrelationen.\n\n## Was eine kritische Edition leistet\n\nZurück zum Szenario: Warum fehlt eine berühmte Episode in der Kritischen Edition des Mahābhārata? Zwischen 1919 und 1966 verglich ein Team am Bhandarkar Oriental Research Institute in Pune eine sehr große Zahl von Handschriften aus allen Regionen Indiens (Kritische Edition des Mahābhārata (BORI)). Das Ziel war nicht, „den einen wahren“ Text zu finden, sondern die **älteste erreichbare gemeinsame Textgestalt** zu rekonstruieren. Passagen, die nur in einem Teil der Überlieferung stehen, wurden als wahrscheinliche spätere Zusätze in den Apparat oder in Anhänge verschoben.\n\nDas bedeutet zweierlei. Erstens: Die Kritische Edition ist ein wissenschaftliches Werkzeug, kein religiöser Kanon – für viele Gläubige bleiben die vertrauten Fassungen maßgeblich. Zweitens: Auch die kritische Rekonstruktion ist eine Hypothese über die Textgeschichte, die selbst diskutiert wird (Brockington 1998).\n\n## Überlieferung und Geschichte – zwei verschiedene Fragen\n\nDie wichtigste Unterscheidung dieses Kurses lautet: **Was erzählt ein Text?** und **Was ist historisch geschehen?** sind zwei verschiedene Fragen.\n\nDie Tradition bezeichnet die Epen als *itihāsa*, „so ist es gewesen“. Sie erhebt damit den Anspruch, Vergangenes zu überliefern. Die Geschichtswissenschaft nimmt diesen Anspruch ernst – als Teil des Selbstverständnisses einer Kultur –, prüft ihn aber mit eigenen Mitteln. Romila Thapar hat gezeigt, dass die *itihāsa-purāṇa*-Tradition eine eigene Form historischen Bewusstseins darstellt, die Genealogien, Erinnerung und Legitimation verbindet (Thapar 2002). Das macht sie wertvoll – aber nicht automatisch zu einem Tatsachenbericht.\n\nDaraus folgt eine Haltung, die alle Module trägt: Religiöse Überlieferungen werden **korrekt und respektvoll wiedergegeben**. Ob sie historisch nachweisbar sind, wird **gesondert** und mit offengelegter Evidenz geprüft. Und wo die Quellen keine Entscheidung erlauben, wird das ausgesprochen.\n\n## Die Evidenzkategorien dieses Kurses\n\nJede wesentliche Aussage ist in diesem Kurs einer Kategorie zugeordnet:\n\n| Kategorie | Bedeutung | Beispiel |\n|---|---|---|\n| Primärquellenbeleg | steht nachweislich in einem Text | Die Bhagavad Gītā ist Teil des Bhīṣmaparvan. |\n| Wissenschaftlich gesichert | durch belastbare Evidenz gestützt | Aśoka regierte im 3. Jh. v. Chr. |\n| Wissenschaftliche Hypothese | plausibel, nicht bewiesen | Die Indus-Schrift kodiert eine dravidische Sprache. |\n| Traditionelle Überlieferung | Teil einer religiösen Tradition | Vyāsa verfasste das Mahābhārata. |\n| Umstritten | konkurrierende Interpretationen | Absolute Datierung des Ṛgveda |\n| Ungeklärt | Quellen reichen nicht aus | Historizität des Kurukṣetra-Krieges |\n\n## Drei Fallen\n\nZum Schluss drei typische Fehler, vor denen dieser Kurs warnt:\n\n1. **Rückwärtsbestätigung:** Man setzt ein Datum voraus und sucht dann nur nach Belegen, die passen – etwa Himmelskonstellationen, die sich für fast jedes gewünschte Jahr finden lassen (siehe Sterne, Kalender und Datierungsversuche).\n2. **Übersetzung als Original:** Eine Übersetzung ist immer schon eine Deutung. Begriffe wie *dharma*, *brahman* oder *yuga* haben kein deutsches Gegenstück, das alle Bedeutungen abdeckt.\n3. **Verwechslung der Ebenen:** Ein großer Zeitraum in einem kosmologischen Text ist eine Aussage über das Weltbild – nicht über das Alter der Erde und nicht über das Alter des Textes (siehe Zeit ohne Anfang).",
+          "key_terms": [
+            {
+              "term": "Itihāsa",
+              "iast": "itihāsa",
+              "meaning": "Wörtlich etwa „so ist es gewesen“ (iti ha āsa). Bezeichnung für die Epen Mahābhārata und Rāmāyaṇa als Überlieferung vergangener Ereignisse – ein Anspruch der Tradition, kein Nachweis im modernen Sinn."
+            },
+            {
+              "term": "Kritische Edition",
+              "meaning": "Wissenschaftliche Textausgabe, die aus vielen Handschriften die älteste erreichbare Textgestalt rekonstruiert und Abweichungen in einem Apparat dokumentiert."
+            },
+            {
+              "term": "Śākhā",
+              "iast": "śākhā",
+              "meaning": "„Zweig“ – eine vedische Überlieferungsschule mit eigener Textfassung und eigenem Ritualhandbuch."
+            },
+            {
+              "term": "Terminus post/ante quem",
+              "meaning": "Frühester bzw. spätester möglicher Zeitpunkt für ein Ereignis oder einen Text, abgeleitet aus datierbaren Bezugspunkten."
+            }
+          ],
+          "reflection_questions": [
+            "Warum sind die meisten erhaltenen Sanskrit-Handschriften deutlich jünger als die Texte, die sie überliefern – und was folgt daraus für die Datierung?",
+            "Ein Text beschreibt eine Stadt sehr genau. Reicht das als Beleg dafür, dass die Stadt zur angegebenen Zeit existierte? Was bräuchte man zusätzlich?",
+            "Weshalb ist es problematisch, nur nach Belegen zu suchen, die eine bereits feststehende Datierung bestätigen?"
+          ],
+          "evidence": [
+            "established",
+            "tradition",
+            "disputed"
+          ],
+          "sources": [
+            {
+              "id": "src-thapar-2002",
+              "citation": "Romila Thapar (2002): Early India: From the Origins to AD 1300. Allen Lane, London / University of California Press.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-sukthankar-1933-mbh-ce",
+              "citation": "V. S. Sukthankar, S. K. Belvalkar, P. L. Vaidya (Hrsg.) (1933–1966): The Mahābhārata. For the First Time Critically Edited. Bhandarkar Oriental Research Institute, Poona.",
+              "type": "critical-edition",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-witzel-1997-canon",
+              "citation": "Michael Witzel (1997): The Development of the Vedic Canon and its Schools: The Social and Political Milieu. In: M. Witzel (Hrsg.), Inside the Texts, Beyond the Texts. Harvard Oriental Series, Opera Minora 2, Cambridge (Mass.).",
+              "type": "article",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-brockington-1998-epics",
+              "citation": "John Brockington (1998): The Sanskrit Epics. Handbuch der Orientalistik, Abt. 2, Bd. 12. Brill, Leiden.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-bryant-2001",
+              "citation": "Edwin Bryant (2001): The Quest for the Origins of Vedic Culture: The Indo-Aryan Migration Debate. Oxford University Press.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-flood-1996",
+              "citation": "Gavin Flood (1996): An Introduction to Hinduism. Cambridge University Press.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            }
+          ],
+          "related": [
+            {
+              "id": "mahabharata",
+              "title": "Mahabharata",
+              "kind": "text"
+            },
+            {
+              "id": "rigveda",
+              "title": "Rigveda",
+              "kind": "text"
+            },
+            {
+              "id": "evt-mbh-critical-edition",
+              "title": "Kritische Edition des Mahābhārata (BORI)",
+              "kind": "event"
+            },
+            {
+              "id": "kap-zeit-ohne-anfang",
+              "title": "Zeit ohne Anfang",
+              "kind": "chapter"
+            }
+          ],
+          "updated": "2026-11-07"
+        },
+        {
+          "id": "kap-sanskrit-und-schriften",
+          "order": 2,
+          "title": "Sanskrit, Brāhmī und Devanāgarī – Sprache und Schrift",
+          "status": "planned"
+        },
+        {
+          "id": "kap-zwei-zeitrechnungen",
+          "order": 3,
+          "title": "Zwei Zeitrechnungen: traditionelle und wissenschaftliche Chronologie",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "mod-02-indus",
+      "order": 2,
+      "title": "Die Indus-Zivilisation",
+      "summary": "Die erste urbane Kultur Südasiens: Städte, Handel, Schrift – und die offenen Fragen.",
+      "chapters": [
+        {
+          "id": "kap-staedte-am-indus",
+          "order": 1,
+          "title": "Städte am Indus",
+          "subtitle": "Die Harappa-Kultur",
+          "status": "review",
+          "verification": "partial",
+          "summary": "Im 3. Jahrtausend v. Chr. entstand im Nordwesten Südasiens eine der ersten Stadtkulturen der Welt – planmäßig angelegt, durch Handel mit Mesopotamien verbunden und mit einer Schrift, die bis heute niemand lesen kann. Das Kapitel erzählt ihre Wiederentdeckung, beschreibt das Leben in den Städten und zeigt, welche Fragen offen sind.",
+          "reading_time_minutes": 13,
+          "learning_objectives": [
+            "Lage, Ausdehnung und Phasen der Indus-Zivilisation beschreiben.",
+            "Typische Merkmale der Städte (Stadtplanung, Wasserwirtschaft, Standardisierung) erklären.",
+            "Die Belege für Fernhandel mit Mesopotamien einordnen.",
+            "Erklären, warum politische Organisation, Sprache und Religion der Indus-Kultur offene Fragen sind.",
+            "Die widerlegte „Invasions“-These vom gewaltsamen Ende kennen."
+          ],
+          "scenario_markdown": "Mohenjo-Daro, um 2300 v. Chr. In einer Werkstatt in der Unterstadt sitzt ein Perlenmacher über einem Stück Karneol. Mit einem Bohrer aus einem besonders harten Stein treibt er Stunde um Stunde ein feines Loch durch die längliche Perle. Draußen fließt Abwasser durch einen gemauerten, abgedeckten Kanal neben der Straße.\n\nEin Händler holt einen Korb fertiger Perlen ab. Er versiegelt das Bündel mit einem Tonklumpen und drückt sein Steatitsiegel hinein: ein Tier mit einem Horn, darüber eine Reihe von Zeichen. Wochen später werden diese Perlen vielleicht an der Küste auf ein Schiff verladen – Richtung Golf, in ein Land, dessen Schreiber das Herkunftsland „Meluḫḫa“ nennen.\n\n*Der Perlenmacher und der Händler sind erfunden. Werkstätten, Abwasserkanäle, Siegelabdrücke und Karneolperlen in Mesopotamien sind archäologisch belegt.*\n",
+          "body_markdown": "## Eine Kultur taucht auf\n\nIm September 1924 verkündete John Marshall, der Leiter des Archaeological Survey of India, der Weltöffentlichkeit eine Sensation: Die Ausgrabungen in **Harappa** im Punjab (ab 1921) und in **Mohenjo-Daro** im Sindh (ab 1922) hatten Überreste einer bis dahin unbekannten Stadtkultur freigelegt – älter als alles, was man bis dahin aus Indien kannte, und offensichtlich zeitgleich mit den frühen Hochkulturen Mesopotamiens. Marshalls große Publikation von 1931 machte die „Indus-Zivilisation“ zu einem festen Begriff der Weltgeschichte. **Kategorie:** Wissenschaftlich gesichert.\n\nHeute kennt man über tausend Fundorte. Sie reichen von Belutschistan bis nach Gujarat und vom Indus bis in das Gebiet des heutigen Delhi. Mit einer Fläche von grob geschätzt einer Million Quadratkilometern war das Verbreitungsgebiet größer als das Ägyptens und Mesopotamiens zusammen (Possehl 2002). Zu den wichtigsten Städten zählen neben Harappa und Mohenjo-Daro auch Dholavira in Gujarat und Rakhigarhi in Haryana.\n\n## Drei Phasen\n\nDie Forschung gliedert die Entwicklung in Phasen (nach Kenoyer 1998):\n\n- **Frühe Harappa-Phase** (ca. 3300–2600 v. Chr.): regionale Dorfkulturen, erste befestigte Siedlungen, Vorformen der späteren Zeichen (Frühe Harappa-Phase).\n- **Reife Harappa-Phase** (ca. 2600–1900 v. Chr.): die Blütezeit der Städte mit einheitlichen Gewichten, Siegeln und Schrift (Reife Harappa-Phase (Indus-Zivilisation)).\n- **Späte Harappa-Phase** (ca. 1900–1300 v. Chr.): Aufgabe der großen Städte, Regionalisierung, Verlagerung nach Osten und Süden (Späte Harappa-Phase).\n\nDiese Daten beruhen auf Stratigrafie und Radiokarbondatierungen. **Kategorie:** Wissenschaftlich gesichert (in der Größenordnung; Details regional verschieden).\n\n## Leben in einer geplanten Stadt\n\nWas Besucherinnen und Besucher von Mohenjo-Daro bis heute beeindruckt, ist die **Ordnung**. Die Hauptstraßen verlaufen weitgehend geradlinig, Wohnhäuser aus gebrannten Ziegeln gruppieren sich um Innenhöfe, viele Häuser hatten Waschplätze und Anschluss an ein System abgedeckter Abwasserkanäle. Die Ziegel folgen in weiten Teilen des Gebiets einem einheitlichen Verhältnis von Dicke, Breite und Länge (1 : 2 : 4).\n\nAuf dem erhöhten Westhügel Mohenjo-Daros – von den Ausgräbern „Zitadelle“ genannt – liegt das berühmte **Große Bad**, ein abgedichtetes Becken mit Treppen an beiden Enden. Seine Funktion ist nicht überliefert; eine rituelle Nutzung wird oft vermutet. **Kategorie:** Wissenschaftliche Hypothese.\n\nIn Dholavira legten die Bewohner riesige Wasserreservoirs an, um in der trockenen Landschaft des Kutch Regen- und Flusswasser zu speichern. Diese Anlagen zeigen, wie anpassungsfähig die Indus-Städte an sehr unterschiedliche Umwelten waren.\n\n## Standardisierung und Handel\n\nEin Kennzeichen der reifen Phase ist die **Vereinheitlichung** über große Entfernungen: Würfelförmige Gewichte aus Stein folgen einem festen System (in den kleineren Einheiten jeweils Verdopplungen), Siegel zeigen wiederkehrende Motive, Keramik und Perlen werden in spezialisierten Werkstätten hergestellt (Kenoyer 1998). **Kategorie:** Wissenschaftlich gesichert.\n\nDiese Standardisierung diente auch dem **Fernhandel**. In Mesopotamien wurden Indus-Siegel und Karneolperlen gefunden, die nach Herstellungstechnik aus dem Indus-Gebiet stammen. Keilschrifttexte des späten 3. Jahrtausends nennen Schiffe aus *Meluḫḫa*. Die Gleichsetzung von Meluḫḫa mit dem Indus-Gebiet ist breit akzeptiert. **Kategorie:** Wissenschaftlich gesichert (Handelskontakt) / Wissenschaftliche Hypothese (genaue Gleichsetzung des Namens, Forschungskonsens).\n\nDie Landwirtschaft beruhte auf Weizen und Gerste, regional auch auf Hirse und Reis. Die Indus-Bauern gehören zu den frühesten bekannten Nutzern von **Baumwolle**.\n\n## Stadt ohne König?\n\nHier beginnen die offenen Fragen. In den Indus-Städten fand man bisher **keine eindeutigen Paläste, keine monumentalen Tempel und keine prunkvollen Königsgräber** – anders als in Ägypten oder Mesopotamien. Die bekannte Steatitbüste aus Mohenjo-Daro, der „Priesterkönig“, trägt ihren Namen von den Ausgräbern; ob sie einen Priester, einen König oder etwas ganz anderes darstellt, weiß niemand.\n\nDaraus wurden unterschiedliche Modelle abgeleitet: eine Herrschaft durch Kaufmannseliten, durch Stadträte, durch rituelle Spezialisten oder ein Netz unabhängiger Stadtstaaten. **Kategorie:** Umstritten. Die ehrliche Antwort lautet: Ohne lesbare Texte lässt sich die politische Ordnung nur indirekt erschließen.\n\n## Die unentzifferte Schrift\n\nRund viertausend kurze Inschriften sind bekannt, meist auf Siegeln und Täfelchen, im Durchschnitt nur wenige Zeichen lang. Die Zahl der unterschiedlichen Zeichen wird auf einige hundert geschätzt. Es gibt keine längere zweisprachige Inschrift, die als „Rosettastein“ dienen könnte. Entzifferungsvorschläge – etwa der protodravidische Ansatz Asko Parpolas (1994) – sind wissenschaftlich ernsthaft ausgearbeitet, aber nicht allgemein anerkannt. Einige Forscher bezweifeln sogar, dass die Zeichen überhaupt eine Sprache vollständig wiedergeben. **Kategorie:** Ungeklärt (siehe Ist die Indus-Schrift eine Schrift im linguistischen Sinn, und welche Sprache(n) kodiert sie?).\n\n## Ein Mythos vom Ende\n\nÜber Jahrzehnte erzählte man das Ende der Indus-Städte als Drama: In den 1940er-Jahren deutete Mortimer Wheeler Skelettfunde in Mohenjo-Daro als Opfer eines letzten Massakers und brachte sie mit den kriegerischen Göttern des Ṛgveda in Verbindung. George Dales zeigte 1964, dass diese Skelette aus verschiedenen Schichten und Zeiten stammen und keine Spuren eines einzigen Angriffs belegen („The Mythical Massacre at Mohenjo-daro“). **Kategorie:** Wissenschaftlich gesichert (Widerlegung der Massaker-These).\n\nHeute beschreibt die Forschung keinen plötzlichen Untergang, sondern eine **allmähliche Deurbanisierung** ab etwa 1900 v. Chr. Diskutierte Faktoren sind eine Abschwächung des Monsuns, Verlagerungen von Flussläufen und Veränderungen im Fernhandel. Geowissenschaftliche Studien zeigen etwa, dass die Flüsse des Ghaggar-Hakra-Systems zur Harappa-Zeit überwiegend vom Monsun gespeist wurden (Giosan u. a. 2012). **Kategorie:** Wissenschaftliche Hypothese (Gewichtung der Ursachen umstritten).\n\n## Die Indus-Kultur und die Veden\n\nWie verhält sich die Indus-Zivilisation zur Kultur der vedischen Texte? Die Mehrheit der Forschung datiert den Ṛgveda nach der reifen Harappa-Phase und verweist auf Unterschiede: Die Hymnen kennen Pferd und Streitwagen als zentrale Elemente und beschreiben keine Städte mit Ziegelarchitektur. Eine Gegenposition setzt beide Kulturen ganz oder teilweise gleich und verweist auf Kontinuitäten in der materiellen Kultur. Eine 2019 veröffentlichte Analyse alter DNA aus Rakhigarhi fand bei dem untersuchten Individuum keine steppenbezogene Abstammung (Shinde u. a. 2019); die Bedeutung dieses Einzelbefunds für die Sprachgeschichte wird unterschiedlich gedeutet. **Kategorie:** Umstritten – das geplante Kapitel „Der Sarasvatī-Streit“ wird diese Diskussion vertiefen (siehe Lässt sich die Sarasvatī des Ṛgveda mit dem Ghaggar-Hakra-System gleichsetzen?).",
+          "key_terms": [
+            {
+              "term": "Harappa-Kultur",
+              "meaning": "Nach der ersten ausgegrabenen Stadt benannte Bezeichnung der Indus-Zivilisation; reife Phase ca. 2600–1900 v. Chr."
+            },
+            {
+              "term": "Meluḫḫa",
+              "meaning": "Bezeichnung für ein Handelsland im Osten in mesopotamischen Keilschrifttexten; überwiegend mit dem Indus-Gebiet gleichgesetzt."
+            },
+            {
+              "term": "Zitadelle",
+              "meaning": "Moderne Bezeichnung für den erhöhten Westhügel mancher Indus-Städte; die Funktion der Bauten dort ist teils ungeklärt."
+            },
+            {
+              "term": "Siegel",
+              "meaning": "Kleine, meist quadratische Steatitsiegel mit Tiermotiv und kurzer Inschrift; Hauptträger der Indus-Schrift."
+            }
+          ],
+          "reflection_questions": [
+            "Was können wir aus dem Fehlen von Palästen und Königsgräbern schließen – und was nicht?",
+            "Warum ist die „Massaker“-Deutung der Skelette von Mohenjo-Daro ein Lehrbeispiel für die Gefahr, Befunde nach einer vorgefassten Erzählung zu lesen?",
+            "Wie würde sich unser Bild der Indus-Kultur verändern, wenn ihre Schrift entziffert würde?"
+          ],
+          "evidence": [
+            "established",
+            "hypothesis",
+            "disputed",
+            "unresolved"
+          ],
+          "sources": [
+            {
+              "id": "src-kenoyer-1998",
+              "citation": "Jonathan Mark Kenoyer (1998): Ancient Cities of the Indus Valley Civilization. Oxford University Press / American Institute of Pakistan Studies.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-possehl-2002",
+              "citation": "Gregory L. Possehl (2002): The Indus Civilization: A Contemporary Perspective. AltaMira Press, Walnut Creek.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-marshall-1931",
+              "citation": "John Marshall (Hrsg.) (1931): Mohenjo-daro and the Indus Civilization. Arthur Probsthain, London.",
+              "type": "excavation-report",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-dales-1964",
+              "citation": "George F. Dales (1964): The Mythical Massacre at Mohenjo-daro. Expedition 6(3), University of Pennsylvania Museum.",
+              "type": "article",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-parpola-1994",
+              "citation": "Asko Parpola (1994): Deciphering the Indus Script. Cambridge University Press.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-giosan-2012",
+              "citation": "Liviu Giosan u. a. (2012): Fluvial landscapes of the Harappan civilization. Proceedings of the National Academy of Sciences 109(26).",
+              "type": "article",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-shinde-2019",
+              "citation": "Vasant Shinde u. a. (2019): An Ancient Harappan Genome Lacks Ancestry from Steppe Pastoralists or Iranian Farmers. Cell 179(3).",
+              "type": "article",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            }
+          ],
+          "related": [
+            {
+              "id": "loc-harappa",
+              "title": "Harappa",
+              "kind": "location"
+            },
+            {
+              "id": "loc-mohenjo-daro",
+              "title": "Mohenjo-Daro",
+              "kind": "location"
+            },
+            {
+              "id": "loc-dholavira",
+              "title": "Dholavira",
+              "kind": "location"
+            },
+            {
+              "id": "loc-rakhigarhi",
+              "title": "Rakhigarhi",
+              "kind": "location"
+            },
+            {
+              "id": "evt-early-harappan",
+              "title": "Frühe Harappa-Phase",
+              "kind": "event"
+            },
+            {
+              "id": "evt-mature-harappan",
+              "title": "Reife Harappa-Phase (Indus-Zivilisation)",
+              "kind": "event"
+            },
+            {
+              "id": "evt-late-harappan",
+              "title": "Späte Harappa-Phase",
+              "kind": "event"
+            },
+            {
+              "id": "q-indus-script",
+              "title": "Ist die Indus-Schrift eine Schrift im linguistischen Sinn, und welche Sprache(n) kodiert sie?",
+              "kind": "question"
+            },
+            {
+              "id": "q-sarasvati-identification",
+              "title": "Lässt sich die Sarasvatī des Ṛgveda mit dem Ghaggar-Hakra-System gleichsetzen?",
+              "kind": "question"
+            }
+          ],
+          "updated": "2026-11-07"
+        },
+        {
+          "id": "kap-indus-schrift",
+          "order": 2,
+          "title": "Die unentzifferte Schrift",
+          "status": "planned"
+        },
+        {
+          "id": "kap-sarasvati-debatte",
+          "order": 3,
+          "title": "Der Sarasvatī-Streit: Fluss, Text und Archäologie",
+          "status": "planned"
+        },
+        {
+          "id": "kap-indus-niedergang",
+          "order": 4,
+          "title": "Niedergang und Kontinuität",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "mod-03-veden",
+      "order": 3,
+      "title": "Die Veden",
+      "summary": "Die ältesten Texte Indiens: Hymnen, Ritual und eine dreitausendjährige mündliche Überlieferung.",
+      "chapters": [
+        {
+          "id": "kap-rigveda",
+          "order": 1,
+          "title": "Der Ṛgveda",
+          "subtitle": "Dichtung, Ritual und mündliche Überlieferung",
+          "status": "review",
+          "verification": "partial",
+          "summary": "Der Ṛgveda ist der älteste Text Indiens und eines der ältesten erhaltenen Zeugnisse einer indogermanischen Sprache. Über rund drei Jahrtausende wurde er mündlich so genau weitergegeben, dass selbst die Tonakzente erhalten blieben. Das Kapitel erklärt Aufbau, Götterwelt und Weltbild der Hymnen und stellt die Debatte um ihre Datierung vor.",
+          "reading_time_minutes": 14,
+          "learning_objectives": [
+            "Den Aufbau des Ṛgveda (Maṇḍalas, Hymnen, Verse, Familienbücher) beschreiben.",
+            "Die wichtigsten Gottheiten und Grundbegriffe (ṛta, yajña) erläutern.",
+            "Die Techniken der mündlichen Überlieferung und ihre Genauigkeit erklären.",
+            "Die Argumente für die übliche Datierung und die Gegenpositionen darstellen.",
+            "Zwischen dem traditionellen Verständnis (apauruṣeya) und der historischen Fragestellung unterscheiden."
+          ],
+          "scenario_markdown": "Ein Hof in Kerala, früh am Morgen. Ein zwölfjähriger Junge sitzt seinem Lehrer gegenüber. Der Lehrer spricht eine Zeile vor, der Junge wiederholt sie – einmal, zweimal, zehnmal. Dabei bewegt er die rechte Hand: hebt sie bei einem hohen Ton, senkt sie bei einem tiefen. Dann wird die Zeile zerlegt, Wort für Wort. Dann werden die Wörter paarweise verschränkt: erstes und zweites, zweites und erstes, erstes und zweites. Dann rückwärts.\n\nWas hier geübt wird, ist kein Lesen. Es gibt kein Buch auf dem Boden. Es ist eine Technik, mit der Menschen einen Text über Generationen weitergegeben haben – nicht nur seine Wörter, sondern seine Töne.\n\n*Szene illustrativ. Die beschriebenen Rezitationstechniken werden bis heute praktiziert; die UNESCO führt die vedische Rezitation seit 2008 in ihrer Liste des immateriellen Kulturerbes.*\n",
+          "body_markdown": "## Ein Text aus Klang\n\nDer Ṛgveda ist keine Erzählung und kein Lehrbuch. Er ist eine Sammlung von über tausend **Hymnen** – kunstvoller, oft rätselhafter Dichtung, die an Götter gerichtet ist und im Ritual vorgetragen wurde. Seine Sprache, das vedische Sanskrit, ist eine ältere Form des späteren klassischen Sanskrit und steht dem Altiranischen der Avesta so nahe, dass sich ganze Verse fast Laut für Laut übertragen lassen. **Kategorie:** Wissenschaftlich gesichert.\n\nDie Tradition versteht den Veda als *apauruṣeya*, „nicht von Menschen gemacht“. Die Seher (*ṛṣi*) haben die Hymnen demnach nicht erfunden, sondern „geschaut“ und weitergegeben. **Kategorie:** Traditionelle Überlieferung. Die historische Forschung fragt dagegen, wann, wo und von wem die Hymnen gedichtet und gesammelt wurden – eine andere Frage, die das religiöse Verständnis weder bestätigt noch widerlegt.\n\n## Aufbau: zehn Bücher\n\nDie überlieferte Fassung – die Rezension der Śākala-Schule – umfasst **zehn Bücher (Maṇḍalas)** mit 1.028 Hymnen (einschließlich elf Zusatzhymnen) und gut zehntausend Versen (Jamison & Brereton 2014).\n\n- **Bücher 2 bis 7** sind die sogenannten **Familienbücher**. Jedes ist einer Dichterfamilie zugeordnet – etwa Viśvāmitra (Buch 3) oder Vasiṣṭha (Buch 7) – und intern nach Gottheiten und Hymnenlänge geordnet. Sie gelten als ältester Kern.\n- **Buch 9** sammelt alle Hymnen an **Soma**, den vergöttlichten Trank, der beim Ritual gepresst und gereinigt wird.\n- **Bücher 1 und 10** sind jünger. Besonders Buch 10 enthält Texte, die schon über das Ritual hinausfragen – etwa nach dem Ursprung der Welt.\n\n**Kategorie:** Primärquellenbeleg (Aufbau) / Wissenschaftlich gesichert (relative Altersschichtung).\n\n## Götter, Opfer und Ordnung\n\nDer erste Vers des Ṛgveda richtet sich an **Agni**, das Feuer:\n\n> agním īḷe puróhitaṃ yajñásya devám ṛtvíjam\n> *(Ṛgveda 1.1.1, erste Hälfte; Akzente nach der Saṃhitā)*\n\n*Arbeitsübersetzung:* „Agni rufe ich an, den Vorangestellten, den Gott des Opfers, den Priester zur rechten Zeit.“\n\nAgni ist der Bote zwischen Menschen und Göttern: Was ins Feuer gegeben wird, trägt er hinauf. Die meisten Hymnen gelten **Indra**, dem Kriegergott, der den Drachen Vṛtra erschlägt und die Wasser befreit. Daneben stehen **Soma**, **Varuṇa** und **Mitra** als Hüter von Wahrheit und Vertrag, **Uṣas**, die Morgenröte, und die **Aśvins**, ein helfendes Zwillingspaar.\n\nZwei Begriffe halten diese Welt zusammen. **Yajña**, das Opfer, ist der Austausch zwischen Menschen und Göttern. **Ṛta** ist die Ordnung, nach der die Sonne aufgeht, die Jahreszeiten wechseln und Menschen wahrhaftig handeln sollen. Aus *ṛta* entwickelt sich später der zentrale Begriff *dharma*.\n\nBemerkenswert ist ein Vers, der oft als frühe Reflexion über das Göttliche zitiert wird:\n\n> ékaṃ sád víprā bahudhā́ vadanti\n> *(Ṛgveda 1.164.46)*\n\n*Arbeitsübersetzung:* „Das eine Seiende benennen die Dichter auf vielerlei Weise.“\n\nWie weit diese Zeile schon einen philosophischen Monismus ausdrückt, ist eine Frage der Interpretation; spätere Traditionen haben sie so gelesen. **Kategorie:** Primärquellenbeleg (Wortlaut) / Umstritten (Deutung).\n\n## Die genaueste Überlieferung der Antike\n\nÜber viele Jahrhunderte wurde der Ṛgveda **ohne Schrift** weitergegeben. Damit kein Laut verloren ging, entwickelten die Schulen mehrere Vortragsweisen (*pāṭha*): den zusammenhängenden Text (*saṃhitāpāṭha*), den Wort-für-Wort-Text (*padapāṭha*), in dem jedes Wort ohne Lautverschmelzung erscheint, und kunstvolle Permutationen wie *krama*, *jaṭā* und *ghana*, in denen Wortpaare vorwärts und rückwärts verschränkt werden. Wer alle Formen beherrscht, kann Fehler in einer Form an den anderen erkennen. Auch die drei **Tonakzente** werden mitgelernt (Staal 2008).\n\nDas Ergebnis ist eine Überlieferung von außergewöhnlicher Treue. Dass verschiedene, voneinander unabhängige Traditionslinien praktisch denselben Text bewahren, gilt als starkes Argument dafür, dass der überlieferte Wortlaut sehr alt ist. **Kategorie:** Wissenschaftlich gesichert. Die UNESCO hat die vedische Rezitation 2008 in die Repräsentative Liste des immateriellen Kulturerbes eingetragen.\n\nAufgeschrieben wurde der Text erst viel später; die erhaltenen Handschriften sind mehrere Jahrtausende jünger als die Hymnen. Die erste gedruckte Gesamtausgabe mit dem Kommentar Sāyaṇas besorgte Friedrich Max Müller zwischen 1849 und 1874.\n\n## Wann entstand der Ṛgveda?\n\nDie Hymnen selbst nennen kein Datum. Die übliche wissenschaftliche Datierung des Kernbestands auf **etwa 1500–1000 v. Chr.** (Entstehung des Ṛgveda (Kernbestand)) beruht auf einer Kombination von Argumenten:\n\n1. **Sprachvergleich:** Die enge Nähe zum Avestischen und die Rekonstruktion einer gemeinsamen indo-iranischen Vorstufe.\n2. **Ein Fixpunkt außerhalb Indiens:** Ein Vertrag zwischen dem Hethiterkönig und dem Herrscher von Mitanni in Nordsyrien (14. Jh. v. Chr.) ruft Götter an, deren Namen Mitra, Varuṇa, Indra und den Nāsatyas entsprechen. Das zeigt, dass indo-arische Sprachformen zu dieser Zeit bereits existierten.\n3. **Materielle Kultur:** Pferd und speichenradiger Streitwagen sind im Ṛgveda zentral; Eisen wird im ältesten Bestand nicht sicher erwähnt.\n4. **Relative Chronologie:** Die Abfolge der vedischen Textschichten bis zu Texten, die sich mit späteren datierbaren Verhältnissen verbinden lassen (Witzel 1997).\n\n**Kategorie:** Wissenschaftliche Hypothese (Mehrheitsposition).\n\n**Gegenpositionen** datieren den Ṛgveda deutlich früher, teils ins 3. oder 4. Jahrtausend v. Chr., und sehen ihn als Zeugnis einer in Indien selbst entstandenen Kultur, die mit der Indus-Zivilisation verbunden sein könnte. Sie stützen sich u. a. auf die Deutung des Flusses Sarasvatī (Lässt sich die Sarasvatī des Ṛgveda mit dem Ghaggar-Hakra-System gleichsetzen?) und auf astronomische Datierungsversuche, wie sie bereits Bal Gangadhar Tilak 1893 unternahm. Die astronomischen Argumente gelten in der Fachforschung als methodisch schwach, weil sie auf mehrdeutigen Versen beruhen (siehe Sterne, Kalender und Datierungsversuche). Neuere Studien alter DNA beschreiben einen Zustrom steppenbezogener Abstammung nach Südasien im 2. Jahrtausend v. Chr. (Narasimhan u. a. 2019); viele Forscher sehen darin eine Stütze für Modelle der Einwanderung indo-arischer Sprachen, andere bestreiten, dass sich Gene und Sprachen so direkt verknüpfen lassen. **Kategorie:** Umstritten. Eine sachliche Darstellung aller Seiten bietet Bryant (2001).\n\n## Die Welt der Hymnen\n\nDie Geografie des Ṛgveda ist vor allem die des **Punjab** und seiner Nachbarregionen – das „Land der sieben Flüsse“. Ein berühmter Hymnus (10.75) zählt die Flüsse von Ost nach West auf, von der Gaṅgā bis zu Zuflüssen des Indus. Die Menschen der Hymnen leben von Viehzucht, besonders von Rindern, kennen Ackerbau, führen Kriege zwischen Stämmen und feiern Dichterwettstreite am Hof ihrer Fürsten. Städte im Sinne der Indus-Kultur beschreiben sie nicht.\n\nDamit ist der Ṛgveda zugleich religiöse Dichtung **und** historisches Zeugnis – aber eines, das nicht berichten will, sondern preisen, bitten und deuten. Wer ihn als Geschichtsquelle liest, muss diese Eigenart immer mitdenken.",
+          "key_terms": [
+            {
+              "term": "Saṃhitā",
+              "iast": "saṃhitā",
+              "meaning": "„Zusammenstellung“ – die Sammlung der Mantras eines Veda; beim Ṛgveda die Hymnensammlung."
+            },
+            {
+              "term": "Maṇḍala",
+              "iast": "maṇḍala",
+              "meaning": "„Kreis“ – eines der zehn Bücher des Ṛgveda."
+            },
+            {
+              "term": "Sūkta",
+              "iast": "sūkta",
+              "meaning": "„Wohlgesprochenes“ – ein Hymnus."
+            },
+            {
+              "term": "Ṛṣi",
+              "iast": "ṛṣi",
+              "meaning": "Seher-Dichter, dem ein Hymnus zugeschrieben wird; nach der Tradition hat er ihn „geschaut“, nicht erfunden."
+            },
+            {
+              "term": "Ṛta",
+              "iast": "ṛta",
+              "meaning": "Die kosmische und rituelle Ordnung, die Natur, Opfer und Moral zusammenhält; Vorläuferbegriff zu dharma."
+            },
+            {
+              "term": "Apauruṣeya",
+              "iast": "apauruṣeya",
+              "meaning": "„Nicht von Menschen gemacht“ – traditionelle Lehre, dass der Veda ewig und ohne menschlichen Verfasser ist."
+            }
+          ],
+          "reflection_questions": [
+            "Wie kann eine mündliche Überlieferung genauer sein als eine schriftliche? Welche Techniken machen das möglich?",
+            "Welche Arten von Argumenten werden zur Datierung des Ṛgveda verwendet, und wie unterscheiden sie sich in ihrer Beweiskraft?",
+            "Was bedeutet es für die Interpretation, dass der Ṛgveda keine Erzählung, sondern eine Sammlung ritueller Dichtung ist?"
+          ],
+          "evidence": [
+            "primary",
+            "established",
+            "hypothesis",
+            "disputed",
+            "tradition"
+          ],
+          "sources": [
+            {
+              "id": "src-jamison-brereton-2014",
+              "citation": "Stephanie W. Jamison, Joel P. Brereton (2014): The Rigveda: The Earliest Religious Poetry of India. South Asia Research. Oxford University Press.",
+              "type": "translation",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-witzel-1997-canon",
+              "citation": "Michael Witzel (1997): The Development of the Vedic Canon and its Schools: The Social and Political Milieu. In: M. Witzel (Hrsg.), Inside the Texts, Beyond the Texts. Harvard Oriental Series, Opera Minora 2, Cambridge (Mass.).",
+              "type": "article",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-staal-2008-vedas",
+              "citation": "Frits Staal (2008): Discovering the Vedas: Origins, Mantras, Rituals, Insights. Penguin Books India, New Delhi.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-unesco-2008-vedic-chanting",
+              "citation": "UNESCO (2008): Tradition of Vedic chanting.",
+              "type": "institutional",
+              "quality": "medium",
+              "verified": false,
+              "url": "https://ich.unesco.org/en/RL/tradition-of-vedic-chanting-00062"
+            },
+            {
+              "id": "src-bryant-2001",
+              "citation": "Edwin Bryant (2001): The Quest for the Origins of Vedic Culture: The Indo-Aryan Migration Debate. Oxford University Press.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-narasimhan-2019",
+              "citation": "Vagheesh M. Narasimhan u. a. (2019): The formation of human populations in South and Central Asia. Science 365(6457).",
+              "type": "article",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-tilak-1893-orion",
+              "citation": "Bal Gangadhar Tilak (1893): The Orion, or Researches into the Antiquity of the Vedas. Bombay.",
+              "type": "book",
+              "quality": "low",
+              "verified": false,
+              "url": null
+            }
+          ],
+          "related": [
+            {
+              "id": "rigveda",
+              "title": "Rigveda",
+              "kind": "text"
+            },
+            {
+              "id": "evt-rigveda-composition",
+              "title": "Entstehung des Ṛgveda (Kernbestand)",
+              "kind": "event"
+            },
+            {
+              "id": "q-rigveda-dating",
+              "title": "Welche Argumente stützen die verschiedenen Datierungen des Ṛgveda – und wie belastbar sind sie?",
+              "kind": "question"
+            },
+            {
+              "id": "q-sarasvati-identification",
+              "title": "Lässt sich die Sarasvatī des Ṛgveda mit dem Ghaggar-Hakra-System gleichsetzen?",
+              "kind": "question"
+            },
+            {
+              "id": "kap-staedte-am-indus",
+              "title": "Städte am Indus",
+              "kind": "chapter"
+            }
+          ],
+          "updated": "2026-11-07"
+        },
+        {
+          "id": "kap-vier-veden",
+          "order": 2,
+          "title": "Die vier Veden im Vergleich",
+          "status": "planned"
+        },
+        {
+          "id": "kap-brahmanas-sutras",
+          "order": 3,
+          "title": "Brāhmaṇas, Āraṇyakas und Sūtras",
+          "status": "planned"
+        },
+        {
+          "id": "kap-schoepfungshymnen",
+          "order": 4,
+          "title": "Schöpfungshymnen: Nāsadīya- und Puruṣa-Sūkta",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "mod-04-upanishaden",
+      "order": 4,
+      "title": "Upaniṣaden und indische Philosophie",
+      "summary": "Vom Ritual zur Erkenntnis: Brahman, Ātman, Karma und die philosophischen Schulen.",
+      "chapters": [
+        {
+          "id": "kap-brahman-atman",
+          "order": 1,
+          "title": "Brahman und Ātman",
+          "subtitle": "Die Wende der Upaniṣaden",
+          "status": "review",
+          "verification": "partial",
+          "summary": "In den Upaniṣaden verschiebt sich der Schwerpunkt des vedischen Denkens vom richtigen Vollzug des Opfers zur Erkenntnis. Zwei Begriffe treten ins Zentrum – Brahman, die tragende Wirklichkeit des Kosmos, und Ātman, das innerste Selbst. Das Kapitel erzählt, wie diese Texte entstanden, was sie lehren und wie unterschiedlich spätere Schulen sie gelesen haben.",
+          "reading_time_minutes": 13,
+          "learning_objectives": [
+            "Die ältesten Upaniṣaden benennen und zeitlich einordnen.",
+            "Die Begriffe Brahman und Ātman und ihre Beziehung zueinander erklären.",
+            "Die frühen Lehren von Karma und Wiedergeburt in den Upaniṣaden wiedergeben.",
+            "Verstehen, warum Advaita, Viśiṣṭādvaita und Dvaita dieselben Texte unterschiedlich deuten.",
+            "Die Übersetzungsdebatte um „tat tvam asi“ nachvollziehen."
+          ],
+          "scenario_markdown": "*Nacherzählt nach Chāndogya-Upaniṣad 6.12–13.*\n\nDer junge Śvetaketu ist nach zwölf Jahren Studium nach Hause zurückgekehrt, stolz auf alles, was er gelernt hat. Sein Vater Uddālaka Āruṇi stellt ihm eine einfache Aufgabe: „Hol mir eine Frucht vom Feigenbaum.“ – „Hier ist sie.“ – „Brich sie auf. Was siehst du?“ – „Winzige Samen.“ – „Brich einen davon auf. Was siehst du?“ – „Nichts.“\n\n„Aus diesem feinen Etwas, das du nicht siehst, ist der große Baum gewachsen“, sagt der Vater.\n\nAm nächsten Tag soll Śvetaketu Salz in einen Krug Wasser legen. Am Morgen findet er es nicht mehr. „Koste von oben.“ – „Salzig.“ – „Von der Mitte.“ – „Salzig.“ – „Von unten.“ – „Salzig.“ Das Salz ist überall, aber nicht zu sehen. Und jedes Mal schließt der Vater mit demselben Satz: *tat tvam asi.*\n",
+          "body_markdown": "## Vom Opfer zur Erkenntnis\n\nDie vedische Religion des Ṛgveda dreht sich um das Opfer. In den folgenden Jahrhunderten entstand eine umfangreiche Literatur, die das Ritual erklärt und deutet – die Brāhmaṇas und Āraṇyakas. An ihrem Ende, oft als ihr letzter Teil, stehen Texte einer neuen Art: die **Upaniṣaden**. Darum heißen sie auch *Vedānta*, „Ende des Veda“.\n\nIhre Frage ist nicht mehr nur, *wie* das Opfer richtig vollzogen wird, sondern *was* hinter allem steht – hinter dem Ritual, dem Kosmos und dem Menschen selbst. Die Antwort suchen sie nicht in Handlung, sondern in **Erkenntnis** (*jñāna*). **Kategorie:** Wissenschaftlich gesichert (Forschungskonsens zur Entwicklungslinie).\n\n## Die ältesten Texte\n\nDie beiden ältesten und umfangreichsten Upaniṣaden sind die **Bṛhadāraṇyaka-** und die **Chāndogya-Upaniṣad**. Patrick Olivelle datiert sie in die Zeit vor dem Auftreten des Buddha, etwa ins 7. bis 6. Jahrhundert v. Chr.; es folgen Taittirīya, Aitareya und Kauṣītaki. Spätere, meist in Versen verfasste Upaniṣaden wie Kaṭha, Īśā, Śvetāśvatara und Muṇḍaka stammen aus den letzten vorchristlichen Jahrhunderten (Olivelle 1998). **Kategorie:** Wissenschaftliche Hypothese (breit akzeptiert, Einzeldaten unsicher).\n\nDie Tradition kennt eine Liste von **108 Upaniṣaden**; als „Haupt-Upaniṣaden“ gelten meist die zehn bis dreizehn, die der Philosoph Śaṅkara kommentierte oder zitierte. **Kategorie:** Traditionelle Überlieferung.\n\nWichtig ist: Die Upaniṣaden sind **kein einheitliches System**. Es sind Sammlungen von Dialogen, Lehrgesprächen, Gleichnissen und Spekulationen, in denen verschiedene Lehrer verschiedene Positionen vertreten.\n\n## Brahman – die eine Wirklichkeit\n\nIm Ṛgveda bezeichnet *bráhman* die Macht der heiligen Formulierung – das Wort, das im Ritual wirkt. In den Upaniṣaden wird **Brahman** zum Namen für die letzte Wirklichkeit, aus der alles hervorgeht, in der alles besteht und in die alles zurückkehrt. Die Brücke ist naheliegend: Wenn das heilige Wort die Welt im Ritual ordnet, dann liegt in ihm vielleicht die Kraft, die die Welt überhaupt trägt.\n\n## Ātman – das Selbst\n\n**Ātman** bedeutet zunächst einfach „Selbst“, auch „Atem“ oder „Leib“. Die Upaniṣaden fragen nach dem innersten Selbst, das wahrnimmt, aber selbst nicht wahrgenommen werden kann. Der Lehrer Yājñavalkya antwortet in der Bṛhadāraṇyaka-Upaniṣad, man könne dieses Selbst nur negativ bestimmen: *neti neti*, „nicht so, nicht so“. Es ist nicht der Körper, nicht der Atem, nicht der Gedanke – sondern das, was all das erfährt. **Kategorie:** Primärquellenbeleg.\n\n## Die große Gleichung\n\nDie berühmteste Lehre der Upaniṣaden verbindet beide Begriffe: Das innerste Selbst des Menschen ist mit der Wirklichkeit des Kosmos identisch oder ihr wesensgleich. Zwei Sätze sind dafür zu Formeln geworden, die die spätere Tradition *mahāvākya*, „große Sätze“, nennt:\n\n> ahaṃ brahmāsmi — „Ich bin Brahman.“ *(Bṛhadāraṇyaka-Upaniṣad 1.4.10)*\n>\n> tat tvam asi — traditionell: „Das bist du.“ *(Chāndogya-Upaniṣad 6.8.7 und folgende)*\n\n*Übersetzungen: gängige Wiedergaben, hier zur Erläuterung.*\n\nGerade die zweite Formel zeigt, wie viel an der Übersetzung hängt. Der Sanskritforscher Joel Brereton hat 1986 argumentiert, dass *tat* hier grammatisch eher adverbial („so, auf diese Weise“) zu lesen sei: „So bist du“ – also: Du bist ebenso beschaffen wie das feine, unsichtbare Wesen, das alles durchdringt. Die Aussage wäre dann eine Gleichsetzung der Beschaffenheit, nicht unbedingt eine Identität der Person mit dem Absoluten (Brereton 1986). **Kategorie:** Primärquellenbeleg (Wortlaut) / Umstritten (Übersetzung und Deutung).\n\n## Karma und Wiedergeburt\n\nIn den ältesten Upaniṣaden tauchen erstmals deutlich zwei Lehren auf, die das indische Denken prägen werden. Die eine betrifft das **Karma**:\n\n> yathākārī yathācārī tathā bhavati\n> *(Bṛhadāraṇyaka-Upaniṣad 4.4.5)*\n\n*Arbeitsübersetzung:* „Wie einer handelt, wie einer sich verhält, so wird er.“\n\nDie andere ist die Lehre von der **Wiedergeburt** (*saṃsāra*), etwa in der „Lehre von den fünf Feuern“, die den Weg der Verstorbenen durch Mond, Regen, Pflanzen und Nahrung zurück in eine neue Geburt beschreibt. Daran schließt sich die Frage an, wie man diesem Kreislauf entkommen kann – die Frage nach **Mokṣa**, der Befreiung. Die Antwort der Upaniṣaden lautet: durch die Erkenntnis des Selbst. **Kategorie:** Primärquellenbeleg / Wissenschaftlich gesichert (dass diese Lehren hier erstmals ausführlich erscheinen; ihre genaue Herkunft wird diskutiert).\n\nBemerkenswert ist, dass die Lehre von Karma und Wiedergeburt in den Texten zum Teil als **neues, ungewöhnliches Wissen** dargestellt wird, das von Kriegern (*kṣatriya*) an Brahmanen weitergegeben wird. Ob das auf einen nicht-brahmanischen Ursprung hinweist, ist eine Hypothese der Forschung. **Kategorie:** Umstritten.\n\n## Ein Text, drei Wahrheiten\n\nWeil die Upaniṣaden kein System sind, wurden sie von späteren Philosophen sehr unterschiedlich gelesen – stets mit dem Anspruch, ihre wahre Bedeutung zu erschließen:\n\n- **Advaita Vedānta** („Nicht-Zweiheit“), klassisch vertreten von **Śaṅkara** (meist ins 8. Jh. datiert): Ātman und Brahman sind schlechthin identisch; die Vielheit der Welt ist Erscheinung, hervorgebracht durch Unwissenheit (*avidyā*).\n- **Viśiṣṭādvaita** („qualifizierte Nicht-Zweiheit“), vertreten von **Rāmānuja** (11./12. Jh.): Die Seelen und die Welt sind real, aber als Leib Gottes untrennbar mit Brahman verbunden.\n- **Dvaita** („Zweiheit“), vertreten von **Madhva** (13. Jh.): Gott, Seelen und Welt sind ewig verschieden; Befreiung geschieht durch Hingabe und göttliche Gnade.\n\nAlle drei Schulen berufen sich auf dieselben Texte, dieselben Formeln, oft dieselben Verse. **Kategorie:** Traditionelle Überlieferung (jeweilige Lehre) / Wissenschaftlich gesichert (Existenz und Datierung der Schulen in groben Zügen). Für die Forschung ist das kein Widerspruch, sondern ein Befund: Die Upaniṣaden sind offen genug, um sehr verschiedene Philosophien zu tragen.\n\n## Ausblick\n\nDie Gedanken der Upaniṣaden wirken weit über die vedische Tradition hinaus – in der Bhagavad Gītā, die Erkenntnis, Handeln und Hingabe verbindet, in den philosophischen Schulen von Sāṃkhya und Yoga und in der Auseinandersetzung mit Buddhismus und Jainismus, die die Fragen nach Karma, Selbst und Befreiung auf ganz eigene Weise beantworten.",
+          "key_terms": [
+            {
+              "term": "Upaniṣad",
+              "iast": "upaniṣad",
+              "meaning": "Traditionell als „Sitzen nahe (beim Lehrer)“ gedeutet; in der Forschung auch als „Verbindung, Entsprechung“ verstanden – nämlich zwischen Ritual, Kosmos und Mensch."
+            },
+            {
+              "term": "Brahman",
+              "iast": "brahman",
+              "meaning": "Ursprünglich die Kraft der heiligen Formulierung im Ritual; in den Upaniṣaden die eine, alles tragende Wirklichkeit."
+            },
+            {
+              "term": "Ātman",
+              "iast": "ātman",
+              "meaning": "Selbst, Wesenskern des Menschen; ursprünglich auch „Atem, Körper, Person“."
+            },
+            {
+              "term": "Saṃsāra",
+              "iast": "saṃsāra",
+              "meaning": "Der Kreislauf von Tod und Wiedergeburt."
+            },
+            {
+              "term": "Mokṣa",
+              "iast": "mokṣa",
+              "meaning": "Befreiung aus dem Kreislauf der Wiedergeburten."
+            },
+            {
+              "term": "Neti neti",
+              "iast": "neti neti",
+              "meaning": "„Nicht so, nicht so“ – Formel Yājñavalkyas: Das Selbst lässt sich durch keine positive Beschreibung fassen."
+            }
+          ],
+          "reflection_questions": [
+            "Warum passt es, dass die ältesten Upaniṣaden in Texte eingebettet sind, die eigentlich das Ritual erklären?",
+            "Was verändert sich, wenn man „tat tvam asi“ nicht als „Das bist du“, sondern als „So bist du“ übersetzt?",
+            "Wie können drei philosophische Schulen dieselben Upaniṣaden als Beleg für entgegengesetzte Lehren anführen?"
+          ],
+          "evidence": [
+            "primary",
+            "established",
+            "hypothesis",
+            "disputed",
+            "tradition"
+          ],
+          "sources": [
+            {
+              "id": "src-olivelle-1998-upanishads",
+              "citation": "Patrick Olivelle (1998): The Early Upaniṣads: Annotated Text and Translation. South Asia Research. Oxford University Press.",
+              "type": "translation",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-brereton-1986-tat-tvam-asi",
+              "citation": "Joel P. Brereton (1986): „Tat Tvam Asi“ in Context. Zeitschrift der Deutschen Morgenländischen Gesellschaft 136.",
+              "type": "article",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-witzel-1997-canon",
+              "citation": "Michael Witzel (1997): The Development of the Vedic Canon and its Schools: The Social and Political Milieu. In: M. Witzel (Hrsg.), Inside the Texts, Beyond the Texts. Harvard Oriental Series, Opera Minora 2, Cambridge (Mass.).",
+              "type": "article",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-flood-1996",
+              "citation": "Gavin Flood (1996): An Introduction to Hinduism. Cambridge University Press.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            }
+          ],
+          "related": [
+            {
+              "id": "rigveda",
+              "title": "Rigveda",
+              "kind": "text"
+            },
+            {
+              "id": "kap-rigveda",
+              "title": "Der Ṛgveda",
+              "kind": "chapter"
+            },
+            {
+              "id": "kap-gita-handeln",
+              "title": "Die Bhagavad Gītā",
+              "kind": "chapter"
+            }
+          ],
+          "updated": "2026-11-07"
+        },
+        {
+          "id": "kap-karma-samsara-moksha",
+          "order": 2,
+          "title": "Karma, Saṃsāra und Mokṣa",
+          "status": "planned"
+        },
+        {
+          "id": "kap-vedanta-schulen",
+          "order": 3,
+          "title": "Advaita, Viśiṣṭādvaita, Dvaita – die Schulen des Vedānta",
+          "status": "planned"
+        },
+        {
+          "id": "kap-samkhya-yoga",
+          "order": 4,
+          "title": "Sāṃkhya und Yoga",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "mod-05-mahabharata",
+      "order": 5,
+      "title": "Das Mahābhārata",
+      "summary": "Das große Epos: Entstehung, Erzählung, Figuren und die Frage nach dem historischen Kern.",
+      "chapters": [
+        {
+          "id": "kap-mahabharata-epos",
+          "order": 1,
+          "title": "Das Mahābhārata",
+          "subtitle": "Ein Epos und seine Geschichte",
+          "status": "review",
+          "verification": "partial",
+          "summary": "Mit rund 75.000 Versen in der Kritischen Edition ist das Mahābhārata eines der längsten Werke der Weltliteratur. Es erzählt vom Bruderkrieg im Haus der Kuru und enthält zugleich Philosophie, Recht, Mythologie und Lebenslehre. Das Kapitel führt durch Erzählung, Aufbau und Textgeschichte und fragt, was sich über einen historischen Kern sagen lässt.",
+          "reading_time_minutes": 15,
+          "learning_objectives": [
+            "Die Haupthandlung des Mahābhārata in ihren Grundzügen wiedergeben.",
+            "Die 18 Parvans benennen und die Rahmenerzählungen erklären.",
+            "Die Entstehungsmodelle (langes Wachstum vs. planvolle Komposition) gegenüberstellen.",
+            "Die Arbeit der Kritischen Edition einordnen.",
+            "Zwischen der Historizität der Kuru als Volk und der Historizität des erzählten Krieges unterscheiden."
+          ],
+          "scenario_markdown": "*Frei gestaltet nach der Rahmenerzählung des Ādiparvan.*\n\nIm Naimiṣa-Wald haben sich Seher zu einem großen Opfer versammelt, das zwölf Jahre dauern soll. In einer Pause erscheint Ugraśravas, ein Erzähler aus der Familie der Sūtas, der Barden. Der Älteste der Versammlung, Śaunaka, bittet ihn: „Erzähl uns die Geschichte, die du gehört hast.“\n\nUgraśravas beginnt – aber nicht mit dem Krieg. Er erzählt, wie er selbst die Geschichte gehört hat: beim Schlangenopfer des Königs Janamejaya, wo der Schüler Vaiśampāyana sie vortrug, so wie er sie von seinem Lehrer Vyāsa gelernt hatte. Und Vyāsa ist nicht nur der Dichter – er ist der Großvater der Helden, über die er erzählt.\n\nDie Zuhörer im Wald hören also eine Geschichte über eine Geschichte über eine Geschichte. Und irgendwo darin: einen Krieg.\n",
+          "body_markdown": "## „Was hier ist, ist auch anderswo“\n\nDas Mahābhārata sagt über sich selbst:\n\n> dharme cārthe ca kāme ca mokṣe ca bharatarṣabha /\n> yad ihāsti tad anyatra yan nehāsti na tat kvacit //\n> *(Mahābhārata 1.56.33; Stelle nach der Kritischen Edition prüfen)*\n\n*Arbeitsübersetzung:* „Was Recht, Nutzen, Begehren und Befreiung betrifft, o Stier der Bharatas: Was hier ist, findet sich auch anderswo; was hier nicht ist, findet sich nirgends.“\n\nDer Anspruch ist enzyklopädisch, und er ist nicht übertrieben. Neben der Haupthandlung enthält das Epos ganze Bücher über Königsrecht, Ethik und Befreiung, Hunderte eingeschobener Geschichten – darunter die von Nala und Damayantī oder von Sāvitrī – und die Bhagavad Gītā. In der Vulgata wird der Umfang traditionell mit hunderttausend Versen angegeben; die Kritische Edition umfasst rund 75.000. **Kategorie:** Primärquellenbeleg.\n\n## Die Geschichte in wenigen Sätzen\n\nIm Königshaus der **Kuru** von Hastināpura sind zwei Brüder Erben: der blinde **Dhṛtarāṣṭra** und **Pāṇḍu**. Pāṇḍus fünf Söhne – die **Pāṇḍavas** Yudhiṣṭhira, Bhīma, Arjuna, Nakula und Sahadeva – wachsen gemeinsam mit den hundert Söhnen Dhṛtarāṣṭras auf, den **Kauravas**, angeführt von Duryodhana. Rivalität wird zu Hass. Die Pāṇḍavas überleben einen Mordanschlag, gewinnen gemeinsam die Prinzessin Draupadī zur Frau und gründen eine eigene Hauptstadt.\n\nDann verliert Yudhiṣṭhira in einem manipulierten **Würfelspiel** alles: sein Reich, seine Brüder, sich selbst und Draupadī, die vor der Versammlung gedemütigt wird. Die Pāṇḍavas müssen zwölf Jahre im Wald und ein dreizehntes unerkannt leben. Als sie danach ihr Reich zurückfordern, verweigert Duryodhana selbst fünf Dörfer. Alle Vermittlung scheitert – auch die von Kṛṣṇa, dem Vetter und Verbündeten der Pāṇḍavas.\n\nAuf dem Feld von **Kurukṣetra** kommt es zu einer achtzehntägigen Schlacht. Fast alle Krieger sterben, darunter der greise Bhīṣma und Karṇa, der unerkannte älteste Sohn Kuntīs. Die Pāṇḍavas siegen, doch der Sieg ist bitter. Die letzten Bücher erzählen von Trauer, Belehrung, dem Untergang von Kṛṣṇas Volk und dem Aufstieg der Brüder in den Himmel. **Kategorie:** Primärquellenbeleg (Inhalt der Erzählung).\n\n## Achtzehn Bücher\n\nDas Epos ist in **18 Parvans** gegliedert – Ādi, Sabhā, Āraṇyaka (Vana), Virāṭa, Udyoga, Bhīṣma, Droṇa, Karṇa, Śalya, Sauptika, Strī, Śānti, Anuśāsana, Āśvamedhika, Āśramavāsika, Mausala, Mahāprasthānika und Svargārohaṇa. Vier davon (Bhīṣma bis Śalya) sind nach den jeweiligen Oberbefehlshabern der Kauravas benannt und erzählen die Schlacht. Die langen Lehrbücher Śānti- und Anuśāsanaparvan lassen den sterbenden Bhīṣma über Recht und Befreiung sprechen. Als Anhang gilt der **Harivaṃśa**, der die Geschichte Kṛṣṇas erzählt.\n\n## Wer hat das Mahābhārata verfasst?\n\nDie Tradition schreibt das Epos **Vyāsa** zu, der zugleich im Epos auftritt. **Kategorie:** Traditionelle Überlieferung.\n\nDie Forschung sieht das Mahābhārata dagegen als Ergebnis eines **langen Entstehungsprozesses**. Nach weit verbreiteter Auffassung wuchs der Text etwa zwischen dem 4. Jahrhundert v. Chr. und dem 4. Jahrhundert n. Chr.: aus einem Kern heroischer Bardendichtung wurde durch Erweiterungen, Lehrstücke und religiöse Umdeutung – etwa die zunehmende Darstellung Kṛṣṇas als Gott – das heutige Werk (Brockington 1998). Das Epos selbst scheint dieses Wachstum zu reflektieren, wenn es zwischen einem kürzeren *Bhārata* von 24.000 Versen und dem ganzen *Mahābhārata* unterscheidet. **Kategorie:** Wissenschaftliche Hypothese (Mehrheitsposition).\n\nEine wichtige **Gegenposition** vertritt Alf Hiltebeitel: Er sieht das Mahābhārata als planvoll angelegtes Werk, das in vergleichsweise kurzer Zeit – etwa in den letzten Jahrhunderten v. Chr. – von gelehrten Autoren schriftlich komponiert wurde; die Vielstimmigkeit sei Absicht, nicht Ergebnis von Anlagerung (Hiltebeitel 2001). **Kategorie:** Umstritten.\n\n## Die Kritische Edition\n\nZwischen 1919 und 1966 erarbeitete das Bhandarkar Oriental Research Institute in Pune die **Kritische Edition** (Kritische Edition des Mahābhārata (BORI)). Die Herausgeber verglichen Handschriften aus allen Regionen, unterschieden eine nördliche und eine südliche Überlieferung und rekonstruierten den gemeinsamen Grundtext. Passagen, die nicht in allen Überlieferungszweigen stehen, wurden in den Apparat und in Anhänge gesetzt. Dadurch ist sichtbar geworden, wie viel im Lauf der Zeit hinzugekommen ist. **Kategorie:** Wissenschaftlich gesichert (Methode und Ergebnis; die Rekonstruktion selbst bleibt diskutierbar).\n\n## Gab es den Krieg?\n\nHier muss man drei Fragen trennen.\n\n**1. Gab es die Kuru?** Ja, in einem anderen Sinn als im Epos. Die spätvedischen Texte kennen die **Kuru** als bedeutendes Volk im Gebiet zwischen Yamunā und Gaṅgā. Michael Witzel hat argumentiert, dass hier um das 12. bis 10. Jahrhundert v. Chr. das erste größere vedische Staatswesen entstand und die vedischen Texte gesammelt und geordnet wurden (Witzel 1995). **Kategorie:** Wissenschaftliche Hypothese (gut begründet). Das Kuru-Reich der vedischen Texte ist aber nicht einfach identisch mit dem Königshaus der Erzählung (Kuru-Dynastie (im Mahābhārata)).\n\n**2. Lassen sich Orte archäologisch fassen?** Orte wie Hastināpura oder Kurukṣetra existieren bis heute. Ausgrabungen in Hastināpura (1950–52 unter B. B. Lal) erbrachten eisenzeitliche Schichten mit *Painted Grey Ware* und Spuren einer Flut; Lal brachte dies mit einer purāṇischen Überlieferung von der Zerstörung Hastināpuras durch eine Flut in Verbindung. **Kategorie:** Wissenschaftliche Hypothese (Verknüpfung umstritten). Die Existenz eines Ortes belegt nicht die Ereignisse, die ein Epos dort ansiedelt.\n\n**3. Wann soll der Krieg stattgefunden haben?** Die Tradition verbindet ihn mit dem Beginn des Kali-Yuga im Jahr 3102 v. Chr. (Beginn des Kali-Yuga (traditionelle Epoche)). Diese Epoche ist erst in astronomischen Texten des 5./6. Jahrhunderts n. Chr. belegt; die Aihole-Inschrift von 634/635 n. Chr. zeigt, dass man damals vom „Bhārata-Krieg“ aus zählte (Aihole-Inschrift Pulakeśins II.). Andere Rechnungen auf Grundlage der purāṇischen Königslisten führen ins späte 2. oder frühe 1. Jahrtausend v. Chr., astronomische Datierungsversuche anhand von Himmelszeichen im Epos zu sehr unterschiedlichen Jahren. **Kategorie:** Ungeklärt.\n\nDie nüchterne Bilanz lautet: Es ist gut möglich, dass Erinnerungen an Konflikte im spätvedischen Kuru-Gebiet in die Erzählung eingegangen sind. Einen Beleg für den Krieg, wie das Epos ihn erzählt, gibt es nicht. Das Mahābhārata ist zuallererst eine **große Dichtung über das Problem des Dharma** – darüber, wie man richtig handelt, wenn jede Wahl Schuld erzeugt. Dieser Frage widmet sich das nächste Modul anhand der Bhagavad Gītā.",
+          "key_terms": [
+            {
+              "term": "Parvan",
+              "iast": "parvan",
+              "meaning": "„Abschnitt, Gelenk“ – eines der 18 Bücher des Mahābhārata."
+            },
+            {
+              "term": "Itihāsa",
+              "iast": "itihāsa",
+              "meaning": "„So ist es gewesen“ – Selbstbezeichnung des Epos als Überlieferung vergangenen Geschehens."
+            },
+            {
+              "term": "Rahmenerzählung",
+              "meaning": "Erzählung, in die weitere Erzählungen eingebettet sind; das Mahābhārata ist mehrfach verschachtelt."
+            },
+            {
+              "term": "Kritische Edition (CE)",
+              "meaning": "Die 1933–1966 in Pune veröffentlichte, aus zahlreichen Handschriften rekonstruierte Textausgabe."
+            },
+            {
+              "term": "Painted Grey Ware",
+              "meaning": "Bemalte Graue Keramik der Eisenzeit Nordindiens (ca. Ende 2. bis Mitte 1. Jt. v. Chr.), oft mit der spätvedischen Kultur verbunden."
+            }
+          ],
+          "reflection_questions": [
+            "Was gewinnt das Epos dadurch, dass es von mehreren Erzählern auf mehreren Ebenen erzählt wird?",
+            "Warum beweist eine Inschrift des 7. Jahrhunderts, die nach dem „Bhārata-Krieg“ datiert, nicht dessen Historizität?",
+            "Welche Bestandteile des Mahābhārata lassen sich historisch untersuchen, welche nicht?"
+          ],
+          "evidence": [
+            "primary",
+            "established",
+            "hypothesis",
+            "disputed",
+            "tradition",
+            "unresolved"
+          ],
+          "sources": [
+            {
+              "id": "src-sukthankar-1933-mbh-ce",
+              "citation": "V. S. Sukthankar, S. K. Belvalkar, P. L. Vaidya (Hrsg.) (1933–1966): The Mahābhārata. For the First Time Critically Edited. Bhandarkar Oriental Research Institute, Poona.",
+              "type": "critical-edition",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-brockington-1998-epics",
+              "citation": "John Brockington (1998): The Sanskrit Epics. Handbuch der Orientalistik, Abt. 2, Bd. 12. Brill, Leiden.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-hiltebeitel-2001",
+              "citation": "Alf Hiltebeitel (2001): Rethinking the Mahābhārata: A Reader’s Guide to the Education of the Dharma King. University of Chicago Press.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-witzel-1995-kuru",
+              "citation": "Michael Witzel (1995): Early Sanskritization: Origins and Development of the Kuru State. Electronic Journal of Vedic Studies 1(4).",
+              "type": "article",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-thapar-2002",
+              "citation": "Romila Thapar (2002): Early India: From the Origins to AD 1300. Allen Lane, London / University of California Press.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-kielhorn-aihole",
+              "citation": "Franz Kielhorn (Hrsg.) (1900–1901): Aihole Inscription of Pulikesin II.; Saka-Samvat 556. Epigraphia Indica, Bd. 6.",
+              "type": "inscription",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-gonzalez-reimann-2002",
+              "citation": "Luis González-Reimann (2002): The Mahābhārata and the Yugas: India's Great Epic Poem and the Hindu System of World Ages. Asian Thought and Culture, Bd. 52. Peter Lang, New York.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            }
+          ],
+          "related": [
+            {
+              "id": "mahabharata",
+              "title": "Mahabharata",
+              "kind": "text"
+            },
+            {
+              "id": "bhagavad-gita",
+              "title": "Bhagavad Gita",
+              "kind": "text"
+            },
+            {
+              "id": "kuru",
+              "title": "Kuru-Dynastie (im Mahābhārata)",
+              "kind": "dynasty"
+            },
+            {
+              "id": "vyasa",
+              "title": "Vyasa",
+              "kind": "character"
+            },
+            {
+              "id": "bhishma",
+              "title": "Bhishma",
+              "kind": "character"
+            },
+            {
+              "id": "yudhishthira",
+              "title": "Yudhishthira",
+              "kind": "character"
+            },
+            {
+              "id": "arjuna",
+              "title": "Arjuna",
+              "kind": "character"
+            },
+            {
+              "id": "karna",
+              "title": "Karna",
+              "kind": "character"
+            },
+            {
+              "id": "krishna",
+              "title": "Krishna",
+              "kind": "character"
+            },
+            {
+              "id": "kunti",
+              "title": "Kunti",
+              "kind": "character"
+            },
+            {
+              "id": "pandu",
+              "title": "Pandu",
+              "kind": "character"
+            },
+            {
+              "id": "loc-kurukshetra",
+              "title": "Kurukshetra",
+              "kind": "location"
+            },
+            {
+              "id": "evt-mbh-critical-edition",
+              "title": "Kritische Edition des Mahābhārata (BORI)",
+              "kind": "event"
+            },
+            {
+              "id": "evt-aihole-inscription",
+              "title": "Aihole-Inschrift Pulakeśins II.",
+              "kind": "event"
+            },
+            {
+              "id": "evt-kali-yuga-epoch",
+              "title": "Beginn des Kali-Yuga (traditionelle Epoche)",
+              "kind": "event"
+            }
+          ],
+          "updated": "2026-11-07"
+        },
+        {
+          "id": "kap-kuru-genealogie",
+          "order": 2,
+          "title": "Die Familie der Kuru: Figuren und Genealogie",
+          "status": "planned"
+        },
+        {
+          "id": "kap-dharma-im-konflikt",
+          "order": 3,
+          "title": "Dharma im Konflikt",
+          "status": "planned"
+        },
+        {
+          "id": "kap-kurukshetra-geschichte",
+          "order": 4,
+          "title": "Kurukṣetra: Erzählung und Geschichte",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "mod-06-gita",
+      "order": 6,
+      "title": "Die Bhagavad Gītā",
+      "summary": "Der berühmteste philosophische Dialog Indiens und seine Wirkungsgeschichte.",
+      "chapters": [
+        {
+          "id": "kap-gita-handeln",
+          "order": 1,
+          "title": "Die Bhagavad Gītā",
+          "subtitle": "Handeln ohne Anhaften",
+          "status": "review",
+          "verification": "partial",
+          "summary": "Zwischen zwei aufmarschierten Heeren weigert sich der Held Arjuna zu kämpfen. Sein Wagenlenker Kṛṣṇa antwortet ihm mit einer Lehre über Selbst, Pflicht, Handeln und Hingabe – der Bhagavad Gītā. Das Kapitel erklärt Inhalt und Aufbau, ordnet den Text historisch ein und zeigt, wie verschieden er gelesen wurde – von Śaṅkara bis Gandhi.",
+          "reading_time_minutes": 13,
+          "learning_objectives": [
+            "Ort und Rahmen der Bhagavad Gītā im Mahābhārata beschreiben.",
+            "Die drei Wege – Handeln (karma), Erkenntnis (jñāna), Hingabe (bhakti) – erklären.",
+            "Den Begriff des „Handelns ohne Anhaften“ an Primärstellen erläutern.",
+            "Die historische Einordnung und die Debatte um die Datierung kennen.",
+            "Unterschiedliche Deutungen der Gītā in Kommentar und Moderne vergleichen."
+          ],
+          "scenario_markdown": "*Frei gestaltet nach Bhagavad Gītā, Kapitel 1–2.*\n\nMorgen auf dem Feld von Kurukṣetra. Muschelhörner werden geblasen, die Heere stehen sich gegenüber. Arjuna bittet seinen Wagenlenker: „Fahr mich zwischen die beiden Heere, ich will sehen, gegen wen ich kämpfen muss.“\n\nKṛṣṇa lenkt den Wagen in die Mitte. Arjuna sieht Großväter, Lehrer, Onkel, Brüder, Söhne, Freunde – auf beiden Seiten. Der Bogen gleitet ihm aus der Hand. „Ich will nicht siegen, Kṛṣṇa. Was nützt uns ein Königreich, wenn die tot sind, für die wir es wollten?“ Er setzt sich auf den Boden des Wagens, die Augen voller Tränen.\n\nKṛṣṇa lächelt – und beginnt zu sprechen.\n\n*Die Szene selbst wird im Text vom Seher Sañjaya dem blinden König Dhṛtarāṣṭra berichtet.*\n",
+          "body_markdown": "## Ein Gespräch im Augenblick vor der Schlacht\n\nDie **Bhagavad Gītā**, der „Gesang des Erhabenen“, ist kein eigenständiges Buch, sondern ein Teil des Mahābhārata: In der Kritischen Edition umfasst sie die Kapitel 6.23–40 des Bhīṣmaparvan, in der verbreiteten Zählung 18 Kapitel mit 700 Versen. **Kategorie:** Primärquellenbeleg.\n\nIhr Rahmen ist doppelt. Der Seher Sañjaya, dem die Gabe verliehen wurde, das Schlachtfeld aus der Ferne zu sehen, berichtet dem blinden König Dhṛtarāṣṭra, was geschieht. Und was er berichtet, ist ein Gespräch zwischen Arjuna und seinem Wagenlenker Kṛṣṇa – ein Gespräch, das die Handlung des Epos für einen Augenblick anhält.\n\n## Arjunas Verzweiflung\n\nArjunas Weigerung ist keine Feigheit. Sie ist ein moralisches Argument: Den eigenen Verwandten und Lehrern das Leben zu nehmen, zerstört die Familie, die Ordnung, das Gefüge der Pflichten, das dem Kampf überhaupt erst Sinn gibt. Arjuna steht vor einem echten **Dilemma**: Als Krieger ist es seine Pflicht zu kämpfen; als Sohn, Enkel und Schüler ist es seine Pflicht, die Seinen zu schützen. Jede Wahl verletzt einen Dharma.\n\n## Kṛṣṇas Antwort, erster Teil: das unsterbliche Selbst\n\nKṛṣṇa antwortet zunächst mit einer Lehre, die an die Upaniṣaden anschließt: Das wahre Selbst stirbt nicht.\n\n> na jāyate mriyate vā kadācin\n> *(Bhagavad Gītā 2.20, erste Zeile)*\n\n*Arbeitsübersetzung:* „Es wird nicht geboren und stirbt nicht, zu keiner Zeit.“\n\nWer tötet, tötet nur den Körper; das Selbst wechselt Körper, wie ein Mensch abgetragene Kleider ablegt. **Kategorie:** Primärquellenbeleg.\n\n## Zweiter Teil: Handeln ohne Anhaften\n\nDoch Kṛṣṇa bleibt nicht bei der Metaphysik. Er fordert Arjuna auf, seine **eigene Pflicht** (*svadharma*) zu tun – und zwar auf eine neue Weise:\n\n> karmaṇy evādhikāras te mā phaleṣu kadācana /\n> mā karmaphalahetur bhūr mā te saṅgo ’stv akarmaṇi //\n> *(Bhagavad Gītā 2.47)*\n\n*Arbeitsübersetzung:* „Dein Anrecht gilt allein dem Handeln, niemals seinen Früchten. Lass nicht die Frucht des Handelns dein Beweggrund sein, und hänge auch nicht am Nicht-Handeln.“\n\nDas ist der Kern des **Karmayoga**: Nicht das Handeln bindet den Menschen an den Kreislauf der Wiedergeburten, sondern das **Begehren**, das mit dem Handeln verbunden ist. Wer handelt, ohne an Erfolg oder Misserfolg zu hängen, bleibt innerlich frei. Die Gītā verbindet damit zwei Ideale, die vorher oft als Gegensätze galten: das Leben in der Welt mit seinen Pflichten und das Streben nach Befreiung, das meist mit Weltentsagung verbunden war.\n\n## Dritter Teil: Hingabe und Offenbarung\n\nIm Verlauf des Gesprächs gibt sich Kṛṣṇa immer deutlicher als der höchste Gott zu erkennen. Er lehrt, dass die Welt aus seiner Natur hervorgeht, die aus den drei **Guṇas** besteht – eine Vorstellung aus der Sāṃkhya-Philosophie –, und dass der sicherste Weg zur Befreiung die liebende **Hingabe** (*bhakti*) an ihn ist. In **Kapitel 11** zeigt er Arjuna seine „All-Gestalt“ (*viśvarūpa*): ein überwältigendes Bild, in dem alle Welten, alle Götter und alle Krieger, die in der Schlacht sterben werden, in seinem Leib erscheinen. **Kategorie:** Primärquellenbeleg / Traditionelle Überlieferung (Kṛṣṇa als höchster Gott ist Lehre der Vaiṣṇava-Tradition).\n\nAm Ende nimmt Arjuna seinen Bogen wieder auf.\n\n## Wann entstand die Gītā?\n\nDie Forschung datiert die Bhagavad Gītā meist in die Jahrhunderte um die Zeitenwende; viele Vorschläge liegen zwischen dem 3. Jahrhundert v. Chr. und dem 1. oder 2. Jahrhundert n. Chr. Ob sie in einem Zug entstand oder in Schichten gewachsen ist – etwa mit einem älteren Kern in den ersten Kapiteln und späterer Erweiterung um die Bhakti-Theologie –, ist umstritten (Brockington 1998). Angelika Malinar hat gezeigt, wie eng die Gītā mit den Themen des Epos verbunden ist, insbesondere mit der Frage nach dem rechten Königtum und der Legitimation von Herrschaft (Malinar 2007). **Kategorie:** Umstritten.\n\nDie Tradition dagegen versteht die Gītā als die Worte Kṛṣṇas, gesprochen auf dem Schlachtfeld von Kurukṣetra und von Vyāsa überliefert. **Kategorie:** Traditionelle Überlieferung.\n\n## Ein Text, viele Gītās\n\nKaum ein indischer Text wurde so oft kommentiert und so unterschiedlich gelesen (Davis 2015):\n\n- **Śaṅkara** (meist ins 8. Jh. datiert) schrieb den ältesten erhaltenen Kommentar und las die Gītā im Sinne des Advaita: Letztlich führt nur Erkenntnis zur Befreiung.\n- **Rāmānuja** (11./12. Jh.) betonte die Hingabe an einen persönlichen Gott.\n- 1785 erschien in London die erste englische Übersetzung durch **Charles Wilkins**. Die Gītā wurde in Europa begeistert aufgenommen, unter anderen von Wilhelm von Humboldt.\n- **Bal Gangadhar Tilak** las sie im frühen 20. Jahrhundert als Aufruf zum tatkräftigen Handeln in der Welt – auch im politischen Kampf.\n- **Mahatma Gandhi** nannte sie seine geistige Mutter und deutete die Schlacht als Bild für den inneren Kampf; die Lehre vom Handeln ohne Anhaften verstand er als Grundlage gewaltlosen Handelns.\n- Der Physiker **J. Robert Oppenheimer** erinnerte sich später, beim ersten Atombombentest an einen Vers aus Kapitel 11 gedacht zu haben, in dem Kṛṣṇa sich als die Zeit offenbart, die Welten zerstört.\n\n**Kategorie:** Wissenschaftlich gesichert (Rezeptionsgeschichte).\n\nDiese Vielfalt zeigt etwas, das für alle Module dieses Kurses gilt: Die Bedeutung eines alten Textes ist nicht nur in ihm selbst enthalten. Sie entsteht im Gespräch zwischen dem Text und denen, die ihn lesen – damals wie heute.",
+          "key_terms": [
+            {
+              "term": "Svadharma",
+              "iast": "svadharma",
+              "meaning": "Die eigene, dem Stand und der Lebenslage entsprechende Pflicht."
+            },
+            {
+              "term": "Karmayoga",
+              "iast": "karmayoga",
+              "meaning": "Der Weg des Handelns, bei dem man die Handlung ausführt, ohne an ihren Früchten zu hängen."
+            },
+            {
+              "term": "Bhakti",
+              "iast": "bhakti",
+              "meaning": "Liebende Hingabe an Gott; in der Gītā ein zentraler Weg zur Befreiung."
+            },
+            {
+              "term": "Guṇa",
+              "iast": "guṇa",
+              "meaning": "Die drei Grundqualitäten der Natur (sattva, rajas, tamas), aus der Sāṃkhya-Lehre übernommen."
+            },
+            {
+              "term": "Viśvarūpa",
+              "iast": "viśvarūpa",
+              "meaning": "Die „All-Gestalt“, in der sich Kṛṣṇa in Kapitel 11 Arjuna offenbart."
+            }
+          ],
+          "reflection_questions": [
+            "Wie verändert der Ort der Gītā – unmittelbar vor einer Schlacht – die Bedeutung ihrer Lehre?",
+            "Wie konnte Gandhi einen Text, der zum Kampf auffordert, als Lehre der Gewaltlosigkeit lesen?",
+            "Ist „Handeln ohne Anhaften“ eine Ethik der Gleichgültigkeit oder der Verantwortung? Begründe mit dem Text."
+          ],
+          "evidence": [
+            "primary",
+            "established",
+            "hypothesis",
+            "disputed",
+            "tradition"
+          ],
+          "sources": [
+            {
+              "id": "src-sukthankar-1933-mbh-ce",
+              "citation": "V. S. Sukthankar, S. K. Belvalkar, P. L. Vaidya (Hrsg.) (1933–1966): The Mahābhārata. For the First Time Critically Edited. Bhandarkar Oriental Research Institute, Poona.",
+              "type": "critical-edition",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-malinar-2007-gita",
+              "citation": "Angelika Malinar (2007): The Bhagavadgītā: Doctrines and Contexts. Cambridge University Press.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-davis-2015-gita",
+              "citation": "Richard H. Davis (2015): The Bhagavad Gita: A Biography. Lives of Great Religious Books. Princeton University Press.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-brockington-1998-epics",
+              "citation": "John Brockington (1998): The Sanskrit Epics. Handbuch der Orientalistik, Abt. 2, Bd. 12. Brill, Leiden.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-flood-1996",
+              "citation": "Gavin Flood (1996): An Introduction to Hinduism. Cambridge University Press.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            }
+          ],
+          "related": [
+            {
+              "id": "bhagavad-gita",
+              "title": "Bhagavad Gita",
+              "kind": "text"
+            },
+            {
+              "id": "mahabharata",
+              "title": "Mahabharata",
+              "kind": "text"
+            },
+            {
+              "id": "krishna",
+              "title": "Krishna",
+              "kind": "character"
+            },
+            {
+              "id": "arjuna",
+              "title": "Arjuna",
+              "kind": "character"
+            },
+            {
+              "id": "loc-kurukshetra",
+              "title": "Kurukshetra",
+              "kind": "location"
+            },
+            {
+              "id": "kap-mahabharata-epos",
+              "title": "Das Mahābhārata",
+              "kind": "chapter"
+            },
+            {
+              "id": "kap-brahman-atman",
+              "title": "Brahman und Ātman",
+              "kind": "chapter"
+            }
+          ],
+          "updated": "2026-11-07"
+        },
+        {
+          "id": "kap-gita-rezeption",
+          "order": 2,
+          "title": "Die Gītā in Kommentar und Moderne",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "mod-07-ramayana",
+      "order": 7,
+      "title": "Das Rāmāyaṇa",
+      "summary": "Vālmīkis Epos, seine sieben Bücher und die vielen Rāmāyaṇas Asiens.",
+      "chapters": [
+        {
+          "id": "kap-ramayana-valmiki",
+          "order": 1,
+          "title": "Das Rāmāyaṇa",
+          "subtitle": "Vālmīkis Epos und seine vielen Fassungen",
+          "status": "review",
+          "verification": "partial",
+          "summary": "Die Geschichte von Rāma, der seine entführte Gattin Sītā aus Laṅkā zurückholt, gehört zu den am weitesten verbreiteten Erzählungen Asiens. Das Kapitel erzählt die Handlung der sieben Bücher, erklärt, was die Forschung über die Entstehung des Sanskrit-Epos weiß, und zeigt, wie aus einem Text Hunderte Rāmāyaṇas wurden – von Tamil Nadu bis Java.",
+          "reading_time_minutes": 13,
+          "learning_objectives": [
+            "Die Handlung des Rāmāyaṇa entlang der sieben Kāṇḍas wiedergeben.",
+            "Erklären, warum Bücher 1 und 7 als spätere Schichten gelten.",
+            "Wichtige regionale und außerindische Fassungen benennen.",
+            "Die Fragen nach Ayodhyā, Laṅkā und astronomischen Angaben quellenkritisch beurteilen."
+          ],
+          "scenario_markdown": "*Nacherzählt nach dem Anfang des Bālakāṇḍa.*\n\nDer Asket Vālmīki geht am Ufer der Tamasā entlang, um zu baden. In einem Baum sieht er zwei Kraniche, ein Paar, ganz ineinander versunken. Da trifft ein Pfeil das Männchen. Es fällt zu Boden, blutend, und das Weibchen schreit klagend auf. Ein Jäger tritt aus dem Gebüsch.\n\nVālmīki ist erschüttert. Ohne es zu wollen, bricht ein Fluch aus ihm heraus – und er bemerkt verwundert, dass seine Worte eine feste Form haben: vier Viertel, gleichmäßig gebaut, sangbar. Aus dem Schmerz, *śoka*, ist ein Vers geworden, ein *śloka*.\n\nDa erscheint ihm der Gott Brahmā und sagt: In diesem Versmaß sollst du die Geschichte Rāmas erzählen.\n",
+          "body_markdown": "## Das erste Gedicht\n\nDie Tradition nennt das Rāmāyaṇa das *ādikāvya*, das „erste Kunstgedicht“, und seinen Verfasser **Vālmīki** den ersten Dichter. Die Legende vom Kranichpaar macht daraus eine Geschichte über den Ursprung der Dichtung selbst: Mitgefühl verwandelt sich in Form. **Kategorie:** Traditionelle Überlieferung / Primärquellenbeleg (die Legende steht im Text selbst).\n\nDas Werk ist in **sieben Bücher (Kāṇḍas)** gegliedert; die Tradition nennt einen Umfang von 24.000 Versen. Die **Kritische Edition**, 1960–1975 am Oriental Institute in Baroda erarbeitet, rekonstruiert eine deutlich kürzere gemeinsame Textgestalt (Bhatt & Shah 1960–1975). Eine vollständig kommentierte englische Übersetzung auf dieser Grundlage hat ein Team um Robert P. Goldman in Princeton vorgelegt (1984–2017).\n\n## Die Geschichte in sieben Büchern\n\n1. **Bālakāṇḍa** („Kindheit“): Der kinderlose König Daśaratha von Ayodhyā erhält durch ein Opfer vier Söhne – Rāma, Bharata, Lakṣmaṇa und Śatrughna. Rāma gewinnt Sītā, die Tochter König Janakas, indem er einen gewaltigen Bogen spannt.\n2. **Ayodhyākāṇḍa**: Am Vorabend von Rāmas Weihe zum Thronfolger fordert Königin Kaikeyī zwei Wünsche ein, die Daśaratha ihr einst gewährte: Ihr Sohn Bharata soll König werden, Rāma für vierzehn Jahre in den Wald gehen. Rāma gehorcht ohne Zögern; Sītā und Lakṣmaṇa begleiten ihn. Daśaratha stirbt vor Kummer. Bharata weigert sich, den Thron zu besteigen, und regiert nur als Stellvertreter.\n3. **Araṇyakāṇḍa** („Wald“): Im Wald entführt der Dämonenkönig Rāvaṇa Sītā mit einer List nach **Laṅkā**.\n4. **Kiṣkindhākāṇḍa**: Rāma verbündet sich mit dem Affenkönig Sugrīva und dessen Minister Hanumān.\n5. **Sundarakāṇḍa** („das schöne Buch“): Hanumān springt über das Meer, findet Sītā in Rāvaṇas Hain und setzt Laṅkā in Brand.\n6. **Yuddhakāṇḍa** („Krieg“): Über eine Brücke aus Felsen zieht das Heer nach Laṅkā. Rāma tötet Rāvaṇa. Sītā muss durch eine Feuerprobe ihre Reinheit beweisen; dann kehren alle nach Ayodhyā zurück, und Rāma wird gekrönt.\n7. **Uttarakāṇḍa** („letztes Buch“): Weil im Volk über Sītās Aufenthalt bei Rāvaṇa getuschelt wird, verbannt Rāma die schwangere Sītā. Sie findet Zuflucht bei Vālmīki, bringt Zwillinge zur Welt und kehrt am Ende in den Schoß der Erde zurück.\n\n**Kategorie:** Primärquellenbeleg (Inhalt).\n\n## Ein gewachsener Text\n\nSchon im 19. Jahrhundert fiel auf, dass sich das erste und das letzte Buch vom Kern unterscheiden. In den Büchern 2 bis 6 erscheint Rāma vor allem als vorbildlicher Mensch und Held; in den Büchern 1 und 7 wird er ausdrücklich als **Avatāra des Gottes Viṣṇu** dargestellt, und hier stehen auch viele eingeschobene Erzählungen. Die Forschung sieht daher in den Büchern 2–6 den älteren Kern und in 1 und 7 spätere Erweiterungen (Brockington 1998). **Kategorie:** Wissenschaftliche Hypothese (breiter Konsens).\n\nFür die Datierung werden meist folgende Rahmen genannt: Der Kern sei im 1. Jahrtausend v. Chr. entstanden, die Ausgestaltung bis in die ersten Jahrhunderte n. Chr. erfolgt. Die Spannbreite der Vorschläge ist groß. **Kategorie:** Umstritten. Die Tradition verlegt die Handlung in das **Tretā-Yuga**, also lange vor das Mahābhārata, und sieht Vālmīki als Zeitgenossen Rāmas. **Kategorie:** Traditionelle Überlieferung.\n\n## Dreihundert Rāmāyaṇas\n\nVālmīkis Werk ist nur eine Gestalt einer viel größeren Erzähltradition. Der Dichter und Forscher A. K. Ramanujan hat in seinem Essay „Three Hundred Rāmāyaṇas“ gezeigt, dass es kein „Original“ gibt, von dem alle anderen abweichen, sondern einen Vorrat an Figuren und Motiven, aus dem jede Kultur ihre eigene Geschichte formt (in: Richman 1991). Einige Beispiele:\n\n- Im Tamilischen dichtete **Kampaṉ** im 12. Jahrhundert das *Irāmāvatāram*, in dem Rāmas Göttlichkeit stärker betont wird.\n- Im 16. Jahrhundert schuf **Tulsīdās** in der Volkssprache Awadhi das *Rāmcaritmānas*, bis heute einer der meistgelesenen religiösen Texte Nordindiens.\n- **Jainistische** Fassungen erzählen eine Welt ohne Dämonen im Sinne der Brahmanen: Rāvaṇa ist ein tragischer, gelehrter König, und es ist Lakṣmaṇa, der ihn tötet.\n- Eine **buddhistische** Jātaka-Erzählung kennt einen Rāma ohne Entführung und ohne Krieg.\n- In **Südostasien** wurde die Geschichte zu nationalen Epen: das *Ramakien* in Thailand, das *Reamker* in Kambodscha, das altjavanische *Kakawin Rāmāyaṇa*. Reliefs am Tempel von **Prambanan** auf Java (9. Jh.) erzählen sie in Stein.\n\n**Kategorie:** Wissenschaftlich gesichert.\n\nWie politisch diese Vielfalt ist, zeigte sich 2011, als Ramanujans Essay nach Protesten aus einem Lehrplan der Universität Delhi entfernt wurde – ein Beispiel dafür, dass die Frage „Welches Rāmāyaṇa ist das richtige?“ auch heute Gemeinschaften bewegt.\n\n## Ayodhyā, Laṅkā und der Himmel\n\nLässt sich die Geografie des Epos auf die Landkarte übertragen? **Ayodhyā** wird traditionell mit der heutigen Stadt am Fluss Sarayū in Uttar Pradesh gleichgesetzt. **Laṅkā** wird meist mit Sri Lanka identifiziert, und die Kette von Sandbänken zwischen Indien und Sri Lanka gilt in der Tradition als Rāmas Brücke (*Rāmasetu*); geologisch handelt es sich um eine natürliche Formation. Einige Forscher haben vorgeschlagen, das Laṅkā des ältesten Textes eher in Zentralindien zu suchen. **Kategorie:** Traditionelle Überlieferung (Gleichsetzungen) / Umstritten (Forschungsvorschläge).\n\nGern zitiert wird auch eine Sternkonstellation zur Geburt Rāmas im Bālakāṇḍa der Vulgata. Sie verwendet allerdings **Tierkreiszeichen** (*rāśi*), die in der indischen Astronomie erst mit der hellenistisch beeinflussten Astrologie der ersten Jahrhunderte n. Chr. belegt sind. Das spricht für eine späte Entstehung dieser Passage – nicht für ein Datum der Handlung. **Kategorie:** Wissenschaftliche Hypothese (gut begründet; zur Methode siehe Sterne, Kalender und Datierungsversuche).\n\n## Ein Spiegel des Dharma\n\nWas das Rāmāyaṇa so wirkmächtig macht, ist weniger seine Geografie als seine **Ethik**. Rāma verkörpert den Gehorsam gegenüber dem Vater, die Treue zum gegebenen Wort und die Verantwortung des Königs für sein Volk. Sītā steht für Treue und Standhaftigkeit. Zugleich erzeugen gerade diese Ideale Konflikte, die das Epos nicht auflöst: Ist es gerecht, Sītā zu verbannen, um dem Gerede des Volkes zu genügen? An dieser Frage haben sich Dichter, Theologen und Leserinnen über Jahrhunderte gerieben – und viele spätere Fassungen haben sie anders beantwortet als Vālmīki.",
+          "key_terms": [
+            {
+              "term": "Kāṇḍa",
+              "iast": "kāṇḍa",
+              "meaning": "„Abschnitt“ – eines der sieben Bücher des Rāmāyaṇa."
+            },
+            {
+              "term": "Ādikāvya",
+              "iast": "ādikāvya",
+              "meaning": "„Erstes Kunstgedicht“ – traditionelle Bezeichnung des Rāmāyaṇa; Vālmīki gilt als ādikavi, als erster Dichter."
+            },
+            {
+              "term": "Śloka",
+              "iast": "śloka",
+              "meaning": "Das häufigste Versmaß der Sanskrit-Epen (2 × 16 Silben); der Legende nach von Vālmīki „erfunden“."
+            },
+            {
+              "term": "Avatāra",
+              "iast": "avatāra",
+              "meaning": "„Herabkunft“ – Erscheinungsform eines Gottes, besonders Viṣṇus, in der Welt."
+            },
+            {
+              "term": "Rāmkathā",
+              "meaning": "Die Rāma-Erzählung als übergreifende Erzähltradition, unabhängig von einer bestimmten Textfassung."
+            }
+          ],
+          "reflection_questions": [
+            "Was bedeutet es für die Frage nach „dem“ Rāmāyaṇa, dass es Hunderte Fassungen gibt?",
+            "Warum wird gerade das letzte Buch, das Uttarakāṇḍa, mit Sītās Verbannung besonders kontrovers diskutiert?",
+            "Warum kann eine im Text genannte Sternkonstellation nicht einfach zur Datierung der Handlung dienen?"
+          ],
+          "evidence": [
+            "primary",
+            "established",
+            "hypothesis",
+            "disputed",
+            "tradition",
+            "unresolved"
+          ],
+          "sources": [
+            {
+              "id": "src-bhatt-shah-1960-ram-ce",
+              "citation": "G. H. Bhatt, U. P. Shah (Hrsg.) (1960–1975): The Vālmīki-Rāmāyaṇa. Critically Edited for the First Time. Oriental Institute, Baroda.",
+              "type": "critical-edition",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-goldman-1984-ramayana",
+              "citation": "Robert P. Goldman (Hrsg.) (1984–2017): The Rāmāyaṇa of Vālmīki: An Epic of Ancient India. Princeton University Press.",
+              "type": "translation",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-brockington-1998-epics",
+              "citation": "John Brockington (1998): The Sanskrit Epics. Handbuch der Orientalistik, Abt. 2, Bd. 12. Brill, Leiden.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-richman-1991",
+              "citation": "Paula Richman (Hrsg.) (1991): Many Rāmāyaṇas: The Diversity of a Narrative Tradition in South Asia. University of California Press, Berkeley.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            }
+          ],
+          "related": [
+            {
+              "id": "ramayana",
+              "title": "Ramayana",
+              "kind": "text"
+            },
+            {
+              "id": "rama",
+              "title": "Rama",
+              "kind": "character"
+            },
+            {
+              "id": "sita",
+              "title": "Sita",
+              "kind": "character"
+            },
+            {
+              "id": "ravana",
+              "title": "Ravana",
+              "kind": "character"
+            },
+            {
+              "id": "hanuman",
+              "title": "Hanuman",
+              "kind": "character"
+            },
+            {
+              "id": "kap-mahabharata-epos",
+              "title": "Das Mahābhārata",
+              "kind": "chapter"
+            },
+            {
+              "id": "kap-sterne-und-kalender",
+              "title": "Sterne, Kalender und Datierungsversuche",
+              "kind": "chapter"
+            }
+          ],
+          "updated": "2026-11-07"
+        },
+        {
+          "id": "kap-rama-sita-dharma",
+          "order": 2,
+          "title": "Rāma, Sītā und das Ideal des Dharma",
+          "status": "planned"
+        },
+        {
+          "id": "kap-lanka-geografie",
+          "order": 3,
+          "title": "Laṅkā und die Geografie des Epos",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "mod-08-puranas",
+      "order": 8,
+      "title": "Die Purāṇas",
+      "summary": "Die „alten Erzählungen“: Kosmogonie, Götter, Dynastien und Weltgeografie.",
+      "chapters": [
+        {
+          "id": "kap-puranas-enzyklopaedien",
+          "order": 1,
+          "title": "Die Purāṇas",
+          "subtitle": "Enzyklopädien der Tradition",
+          "status": "review",
+          "verification": "partial",
+          "summary": "Die Purāṇas, die „alten Erzählungen“, sind riesige Sammlungen von Mythen, Kosmologie, Genealogien, Ritual- und Pilgerlehre. Für den gelebten Hinduismus sind sie oft wichtiger als die Veden. Das Kapitel erklärt, was ein Purāṇa ist, warum diese Texte so schwer zu datieren sind und wie Historiker mit ihren Königslisten umgehen.",
+          "reading_time_minutes": 12,
+          "learning_objectives": [
+            "Die „fünf Merkmale“ eines Purāṇa nennen und erklären.",
+            "Die Gruppe der 18 Mahāpurāṇas und einige wichtige Einzeltexte kennen.",
+            "Erklären, warum Purāṇas „offene Texte“ sind und sich nicht als Ganzes datieren lassen.",
+            "Die Königslisten der Purāṇas als historische Quelle kritisch bewerten."
+          ],
+          "scenario_markdown": "Ein Dorftempel in Nordindien, Gegenwart. Seit sechs Tagen kommen am Abend Hunderte Menschen unter ein großes Zeltdach. Vorn sitzt ein Erzähler auf einem erhöhten Sitz, vor sich ein in Tuch gebundenes Buch, das er kaum aufschlägt. Er singt Verse auf Sanskrit, erklärt sie in Hindi, erzählt Geschichten, macht Witze, singt Lieder.\n\nHeute ist der Abend, an dem Kṛṣṇa als Kind die Butter stiehlt. Die Kinder in der ersten Reihe lachen. Morgen, am siebten Tag, wird die Rezitation des Bhāgavata-Purāṇa abgeschlossen sein.\n\n*Szene illustrativ. Siebentägige Rezitationen des Bhāgavata-Purāṇa (Bhāgavata-saptāha) sind eine verbreitete religiöse Praxis.*\n",
+          "body_markdown": "## Die „alten Erzählungen“\n\nDas Wort *purāṇa* bedeutet „alt“. Schon die vedische Literatur spricht von *itihāsa-purāṇa*, von „Geschichte und alter Erzählung“, als einer Art Wissen neben den Veden. Die Texte, die wir heute als Purāṇas kennen, sind jedoch deutlich jünger als die Veden. Sie gehören zu den einflussreichsten Texten des Hinduismus: Viele der bekanntesten Geschichten über Viṣṇu, Śiva, die Göttin, Kṛṣṇas Kindheit oder die Herabkünfte (*avatāra*) Gottes sind in ihrer ausführlichen Form purāṇisch.\n\nDie Tradition schreibt die Purāṇas, wie das Mahābhārata, dem Weisen **Vyāsa** zu; vorgetragen werden sie oft von einem **Sūta**, einem Barden. **Kategorie:** Traditionelle Überlieferung.\n\n## Fünf Merkmale\n\nEine klassische Definition nennt fünf Gegenstände eines Purāṇa, die *pañcalakṣaṇa*:\n\n| Merkmal | Bedeutung |\n|---|---|\n| *sarga* | Erschaffung der Welt |\n| *pratisarga* | Auflösung und Neuschöpfung |\n| *vaṃśa* | Genealogien der Götter und Weisen |\n| *manvantara* | die Weltperioden der Manus |\n| *vaṃśānucarita* | die Geschichte der Königsgeschlechter |\n\n**Kategorie:** Primärquellenbeleg (traditionelle Definition).\n\nTatsächlich decken die erhaltenen Purāṇas weit mehr ab: Pilgerorte und ihre Legenden, Gelübde, Tempelbau, Ritual, Recht, Medizin, Grammatik, Philosophie. Die Forschung hat beobachtet, dass gerade die fünf „klassischen“ Merkmale in manchen Purāṇas nur einen kleinen Teil ausmachen (Rocher 1986). **Kategorie:** Wissenschaftlich gesichert.\n\n## Achtzehn große Purāṇas\n\nDie Tradition zählt **18 Mahāpurāṇas**, darunter das Viṣṇu-, Bhāgavata-, Śiva- bzw. Vāyu-, Brahma-, Matsya-, Mārkaṇḍeya-, Padma-, Skanda-, Liṅga-, Kūrma-, Garuḍa- und Brahmāṇḍa-Purāṇa. Die Listen weichen im Detail voneinander ab. Daneben gibt es eine große Zahl von **Upapurāṇas** und regionalen Texten, etwa Lobpreisungen einzelner Orte (*māhātmya*).\n\nEinige Beispiele:\n\n- Das **Viṣṇu-Purāṇa** ist vergleichsweise systematisch aufgebaut und enthält Kosmogonie, Zeitlehre, Geografie und Genealogien. Es wurde schon 1840 von H. H. Wilson vollständig ins Englische übersetzt.\n- Das **Bhāgavata-Purāṇa** ist der wichtigste Text der Kṛṣṇa-Verehrung; sein zehntes Buch erzählt Kṛṣṇas Kindheit und Jugend. Es gilt als vergleichsweise jung; viele Forscher datieren es um das 9. bis 10. Jahrhundert.\n- Das **Mārkaṇḍeya-Purāṇa** enthält das *Devīmāhātmya*, den grundlegenden Text der Verehrung der Großen Göttin.\n\n**Kategorie:** Primärquellenbeleg (Inhalte) / Umstritten (Datierungen).\n\n## Offene Texte\n\nWarum ist die Datierung so schwierig? Weil Purāṇas **keine abgeschlossenen Werke** sind. Sie wurden über Jahrhunderte vorgetragen, ergänzt, regional angepasst und neu zusammengestellt. Handschriften desselben Purāṇa können sich erheblich unterscheiden, und Passagen wandern zwischen verschiedenen Purāṇas. Ludo Rocher kommt in seinem Standardwerk zu dem Schluss, dass man nicht „das“ Datum eines Purāṇa angeben kann, sondern bestenfalls Daten einzelner Schichten oder Fassungen (Rocher 1986). Viele Forscher sehen in der Gupta-Zeit (4.–6. Jh. n. Chr.) eine Phase wichtiger Redaktionen. **Kategorie:** Wissenschaftlich gesichert (Offenheit der Texte) / Wissenschaftliche Hypothese (Datierungen).\n\n## Könige im Futur\n\nFür die Geschichtswissenschaft besonders interessant sind die **Königslisten**. Die Purāṇas ordnen die Herrscher der Vergangenheit in zwei große Geschlechter: die **Sonnendynastie** (*sūryavaṃśa*), zu der Ikṣvāku und Rāma gehören, und die **Monddynastie** (*candravaṃśa*), aus der die Kuru und damit die Helden des Mahābhārata hervorgehen.\n\nEinige Purāṇas setzen diese Listen über den Mahābhārata-Krieg hinaus fort – und zwar **in der Form einer Prophezeiung**: Sie erzählen im Futur, welche Könige im Kali-Yuga herrschen *werden*. Darunter erscheinen die Dynastien von Magadha, die Nandas, die **Mauryas**, die Śuṅgas und andere. Frederick Eden Pargiter hat diese Listen 1913 kritisch zusammengestellt (Pargiter 1913). **Kategorie:** Primärquellenbeleg.\n\nFür die Mauryas lassen sich die Namen teilweise mit Inschriften und griechischen Berichten abgleichen. Die Listen enthalten also historische Erinnerungen. Gleichzeitig weichen die Regierungszahlen zwischen den Purāṇas oft stark ab, Namen werden verwechselt oder verdoppelt, und für die Zeit vor den Mauryas fehlt jede unabhängige Kontrolle. Romila Thapar beschreibt die Genealogien daher als eine Form historischen Bewusstseins, die der Ordnung und Legitimation dient – kein Archiv im modernen Sinn (Thapar 2002). **Kategorie:** Wissenschaftliche Hypothese (Grad der Verlässlichkeit umstritten).\n\nDass die Prophezeiung im Futur steht, ist dabei ein Hinweis auf den Standpunkt der Erzählung: Der Sprecher lebt in einer fernen Vergangenheit – zur Zeit des Mahābhārata – und „sieht voraus“, was für die Verfasser bereits geschehen war.\n\n## Purāṇische Welt\n\nDie Purāṇas entwerfen auch eine eigene **Kosmologie**: eine scheibenförmige Erde aus sieben ringförmigen Kontinenten, die von sieben Meeren umgeben sind; in der Mitte des innersten Kontinents, **Jambudvīpa**, erhebt sich der Weltberg **Meru**. Indien, *Bhāratavarṣa*, ist ein Teil Jambudvīpas. Und sie entfalten die großen Zeitzyklen der Yugas, Manvantaras und Kalpas, die das Modul Kosmologie und Zeit behandelt. **Kategorie:** Traditionelle Überlieferung.\n\n## Warum Purāṇas wichtig sind\n\nFür die Forschung sind die Purāṇas eine Fundgrube für die Religions-, Sozial- und Regionalgeschichte des 1. und 2. Jahrtausends n. Chr. Für Millionen Gläubige sind sie lebendige Texte, die vorgetragen, gesungen, gespielt und gefeiert werden. Beides gehört zusammen: Gerade weil die Purāṇas nie „fertig“ waren, konnten sie sich immer wieder an neue Zeiten, Orte und Gemeinschaften anpassen.",
+          "key_terms": [
+            {
+              "term": "Purāṇa",
+              "iast": "purāṇa",
+              "meaning": "„Alt“ – Gattung erzählender Sanskrit-Texte über Schöpfung, Götter, Weltzeitalter und Dynastien."
+            },
+            {
+              "term": "Pañcalakṣaṇa",
+              "iast": "pañcalakṣaṇa",
+              "meaning": "Die „fünf Merkmale“ eines Purāṇa: sarga, pratisarga, vaṃśa, manvantara, vaṃśānucarita."
+            },
+            {
+              "term": "Mahāpurāṇa / Upapurāṇa",
+              "meaning": "Die traditionell 18 „großen“ Purāṇas und die zahlreichen „Neben-Purāṇas“."
+            },
+            {
+              "term": "Sūta",
+              "iast": "sūta",
+              "meaning": "Barde und Erzähler; in den Purāṇas oft der Vortragende der Rahmenerzählung."
+            },
+            {
+              "term": "Sūryavaṃśa / Candravaṃśa",
+              "iast": "sūryavaṃśa / candravaṃśa",
+              "meaning": "Sonnen- und Monddynastie, die beiden großen Königsgeschlechter der purāṇischen Genealogie."
+            }
+          ],
+          "reflection_questions": [
+            "Warum widerspricht die Vorstellung eines „Urtextes“ dem Wesen der Purāṇas?",
+            "Was spricht dafür, die Königslisten als historische Quelle ernst zu nehmen – und was dagegen?",
+            "Warum stehen die Listen späterer Könige im Futur?"
+          ],
+          "evidence": [
+            "primary",
+            "established",
+            "hypothesis",
+            "disputed",
+            "tradition"
+          ],
+          "sources": [
+            {
+              "id": "src-rocher-1986-puranas",
+              "citation": "Ludo Rocher (1986): The Purāṇas. A History of Indian Literature, Bd. II, Fasz. 3. Otto Harrassowitz, Wiesbaden.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-wilson-1840-vishnu-purana",
+              "citation": "Horace Hayman Wilson (1840): The Vishńu Puráńa: A System of Hindu Mythology and Tradition. John Murray / Oriental Translation Fund, London.",
+              "type": "translation",
+              "quality": "medium",
+              "verified": false,
+              "url": "https://www.sacred-texts.com/hin/vp/index.htm"
+            },
+            {
+              "id": "src-pargiter-1913-dynasties",
+              "citation": "Frederick Eden Pargiter (1913): The Purana Text of the Dynasties of the Kali Age. Oxford University Press.",
+              "type": "critical-edition",
+              "quality": "medium",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-thapar-2002",
+              "citation": "Romila Thapar (2002): Early India: From the Origins to AD 1300. Allen Lane, London / University of California Press.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-flood-1996",
+              "citation": "Gavin Flood (1996): An Introduction to Hinduism. Cambridge University Press.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            }
+          ],
+          "related": [
+            {
+              "id": "vishnu-purana",
+              "title": "Vishnu Purana",
+              "kind": "text"
+            },
+            {
+              "id": "yuga-system",
+              "title": "Das Yuga-System und die kosmischen Zeitzyklen",
+              "kind": "research"
+            },
+            {
+              "id": "krishna",
+              "title": "Krishna",
+              "kind": "character"
+            },
+            {
+              "id": "rama",
+              "title": "Rama",
+              "kind": "character"
+            },
+            {
+              "id": "kap-zeit-ohne-anfang",
+              "title": "Zeit ohne Anfang",
+              "kind": "chapter"
+            }
+          ],
+          "updated": "2026-11-07"
+        },
+        {
+          "id": "kap-dynastien-sonne-mond",
+          "order": 2,
+          "title": "Sonnen- und Monddynastie: Genealogie als Geschichtsbild",
+          "status": "planned"
+        },
+        {
+          "id": "kap-puranische-geografie",
+          "order": 3,
+          "title": "Jambudvīpa und Meru – purāṇische Weltgeografie",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "mod-09-kosmologie",
+      "order": 9,
+      "title": "Kosmologie und Zeit",
+      "summary": "Das zyklische Weltbild: Yugas, Manvantaras, Kalpas, Schöpfung und Auflösung.",
+      "chapters": [
+        {
+          "id": "kap-zeit-ohne-anfang",
+          "order": 1,
+          "title": "Zeit ohne Anfang",
+          "subtitle": "Yugas, Kalpas und das zyklische Weltbild",
+          "status": "review",
+          "verification": "partial",
+          "summary": "Die indische Tradition denkt Zeit nicht als Linie, sondern als Kreislauf von Schöpfung und Auflösung, der sich in gewaltigen Maßstäben wiederholt. Das Kapitel erklärt die vier Weltzeitalter, rechnet das System bis zur Lebensdauer Brahmās nach, verfolgt seine historische Entwicklung und warnt vor einer verbreiteten Fehldeutung der großen Zahlen.",
+          "reading_time_minutes": 12,
+          "learning_objectives": [
+            "Die vier Yugas und ihr Verhältnis 4 : 3 : 2 : 1 erklären.",
+            "Die Rechnung vom Mahāyuga bis zur Lebensdauer Brahmās nachvollziehen.",
+            "Die historische Entwicklung der Yuga-Lehre in den Texten skizzieren.",
+            "Die Kali-Epoche 3102 v. Chr. quellenkritisch einordnen.",
+            "Erklären, warum die Kalpa-Länge kein Beleg für naturwissenschaftliches Wissen über das Erdalter ist."
+          ],
+          "scenario_markdown": "*Frei gestaltet nach der Mārkaṇḍeya-Episode des Mahābhārata (Āraṇyakaparvan).*\n\nDie Welt ist versunken. Kein Land, keine Sonne, kein Mond – nur Wasser, so weit der Weise Mārkaṇḍeya sehen kann. Er ist der Einzige, der die Auflösung überlebt hat, und er treibt verzweifelt durch die Dunkelheit.\n\nDa sieht er auf einem Ast eines Feigenbaums, der aus dem Wasser ragt, ein Kind liegen, ruhig und strahlend. Das Kind öffnet den Mund, und Mārkaṇḍeya wird hineingezogen. Im Leib des Kindes findet er die ganze Welt wieder: Berge, Flüsse, Städte, Menschen, Götter – alles, was er verloren glaubte. Als er wieder herauskommt, sagt ihm das Kind, wer es ist: der Gott, in dem die Welt schläft, bis sie wieder erwacht.\n",
+          "body_markdown": "## Zeit als Kreis\n\nViele Kulturen haben die Zeit als einen Weg verstanden, der irgendwo beginnt und irgendwohin führt. Die klassische indische Kosmologie denkt sie dagegen als **Kreislauf**: Welten entstehen, bestehen, vergehen und entstehen von Neuem, in Rhythmen, die weit über ein Menschenleben hinausgehen. Das Szenario zeigt, wie die Tradition das in Bilder fasst: Am Ende eines Weltzeitalters wird die Welt nicht vernichtet, sondern zurückgenommen – sie schläft in Gott, bis sie wieder erschaffen wird. **Kategorie:** Traditionelle Überlieferung.\n\n## Vier Zeitalter\n\nDie Grundeinheit ist das **Yuga**. Die Tradition kennt vier, deren Namen ursprünglich die Würfe im vedischen Würfelspiel bezeichneten:\n\n- **Kṛta** (auch *Satya*), das vollkommene Zeitalter,\n- **Tretā**,\n- **Dvāpara**,\n- **Kali**, das Zeitalter des Streits – unser gegenwärtiges.\n\nIhre Längen verhalten sich wie **4 : 3 : 2 : 1**, und mit ihnen schwindet der Dharma. Die Manusmṛti beschreibt ihn als Stier, der im Kṛta-Yuga auf vier Füßen steht und in jedem folgenden Zeitalter einen Fuß verliert; Lebensdauer, Wahrhaftigkeit und Frömmigkeit der Menschen nehmen ab. **Kategorie:** Primärquellenbeleg.\n\n## Die große Rechnung\n\nIm ausgebauten Modell, wie es Manusmṛti, Viṣṇu-Purāṇa und Sūryasiddhānta darstellen, werden die Längen in **Götterjahren** angegeben; ein Götterjahr entspricht 360 Menschenjahren. Daraus ergibt sich (Details im Forschungsdokument Das Yuga-System und die kosmischen Zeitzyklen):\n\n| Einheit | Zusammensetzung | Menschenjahre |\n|---|---|---:|\n| Kali-Yuga | 1.200 Götterjahre | 432.000 |\n| Mahāyuga | Kṛta + Tretā + Dvāpara + Kali = 12.000 Götterjahre | 4.320.000 |\n| Manvantara | 71 Mahāyugas | 306.720.000 |\n| Kalpa (Tag Brahmās) | 14 Manvantaras + 15 Übergänge = 1.000 Mahāyugas | 4.320.000.000 |\n| Leben Brahmās | 100 Jahre zu 360 Tagen und Nächten | 311.040.000.000.000 |\n\nAuf jeden Tag Brahmās folgt eine ebenso lange **Nacht**, in der die Welt aufgelöst ruht (*pralaya*). Nach hundert Jahren Brahmās löst sich das ganze Universum auf – und ein neuer Zyklus beginnt. Nach purāṇischer Tradition leben wir im Kali-Yuga des 28. Mahāyuga im siebten Manvantara des gegenwärtigen Kalpa. **Kategorie:** Traditionelle Überlieferung.\n\nAuf der Seite [Kosmologie & Astronomie](/kosmologie) lässt sich diese Rechnung interaktiv nachvollziehen.\n\n## Wie das System entstand\n\nDas System ist nicht von Anfang an da. Im Ṛgveda gibt es keine Weltzeitalter mit Zahlen. Im **Mahābhārata** erscheint die Lehre von den vier Yugas, aber oft noch in einfacheren Formen; die Längen werden dort zunächst in Jahren genannt. Luis González-Reimann hat gezeigt, dass die Lehre im Epos noch im Werden ist und die Umrechnung in Götterjahre – und damit die riesigen Zahlen – wohl eine **spätere Entwicklung** darstellt (González-Reimann 2002). **Kategorie:** Wissenschaftliche Hypothese (siehe Seit wann werden die Yuga-Längen als „Götterjahre“ (× 360) verstanden?).\n\nIhre endgültige Form und Präzision erhalten die Zahlen in der **astronomischen Literatur** ab dem 5. Jahrhundert n. Chr. Dort haben sie eine praktische Funktion: In einem so langen Zyklus lassen sich die Umläufe aller Planeten als ganze Zahlen angeben, sodass sie zu Beginn des Zyklus gemeinsam in einer Linie stehen. Die Kosmologie wird so zum Rechengerüst (Pingree 1981). **Kategorie:** Wissenschaftlich gesichert.\n\nDie Texte sind sich dabei keineswegs einig. Der Astronom **Āryabhaṭa** etwa teilte das Mahāyuga im Jahr 499 n. Chr. in vier *gleich lange* Viertel – eine Abweichung, die spätere Astronomen scharf kritisierten (Clark 1930). **Kategorie:** Primärquellenbeleg.\n\n## Wann begann das Kali-Yuga?\n\nDie astronomische Tradition legt den Beginn des Kali-Yuga auf den **17./18. Februar 3102 v. Chr.** (nach julianischem Kalender; Beginn des Kali-Yuga (traditionelle Epoche)). Āryabhaṭa berichtet, er sei 23 Jahre alt gewesen, als 3.600 Jahre des Kali-Yuga vergangen waren; daraus ergibt sich das Jahr 499 n. Chr. für sein Werk und zugleich einer der frühesten datierbaren Belege dieser Epoche.\n\nDie Tradition verbindet den Beginn des Kali-Yuga mit dem Ende der Mahābhārata-Zeit. In der Forschung wird die Epoche dagegen meist als **errechneter Zeitpunkt** gedeutet: als der Moment, für den die Astronomen eine gemeinsame Ausgangsstellung der Planeten ansetzten. Dann wäre 3102 v. Chr. kein erinnertes, sondern ein konstruiertes Datum. **Kategorie:** Umstritten (siehe Ist die Kali-Epoche 3102 v. Chr. eine überlieferte Erinnerung oder eine astronomisch rückgerechnete Epoche?).\n\n## Eine Warnung zu den großen Zahlen\n\nHäufig liest man, die Länge eines Kalpa – 4,32 Milliarden Jahre – zeige, dass die alten Inder das Alter der Erde (nach heutigem Wissen rund 4,54 Milliarden Jahre) gekannt hätten. Dieser Schluss hält einer Prüfung nicht stand:\n\n1. Die Zahl ergibt sich **rechnerisch** aus dem Verhältnis 4 : 3 : 2 : 1, dem Faktor 360 und den Multiplikatoren 1.000, 71 und 14 – nicht aus einer Messung.\n2. Der Kalpa bezeichnet nach der Tradition nicht das Alter der Erde, sondern einen **Tag Brahmās**, von denen unzählige vergangen sind.\n3. Bei vielen großen Zahlen in vielen Texten findet sich zwangsläufig irgendeine, die einer modernen Größe nahekommt. Eine solche Übereinstimmung ist nur dann bedeutsam, wenn man den Weg zu ihr erklären kann.\n\n**Kategorie:** Wissenschaftlich gesichert (Herleitung der Zahl). Die Größe der Zahlen ist dennoch bemerkenswert – als Ausdruck eines Weltbildes, das die Welt des Menschen in unvorstellbar weite Zeiträume einbettet.\n\n## Andere Deutungen, andere Kreise\n\nDie Yuga-Lehre wurde in der Neuzeit auch neu gedeutet. Der Yogi **Sri Yukteswar** verstand die Yugas 1894 als 24.000-jährigen Zyklus und verlegte das Ende des tiefsten Kali-Yuga ins Jahr 499 n. Chr. Diese Deutung ist religiös begründet und gehört nicht zur klassischen Textüberlieferung. **Kategorie:** Moderne Neuinterpretation.\n\nZyklische Zeit ist auch in anderen indischen Religionen zentral. Der **Jainismus** kennt einen Zeitkreis aus einer absteigenden und einer aufsteigenden Hälfte mit je sechs Abschnitten; der **Buddhismus** spricht von unermesslich vielen Weltzeitaltern (*kalpa*), in denen Welten entstehen und vergehen.\n\nUnd ein Blick nach Westen zeigt eine verwandte Idee: Der griechische Dichter **Hesiod** beschrieb um 700 v. Chr. eine Folge von Menschengeschlechtern vom goldenen bis zum eisernen, in der die Welt immer schlechter wird. Ob solche Ähnlichkeiten auf eine gemeinsame indogermanische Vorstellung zurückgehen oder unabhängig entstanden sind, ist ungeklärt. **Kategorie:** Ungeklärt.",
+          "key_terms": [
+            {
+              "term": "Yuga",
+              "iast": "yuga",
+              "meaning": "Weltzeitalter; ursprünglich auch „Joch, Paar, Generation“."
+            },
+            {
+              "term": "Mahāyuga",
+              "iast": "mahāyuga (caturyuga)",
+              "meaning": "Zyklus aus den vier Yugas; im Standardmodell 4.320.000 Jahre."
+            },
+            {
+              "term": "Manvantara",
+              "iast": "manvantara",
+              "meaning": "Weltperiode eines Manu (71 Mahāyugas)."
+            },
+            {
+              "term": "Kalpa",
+              "iast": "kalpa",
+              "meaning": "Ein Tag Brahmās (1.000 Mahāyugas = 4,32 Mrd. Jahre); ihm folgt eine gleich lange Nacht."
+            },
+            {
+              "term": "Pralaya",
+              "iast": "pralaya",
+              "meaning": "Auflösung der Welt am Ende eines Kalpa oder am Ende von Brahmās Leben."
+            }
+          ],
+          "reflection_questions": [
+            "Wie verändert ein zyklisches Zeitverständnis die Bedeutung von Geschichte, Fortschritt und Verfall?",
+            "Warum ist es ein Fehler, aus der Ähnlichkeit von 4,32 und 4,54 Milliarden Jahren auf altindisches Wissen über das Erdalter zu schließen?",
+            "Was zeigt der Vergleich mit Hesiods Weltaltern – und wo hat er seine Grenzen?"
+          ],
+          "evidence": [
+            "primary",
+            "tradition",
+            "hypothesis",
+            "disputed"
+          ],
+          "sources": [
+            {
+              "id": "src-olivelle-2005-manu",
+              "citation": "Patrick Olivelle (2005): Manu's Code of Law: A Critical Edition and Translation of the Mānava-Dharmaśāstra. South Asia Research. Oxford University Press.",
+              "type": "critical-edition",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-wilson-1840-vishnu-purana",
+              "citation": "Horace Hayman Wilson (1840): The Vishńu Puráńa: A System of Hindu Mythology and Tradition. John Murray / Oriental Translation Fund, London.",
+              "type": "translation",
+              "quality": "medium",
+              "verified": false,
+              "url": "https://www.sacred-texts.com/hin/vp/index.htm"
+            },
+            {
+              "id": "src-burgess-1860-surya-siddhanta",
+              "citation": "Ebenezer Burgess (1860): Translation of the Sûrya-Siddhânta, a Text-Book of Hindu Astronomy; with Notes and an Appendix. Journal of the American Oriental Society, Bd. 6.",
+              "type": "translation",
+              "quality": "medium",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-gonzalez-reimann-2002",
+              "citation": "Luis González-Reimann (2002): The Mahābhārata and the Yugas: India's Great Epic Poem and the Hindu System of World Ages. Asian Thought and Culture, Bd. 52. Peter Lang, New York.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-clark-1930-aryabhatiya",
+              "citation": "Walter Eugene Clark (1930): The Āryabhaṭīya of Āryabhaṭa: An Ancient Indian Work on Mathematics and Astronomy. University of Chicago Press.",
+              "type": "translation",
+              "quality": "medium",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-pingree-1981-jyotihsastra",
+              "citation": "David Pingree (1981): Jyotiḥśāstra: Astral and Mathematical Literature. A History of Indian Literature, Bd. VI, Fasz. 4. Otto Harrassowitz, Wiesbaden.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-yukteswar-1894",
+              "citation": "Swami Sri Yukteswar Giri (1894): Kaivalya Darsanam / The Holy Science.",
+              "type": "modern-interpretation",
+              "quality": "low",
+              "verified": false,
+              "url": null
+            }
+          ],
+          "related": [
+            {
+              "id": "yuga-system",
+              "title": "Das Yuga-System und die kosmischen Zeitzyklen",
+              "kind": "research"
+            },
+            {
+              "id": "manusmriti",
+              "title": "Manusmriti",
+              "kind": "text"
+            },
+            {
+              "id": "vishnu-purana",
+              "title": "Vishnu Purana",
+              "kind": "text"
+            },
+            {
+              "id": "surya-siddhanta",
+              "title": "Surya Siddhanta",
+              "kind": "text"
+            },
+            {
+              "id": "aryabhatiya",
+              "title": "Aryabhatiya",
+              "kind": "text"
+            },
+            {
+              "id": "evt-kali-yuga-epoch",
+              "title": "Beginn des Kali-Yuga (traditionelle Epoche)",
+              "kind": "event"
+            },
+            {
+              "id": "q-yuga-divine-years",
+              "title": "Seit wann werden die Yuga-Längen als „Götterjahre“ (× 360) verstanden?",
+              "kind": "question"
+            },
+            {
+              "id": "q-kali-epoch-origin",
+              "title": "Ist die Kali-Epoche 3102 v. Chr. eine überlieferte Erinnerung oder eine astronomisch rückgerechnete Epoche?",
+              "kind": "question"
+            },
+            {
+              "id": "kap-puranas-enzyklopaedien",
+              "title": "Die Purāṇas",
+              "kind": "chapter"
+            }
+          ],
+          "updated": "2026-11-07"
+        },
+        {
+          "id": "kap-schoepfung-aufloesung",
+          "order": 2,
+          "title": "Schöpfung und Auflösung (sarga und pralaya)",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "id": "mod-10-astronomie",
+      "order": 10,
+      "title": "Astronomie, Kalender und Mathematik",
+      "summary": "Vom vedischen Ritualkalender zur Siddhānta-Astronomie – und die Probleme astronomischer Datierung.",
+      "chapters": [
+        {
+          "id": "kap-sterne-und-kalender",
+          "order": 1,
+          "title": "Sterne, Kalender und Datierungsversuche",
+          "subtitle": "Vom vedischen Ritual zur Siddhānta-Astronomie",
+          "status": "review",
+          "verification": "partial",
+          "summary": "Die indische Astronomie begann als Wissenschaft des Ritualkalenders und wurde zu einer der leistungsfähigsten mathematischen Astronomien der Vormoderne. Das Kapitel verfolgt diesen Weg vom Mondkalender der Veden über den Vedāṅga Jyotiṣa bis zu Āryabhaṭa – und erklärt, warum astronomische „Datierungen“ alter Texte methodisch so heikel sind.",
+          "reading_time_minutes": 13,
+          "learning_objectives": [
+            "Erklären, warum das vedische Ritual einen genauen Kalender brauchte.",
+            "Das System der Nakṣatras und den lunisolaren Kalender beschreiben.",
+            "Die Entwicklungsstufen vom Vedāṅga Jyotiṣa zur Siddhānta-Astronomie skizzieren.",
+            "Das Prinzip der Präzession und seine Nutzung für Datierungen erklären.",
+            "Methodische Fehler astronomischer Datierungsversuche erkennen."
+          ],
+          "scenario_markdown": "Ein Dorf in der späten vedischen Zeit. Am Abend steht ein Priester am Rand der Felder und sucht den westlichen Himmel ab. Gestern war kein Mond zu sehen; heute muss die erste schmale Sichel erscheinen. Von diesem Augenblick hängt ab, wann das Neumondopfer gefeiert wird – und wenn es zur falschen Zeit gefeiert wird, ist es wertlos.\n\nAm nächsten Morgen wird er in seinem Gedächtnis nachrechnen, in welchem Sternabschnitt der Mond gerade steht, und ob in diesem Jahr ein dreizehnter Monat eingefügt werden muss, damit die Feste wieder in ihre Jahreszeiten fallen.\n\n*Szene illustrativ. Dass Neu- und Vollmondopfer (darśapūrṇamāsa) einen genauen Mondkalender voraussetzen, ist in den Ritualtexten belegt.*\n",
+          "body_markdown": "## Astronomie aus dem Ritual\n\nDie indische Astronomie hat einen sehr praktischen Ursprung: das **Opfer**. Viele vedische Rituale mussten zu bestimmten Mondphasen, Jahreszeiten oder Sternstellungen vollzogen werden. Wer den Zeitpunkt verfehlte, verfehlte die Wirkung. Darum gehört *jyotiṣa*, die „Wissenschaft der Lichter“, zu den sechs Hilfswissenschaften des Veda (*vedāṅga*) – neben Lautlehre, Metrik, Grammatik, Etymologie und Ritualregeln. **Kategorie:** Wissenschaftlich gesichert.\n\n## Mond, Sonne und der dreizehnte Monat\n\nEin Mondmonat dauert gut 29,5 Tage; zwölf davon sind etwa elf Tage kürzer als ein Sonnenjahr. Ein Kalender, der beides verbinden will – ein **lunisolarer Kalender** –, muss deshalb von Zeit zu Zeit einen **Schaltmonat** einfügen. Schon ein Hymnus des Ṛgveda an Varuṇa scheint darauf anzuspielen, wenn er den Gott als den preist, der die zwölf Monate kennt und den, „der hinzugeboren wird“ (Ṛgveda 1.25.8, *Stelle prüfen*). **Kategorie:** Primärquellenbeleg (Deutung als Schaltmonat verbreitet, aber nicht zwingend).\n\n## Die Häuser des Mondes\n\nUm die Position des Mondes anzugeben, teilte man seine Bahn am Himmel in **27 oder 28 Nakṣatras**, „Mondhäuser“. Der Mond durchläuft in etwa einem Tag eines davon. Jedes Nakṣatra ist nach einem Stern oder einer Sterngruppe benannt. Frühe Listen finden sich in der jüngeren vedischen Literatur, etwa in der Taittirīya-Saṃhitā; sie beginnen mit **Kṛttikā**, den Plejaden (*Stelle prüfen*). **Kategorie:** Primärquellenbeleg.\n\nDie zwölf **Tierkreiszeichen** (*rāśi*), die heute in der indischen Astrologie so wichtig sind, gehören dagegen nicht zur vedischen Astronomie. Sie kamen mit der griechisch-hellenistischen Astrologie nach Indien. Ein wichtiges Zeugnis dieser Übernahme ist das *Yavanajātaka*, „das Horoskopwerk der Griechen“, das Sphujidhvaja im 3. Jahrhundert n. Chr. in Sanskrit-Verse brachte (Pingree 1978). **Kategorie:** Wissenschaftlich gesichert.\n\n## Der erste Astronomietext: der Vedāṅga Jyotiṣa\n\nDer älteste erhaltene Text, der sich ganz der Astronomie widmet, ist der **Vedāṅga Jyotiṣa** des Lagadha. Er beschreibt einen Kalenderzyklus von **fünf Jahren**, in dem Sonne und Mond nach einer festen Zahl von Tagen wieder in dieselbe Stellung zurückkehren, und gibt Regeln für die Berechnung der Ritualtermine (Sastry & Sarma 1985).\n\nSeine Datierung zeigt beispielhaft die Schwierigkeiten der Disziplin. Der Text legt die Wintersonnwende an den Anfang des Nakṣatra Śraviṣṭhā. Rechnet man die Präzession zurück, ergibt das einen Zeitraum um das späte 2. Jahrtausend v. Chr. Viele Forscher halten den erhaltenen Text jedoch für jünger und meinen, er gebe ältere Beobachtungen oder Konventionen wieder; David Pingree hat zudem auf Parallelen zur mesopotamischen Astronomie hingewiesen (Pingree 1981). **Kategorie:** Umstritten.\n\n## Die klassische Astronomie\n\nAb dem 5. Jahrhundert n. Chr. entsteht eine neue Gattung: die **Siddhāntas**, mathematische Lehrbücher, die die Bewegungen von Sonne, Mond und Planeten mit Hilfe von Epizyklen und trigonometrischen Tabellen berechnen.\n\n- **Āryabhaṭa** verfasste 499 n. Chr. sein *Āryabhaṭīya* (Āryabhaṭīya verfasst). Er lehrte unter anderem, dass sich die Erde um ihre Achse dreht – eine Auffassung, die viele spätere indische Astronomen ablehnten (Clark 1930; Plofker 2009).\n- **Varāhamihira** fasste im 6. Jahrhundert in seiner *Pañcasiddhāntikā* fünf ältere astronomische Systeme zusammen.\n- **Brahmagupta** schrieb 628 n. Chr. den *Brāhmasphuṭasiddhānta*, der auch für die Geschichte der Mathematik bedeutsam ist.\n- Der **Sūryasiddhānta** wurde in überarbeiteter Form zum einflussreichsten Lehrbuch der traditionellen Kalenderberechnung.\n\nDiese Astronomie arbeitete mit den großen Zeitzyklen der Yuga-Lehre als Rechengrundlage. Sie war eng mit der Mathematik verbunden: Das dezimale Stellenwertsystem mit der Null, das über die arabische Welt nach Europa gelangte, ist in diesem Umfeld entwickelt und überliefert worden (Plofker 2009). **Kategorie:** Wissenschaftlich gesichert.\n\n## Können die Sterne alte Texte datieren?\n\nWeil sich der Sternhimmel durch die Präzession langsam verschiebt, liegt die Idee nahe, alte Himmelsbeschreibungen als Uhr zu benutzen. Ein bekanntes Beispiel ist eine Stelle im Śatapatha-Brāhmaṇa, nach der die **Kṛttikās (Plejaden)** „nicht vom Osten abweichen“, also genau im Osten aufgehen. Für einen bestimmten Ort war das nur in einem bestimmten Zeitraum annähernd der Fall; daraus wurden Datierungen ins 3. Jahrtausend v. Chr. abgeleitet. Bereits 1893 versuchte **Bal Gangadhar Tilak**, aus Hinweisen auf den Orion ein sehr hohes Alter der Veden zu begründen (Tilak 1893). Auch für den Mahābhārata-Krieg wurden aus Himmelszeichen im Epos zahlreiche Jahreszahlen errechnet – mit Ergebnissen, die um Jahrtausende auseinanderliegen. **Kategorie:** Primärquellenbeleg (die Stellen) / Umstritten (die Datierungen).\n\nDie Fachforschung beurteilt solche Versuche überwiegend kritisch. Die wichtigsten Einwände:\n\n1. **Mehrdeutigkeit:** Viele Verse lassen sich astronomisch, mythologisch oder poetisch lesen. Wer die astronomische Lesart wählt, hat das Ergebnis oft schon vorentschieden.\n2. **Ungenauigkeit:** Aussagen wie „geht im Osten auf“ treffen über Jahrhunderte annähernd zu; die Präzision der errechneten Daten ist meist eine Scheinpräzision.\n3. **Konvention statt Beobachtung:** Texte können ältere Regeln oder Listen bewahren, die längst nicht mehr dem tatsächlichen Himmel entsprachen.\n4. **Omen statt Bericht:** Im Mahābhārata erscheinen viele Himmelszeichen als **Unheilszeichen** (*utpāta*) vor der Schlacht – sie sollen Schrecken erzeugen, nicht den Himmel eines bestimmten Tages beschreiben. Einige sind untereinander unvereinbar.\n5. **Auswahl:** Wer aus vielen Angaben nur die passenden auswählt und die widersprechenden übergeht, kann fast jedes gewünschte Datum „finden“. Das ist die rückwärts konstruierte Datierung, vor der dieser Kurs warnt.\n\n**Kategorie:** Wissenschaftlich gesichert (methodische Einwände).\n\nDas bedeutet nicht, dass astronomische Angaben wertlos wären. Sie zeigen, was die Verfasser über den Himmel wussten und welche Kalender sie benutzten. Für eine Datierung taugen sie nur, wenn eine eindeutige, beobachtungsnahe Angabe vorliegt und das Ergebnis durch unabhängige Evidenz – Sprache, Archäologie, Inschriften – gestützt wird.",
+          "key_terms": [
+            {
+              "term": "Jyotiṣa",
+              "iast": "jyotiṣa",
+              "meaning": "„Wissenschaft der Lichter“ – Astronomie (und später Astrologie); eine der sechs Hilfswissenschaften des Veda (vedāṅga)."
+            },
+            {
+              "term": "Nakṣatra",
+              "iast": "nakṣatra",
+              "meaning": "Einer von 27 (oder 28) Abschnitten der Mondbahn, jeweils durch einen Stern oder eine Sterngruppe markiert."
+            },
+            {
+              "term": "Adhikamāsa",
+              "iast": "adhikamāsa",
+              "meaning": "Schaltmonat, der Mond- und Sonnenjahr in Einklang hält."
+            },
+            {
+              "term": "Präzession",
+              "meaning": "Langsame Verschiebung der Erdachse, durch die sich die Lage von Sonnwenden und Tagundnachtgleichen gegenüber den Sternen um etwa 1° in rund 72 Jahren verändert."
+            },
+            {
+              "term": "Siddhānta",
+              "iast": "siddhānta",
+              "meaning": "„Feststehendes Lehrsystem“ – mathematisch-astronomisches Lehrbuch der klassischen Zeit."
+            },
+            {
+              "term": "Graha",
+              "iast": "graha",
+              "meaning": "„Ergreifer“ – Himmelskörper mit eigener Bewegung: Sonne, Mond, fünf Planeten sowie die Mondknoten Rāhu und Ketu."
+            }
+          ],
+          "reflection_questions": [
+            "Warum ist ein Ritualkalender ein guter Motor für genaue Himmelsbeobachtung?",
+            "Welche Annahmen muss man treffen, um aus einem Vers über die Plejaden ein Datum abzuleiten – und welche davon sind unsicher?",
+            "Woran erkennt man eine „rückwärts konstruierte“ Datierung?"
+          ],
+          "evidence": [
+            "primary",
+            "established",
+            "hypothesis",
+            "disputed"
+          ],
+          "sources": [
+            {
+              "id": "src-sarma-1985-vedanga-jyotisa",
+              "citation": "T. S. Kuppanna Sastry, K. V. Sarma (Hrsg.) (1985): Vedāṅga Jyotiṣa of Lagadha. Indian National Science Academy, New Delhi.",
+              "type": "translation",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-pingree-1981-jyotihsastra",
+              "citation": "David Pingree (1981): Jyotiḥśāstra: Astral and Mathematical Literature. A History of Indian Literature, Bd. VI, Fasz. 4. Otto Harrassowitz, Wiesbaden.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-pingree-1978-yavanajataka",
+              "citation": "David Pingree (1978): The Yavanajātaka of Sphujidhvaja. Harvard Oriental Series 48. Harvard University Press, Cambridge (Mass.).",
+              "type": "critical-edition",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-plofker-2009",
+              "citation": "Kim Plofker (2009): Mathematics in India. Princeton University Press.",
+              "type": "book",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-clark-1930-aryabhatiya",
+              "citation": "Walter Eugene Clark (1930): The Āryabhaṭīya of Āryabhaṭa: An Ancient Indian Work on Mathematics and Astronomy. University of Chicago Press.",
+              "type": "translation",
+              "quality": "medium",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-burgess-1860-surya-siddhanta",
+              "citation": "Ebenezer Burgess (1860): Translation of the Sûrya-Siddhânta, a Text-Book of Hindu Astronomy; with Notes and an Appendix. Journal of the American Oriental Society, Bd. 6.",
+              "type": "translation",
+              "quality": "medium",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-tilak-1893-orion",
+              "citation": "Bal Gangadhar Tilak (1893): The Orion, or Researches into the Antiquity of the Vedas. Bombay.",
+              "type": "book",
+              "quality": "low",
+              "verified": false,
+              "url": null
+            },
+            {
+              "id": "src-jamison-brereton-2014",
+              "citation": "Stephanie W. Jamison, Joel P. Brereton (2014): The Rigveda: The Earliest Religious Poetry of India. South Asia Research. Oxford University Press.",
+              "type": "translation",
+              "quality": "high",
+              "verified": false,
+              "url": null
+            }
+          ],
+          "related": [
+            {
+              "id": "aryabhatiya",
+              "title": "Aryabhatiya",
+              "kind": "text"
+            },
+            {
+              "id": "surya-siddhanta",
+              "title": "Surya Siddhanta",
+              "kind": "text"
+            },
+            {
+              "id": "rigveda",
+              "title": "Rigveda",
+              "kind": "text"
+            },
+            {
+              "id": "evt-aryabhatiya",
+              "title": "Āryabhaṭīya verfasst",
+              "kind": "event"
+            },
+            {
+              "id": "evt-kali-yuga-epoch",
+              "title": "Beginn des Kali-Yuga (traditionelle Epoche)",
+              "kind": "event"
+            },
+            {
+              "id": "q-kali-epoch-origin",
+              "title": "Ist die Kali-Epoche 3102 v. Chr. eine überlieferte Erinnerung oder eine astronomisch rückgerechnete Epoche?",
+              "kind": "question"
+            },
+            {
+              "id": "q-rigveda-dating",
+              "title": "Welche Argumente stützen die verschiedenen Datierungen des Ṛgveda – und wie belastbar sind sie?",
+              "kind": "question"
+            },
+            {
+              "id": "kap-zeit-ohne-anfang",
+              "title": "Zeit ohne Anfang",
+              "kind": "chapter"
+            }
+          ],
+          "updated": "2026-11-07"
+        },
+        {
+          "id": "kap-nakshatras",
+          "order": 2,
+          "title": "Die Nakṣatras – der Mondzodiak",
+          "status": "planned"
+        },
+        {
+          "id": "kap-siddhanta-mathematik",
+          "order": 3,
+          "title": "Siddhānta-Astronomie und indische Mathematik",
+          "status": "planned"
+        }
+      ]
+    }
+  ]
+}
