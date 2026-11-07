@@ -8,7 +8,7 @@ summary: Rāmas Weg führt von Ayodhyā über den Daṇḍaka-Wald und Kiṣkind
 reading_time: 13
 evidence: [primary, established, hypothesis, disputed, tradition, unresolved]
 status: review
-verification: partial
+verification: verified
 learning_objectives:
   - Die wichtigsten Stationen von Rāmas Weg im Text benennen und auf der Karte einordnen.
   - Traditionelle Identifikationen von Orten und wissenschaftliche Vorschläge unterscheiden.
@@ -41,6 +41,7 @@ sources:
   - src-goldman-1984-ramayana
   - src-brockington-1998-epics
   - src-bakker-1986-ayodhya
+  - src-asi-1980-iar-1976-77
   - src-sankalia-1973-ramayana
   - src-thapar-2002
   - src-supreme-court-2019-ayodhya
@@ -75,7 +76,7 @@ Diese drei Karten überlagern sich, aber sie decken sich nicht. Die Grunduntersc
 
 Im Text beginnt alles in **Ayodhyā**, der Hauptstadt des Reiches **Kosala** am Fluss **Sarayū**. Von dort zieht [[rama|Rāma]] mit [[sita|Sītā]] und Lakṣmaṇa nach Süden: über die Gaṅgā bei Śṛṅgaverapura, zur Einsiedelei des Weisen Bharadvāja am Zusammenfluss von Gaṅgā und Yamunā, weiter zum Berg **Citrakūṭa**. Später leben sie im weiten **Daṇḍaka-Wald** und schließlich in **Pañcavaṭī** an der Godāvarī, wo Sītā entführt wird. **Kategorie:** Primärquellenbeleg.
 
-Auf der Suche nach Sītā gelangt Rāma zum See **Pampā** und nach **Kiṣkindhā**, dem Reich der Vānaras. Im Kiṣkindhākāṇḍa schickt der Affenkönig Sugrīva Suchtrupps in alle vier Himmelsrichtungen und beschreibt ihnen ausführlich, welche Länder, Berge und Völker sie dort finden werden (*Stelle prüfen*). Diese Beschreibung ist ein wichtiges Zeugnis dafür, welches geografische Weltbild der Text hat – eine Mischung aus realen Regionen und mythischen Ländern am Rand der Welt. Der Suchtrupp im Süden erreicht das Meer, und Hanumān springt hinüber nach **Laṅkā**. **Kategorie:** Primärquellenbeleg.
+Auf der Suche nach Sītā gelangt Rāma zum See **Pampā** und nach **Kiṣkindhā**, dem Reich der Vānaras. Im Kiṣkindhākāṇḍa schickt der Affenkönig Sugrīva Suchtrupps in alle vier Himmelsrichtungen und beschreibt ihnen ausführlich, welche Länder, Berge und Völker sie dort finden werden (Kiṣkindhākāṇḍa 39–42 nach der Kritischen Edition: Osten 39, Süden 40, Westen 41, Norden 42). Diese Beschreibung ist ein wichtiges Zeugnis dafür, welches geografische Weltbild der Text hat – eine Mischung aus realen Regionen und mythischen Ländern am Rand der Welt. Der Suchtrupp im Süden erreicht das Meer, und Hanumān springt hinüber nach **Laṅkā**. **Kategorie:** Primärquellenbeleg.
 
 Auffällig ist, wie genau der Text den Norden kennt und wie unbestimmter seine Angaben nach Süden hin werden. Die Gaṅgā-Ebene mit ihren Flüssen und Orten ist konkret; der Süden ist Wildnis, Wald, Land der Rākṣasas und Vānaras. Viele Forscher sehen darin den Horizont von Verfassern, die in Nordindien lebten. **Kategorie:** Wissenschaftliche Hypothese.
 
@@ -89,7 +90,7 @@ Daneben gibt es Stimmen, die das epische Ayodhyā an anderen Orten suchen oder d
 
 ## Was die Archäologie zeigt
 
-In den 1970er-Jahren führte der Archäologe **B. B. Lal** ein Projekt zur „Archäologie der Rāmāyaṇa-Stätten“ durch und grub an Orten wie Ayodhyā, Śṛṅgaverapura, Bharadvāja-Āśrama und Nandigrāma. Nach den publizierten Berichten reichen die ältesten Siedlungsschichten in Ayodhyā etwa in die Mitte des 1. Jahrtausends v. Chr. zurück; charakteristisch ist die Feinkeramik **NBPW** (*Stelle und Daten prüfen*). **Kategorie:** Wissenschaftlich gesichert (Existenz einer frühhistorischen Siedlung).
+In den 1970er-Jahren führte der Archäologe **B. B. Lal** ein Projekt zur „Archäologie der Rāmāyaṇa-Stätten“ durch und grub an Orten wie Ayodhyā, Śṛṅgaverapura, Bharadvāja-Āśrama und Nandigrāma. Nach dem publizierten Grabungsbericht reichen die ältesten Siedlungsschichten in Ayodhyā etwa ins 7. Jahrhundert v. Chr. zurück; sie beginnen mit der Feinkeramik **NBPW**, begleitet von wenigen Scherben einer sehr späten Grauware (*Indian Archaeology 1976–77 – A Review*, 1980, S. 52–53). **Kategorie:** Wissenschaftlich gesichert (Existenz einer frühhistorischen Siedlung).
 
 Was solche Befunde leisten und was nicht, ist methodisch wichtig: Sie zeigen, dass an diesen Orten im 1. Jahrtausend v. Chr. Menschen lebten. Sie zeigen nicht, dass dort die im Epos erzählten Ereignisse stattfanden, und sie liefern kein Datum für Rāma. Archäologisch nachgewiesen ist eine Siedlung – nicht eine Erzählung. Schon der Archäologe **H. D. Sankalia** hatte in den 1970er-Jahren betont, dass die materielle Kultur, die das Epos beschreibt – prächtige Städte, Paläste, Waffen –, eher der Welt der Verfasser entspricht als einer weit zurückliegenden Vorzeit, und dass die Geografie des Epos nach Süden hin stark mythisch geprägt ist (Sankalia 1973). **Kategorie:** Wissenschaftliche Hypothese.
 

@@ -8,7 +8,7 @@ summary: Die Purāṇas ordnen die Könige der Vorzeit in zwei große Geschlecht
 reading_time: 13
 evidence: [primary, established, hypothesis, disputed, tradition, unresolved]
 status: review
-verification: partial
+verification: verified
 learning_objectives:
   - Die Grundstruktur von Sūryavaṃśa und Candravaṃśa beschreiben.
   - Zentrale Figuren der beiden Linien (Ikṣvāku, Purūravas, Yayāti, Yadu, Puru, Bharata, Kuru) einordnen.
@@ -88,7 +88,7 @@ Die Sonnendynastie herrscht in **Ayodhyā** über Kosala. Zu ihren bekanntesten 
 
 Die Monddynastie ist verzweigter. **Purūravas** ist bereits aus dem Ṛgveda bekannt: Ein Hymnus des zehnten Buches (10.95) ist ein Zwiegespräch zwischen ihm und der Nymphe **Urvaśī**, die ihn verlassen hat. **Kategorie:** Primärquellenbeleg.
 
-Purūravas’ Urenkel ist **Yayāti**, einer der folgenreichsten Könige der Genealogie. Er hat fünf Söhne: **Yadu**, **Turvasu**, **Druhyu**, **Anu** und **Puru**. Nach der Erzählung verflucht Yayāti die älteren Söhne, weil sie nicht bereit sind, ihm ihre Jugend zu überlassen, und macht den jüngsten, Puru, zu seinem Erben. Aus diesen fünf Söhnen gehen fünf Völker hervor (*Stelle prüfen*). **Kategorie:** Primärquellenbeleg.
+Purūravas’ Urenkel ist **Yayāti**, einer der folgenreichsten Könige der Genealogie. Er hat fünf Söhne: **Yadu**, **Turvasu**, **Druhyu**, **Anu** und **Puru**. Nach der Erzählung verflucht Yayāti die älteren Söhne, weil sie nicht bereit sind, ihm ihre Jugend zu überlassen, und macht den jüngsten, Puru, zu seinem Erben. Aus diesen fünf Söhnen gehen fünf Völker hervor (Viṣṇu-Purāṇa 4.10.4–22; die Linien der fünf Söhne folgen in 4.11–19). **Kategorie:** Primärquellenbeleg.
 
 Zwei Linien sind besonders wichtig:
 
@@ -117,7 +117,7 @@ Für die Zeit **vor** den Nandas und Mauryas gibt es keine solche Kontrolle mehr
 
 ## Pargiters großer Versuch
 
-Pargiter selbst war optimistisch. In seinem Buch *Ancient Indian Historical Tradition* von 1922 versuchte er, aus den Genealogien – ergänzt um Synchronismen zwischen den Linien – eine Geschichte des alten Indien zu rekonstruieren, mit Generationen, Wanderungen und Kriegen. Er unterschied dabei zwischen einer „kṣatriya-Tradition“ der Barden, die er für historisch wertvoll hielt, und einer „brahmanischen“ Überlieferung, die er für weniger verlässlich ansah. Auf dieser Grundlage schätzte er auch einen Zeitpunkt für den Bhārata-Krieg (*Angabe prüfen*) (Pargiter 1922). **Kategorie:** Wissenschaftliche Hypothese (forschungsgeschichtlich bedeutsam).
+Pargiter selbst war optimistisch. In seinem Buch *Ancient Indian Historical Tradition* von 1922 versuchte er, aus den Genealogien – ergänzt um Synchronismen zwischen den Linien – eine Geschichte des alten Indien zu rekonstruieren, mit Generationen, Wanderungen und Kriegen. Er unterschied dabei zwischen einer „kṣatriya-Tradition“ der Barden, die er für historisch wertvoll hielt, und einer „brahmanischen“ Überlieferung, die er für weniger verlässlich ansah. Auf dieser Grundlage schätzte er den Bhārata-Krieg auf etwa 950 v. Chr. (Pargiter 1922, S. 182). **Kategorie:** Wissenschaftliche Hypothese (forschungsgeschichtlich bedeutsam).
 
 Die spätere Forschung hat Pargiters Methode vielfach kritisiert:
 

@@ -8,7 +8,7 @@ summary: Die Vorstellung, dass Handlungen Folgen über den Tod hinaus haben und 
 reading_time: 13
 evidence: [primary, established, hypothesis, disputed, tradition]
 status: review
-verification: partial
+verification: verified
 learning_objectives:
   - Die Bedeutungsentwicklung von karma vom Ritualakt zur moralischen Kausalität erklären.
   - Die frühesten Belege für Wiedergeburt in den Upaniṣaden kennen.
@@ -73,7 +73,7 @@ Das Wort *karman* bedeutet in der älteren vedischen Literatur vor allem „Hand
 
 ## Die Angst vor dem Wiedertod
 
-In den **Brāhmaṇas** taucht eine neue Sorge auf: der **Wiedertod** (*punarmṛtyu*). Die Texte fragen, ob die durch das Opfer erworbene Existenz im Jenseits nicht irgendwann erschöpft sein könnte, so dass man dort erneut stirbt. Manche Rituale werden ausdrücklich damit begründet, dass sie den Wiedertod abwehren (u. a. Śatapatha-Brāhmaṇa, *Stelle prüfen*). **Kategorie:** Primärquellenbeleg.
+In den **Brāhmaṇas** taucht eine neue Sorge auf: der **Wiedertod** (*punarmṛtyu*). Die Texte fragen, ob die durch das Opfer erworbene Existenz im Jenseits nicht irgendwann erschöpft sein könnte, so dass man dort erneut stirbt. Manche Rituale werden ausdrücklich damit begründet, dass sie den Wiedertod abwehren (u. a. Śatapatha-Brāhmaṇa 2.3.3.9; 10.1.4.14; 10.5.1.4). **Kategorie:** Primärquellenbeleg.
 
 Viele Forscher sehen in dieser Angst eine Brücke zur späteren Lehre. Wenn der Lohn guter Taten begrenzt ist, kann die Existenz nach dem Tod nicht ewig dauern. Dann stellt sich die Frage, was danach kommt (vgl. [[kap-brahmanas-sutras]]). **Kategorie:** Wissenschaftliche Hypothese.
 
@@ -86,7 +86,7 @@ Die frühesten ausführlichen Darstellungen der Wiedergeburt finden sich in den 
 
 **Kategorie:** Primärquellenbeleg.
 
-Die Chāndogya-Upaniṣad verbindet die Wiedergeburt bereits mit dem **Verhalten**. Wer hier angenehm gelebt hat, gelangt rasch in einen angenehmen Mutterschoß, wer übel gehandelt hat, in einen üblen (ChU 5.10.7, *Stelle prüfen*). Die Bṛhadāraṇyaka-Upaniṣad formuliert das Prinzip allgemein:
+Die Chāndogya-Upaniṣad verbindet die Wiedergeburt bereits mit dem **Verhalten**. Wer hier angenehm gelebt hat, gelangt rasch in einen angenehmen Mutterschoß, wer übel gehandelt hat, in einen üblen (ChU 5.10.7). Die Bṛhadāraṇyaka-Upaniṣad formuliert das Prinzip allgemein:
 
 > yathākārī yathācārī tathā bhavati
 > *(Bṛhadāraṇyaka-Upaniṣad 4.4.5)*

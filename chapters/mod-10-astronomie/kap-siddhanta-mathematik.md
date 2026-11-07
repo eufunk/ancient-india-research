@@ -8,7 +8,7 @@ summary: Indien hat die Geschichte der Mathematik entscheidend geprägt – mit 
 reading_time: 14
 evidence: [primary, established, hypothesis, disputed]
 status: review
-verification: partial
+verification: verified
 learning_objectives:
   - Die geometrischen Regeln der Śulbasūtras und ihren rituellen Zweck erklären.
   - Kombinatorische Verfahren in Grammatik und Metrik (Pāṇini, Piṅgala) beschreiben.
@@ -79,7 +79,7 @@ Die ältesten mathematischen Texte Indiens sind die **Śulbasūtras**, die „Sc
 
 Die Texte enthalten unter anderem:
 
-- eine allgemeine Aussage über das rechtwinklige Dreieck: Die Schnur über der Diagonale eines Rechtecks erzeugt so viel Fläche wie die Schnüre über beiden Seiten zusammen (Baudhāyana-Śulbasūtra 1.48, *Stelle prüfen*) – inhaltlich der Satz, der in Europa nach Pythagoras benannt ist;
+- eine allgemeine Aussage über das rechtwinklige Dreieck: Die Schnur über der Diagonale eines Rechtecks erzeugt so viel Fläche wie die Schnüre über beiden Seiten zusammen (Baudhāyana-Śulbasūtra 1.48 in der Zählung von Sen/Bag 1983; andere Ausgaben zählen abweichend) – inhaltlich der Satz, der in Europa nach Pythagoras benannt ist;
 - Listen ganzzahliger Seitenverhältnisse rechtwinkliger Dreiecke, etwa 3–4–5 und 5–12–13;
 - eine bemerkenswert genaue Näherung für die Diagonale eines Quadrats, also für √2: 1 + 1/3 + 1/(3·4) − 1/(3·4·34) ≈ 1,4142156 (der wahre Wert ist 1,4142135…);
 - Verfahren, ein Quadrat näherungsweise in einen flächengleichen Kreis zu verwandeln und umgekehrt.

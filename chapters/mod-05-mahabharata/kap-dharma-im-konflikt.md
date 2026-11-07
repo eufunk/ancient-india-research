@@ -8,7 +8,7 @@ summary: Das Mahābhārata ist ein Epos über ein Problem, das sich nicht lösen
 reading_time: 14
 evidence: [primary, hypothesis, disputed, tradition]
 status: review
-verification: partial
+verification: verified
 learning_objectives:
   - Die Vieldeutigkeit des Begriffs dharma im Mahābhārata erklären.
   - Draupadīs Frage beim Würfelspiel und ihre Bedeutung wiedergeben.
@@ -76,7 +76,7 @@ scenario: |
 
 Das Wort **dharma** begegnet im Mahābhārata auf fast jeder Seite. Es bezeichnet die Ordnung der Welt, das Recht, die Pflichten eines Standes und einer Lebensphase, die Tugend und das Wesen eines Dinges. Das Epos nimmt diesen Begriff nicht als feste Größe, sondern führt immer wieder Situationen vor, in denen verschiedene Formen von Dharma **gegeneinander** stehen. Darum hat die Forschung das Mahābhārata als großes Werk über **moralische Dilemmata** gelesen (Matilal 1989). **Kategorie:** Wissenschaftliche Hypothese (breit geteilte Deutung).
 
-Eine Formel kehrt dabei wieder: Der Dharma sei **sūkṣma**, fein, subtil, schwer zu erkennen. Sie ist ein Eingeständnis – auch die Weisesten wissen nicht immer, was richtig ist. **Kategorie:** Primärquellenbeleg (die Formel; einzelne Stellen prüfen).
+Eine Formel kehrt dabei wieder: Der Dharma sei **sūkṣma**, fein, subtil, schwer zu erkennen. Sie ist ein Eingeständnis – auch die Weisesten wissen nicht immer, was richtig ist. **Kategorie:** Primärquellenbeleg (die Formel; z. B. Mahābhārata 1.188.11, 2.60.40, 3.200.2, 13.10.2).
 
 ## Das Würfelspiel
 
@@ -84,7 +84,7 @@ Der Konflikt eskaliert im **Sabhāparvan**. Duryodhana, voller Neid auf die prä
 
 Yudhiṣṭhira verliert Runde um Runde. Am Ende setzt er Draupadī. Die Frage, die sie daraufhin stellt, ist ein rechtliches Problem von großer Schärfe: Hatte ein Mann, der sich selbst schon verspielt hatte und damit unfrei war, noch das Recht, seine Frau einzusetzen? Die Versammlung findet keine Antwort. [[bhishma|Bhīṣma]] erklärt, der Dharma sei zu subtil, um die Frage zu entscheiden. Einzig Vikarṇa, einer der Kaurava-Brüder, ergreift für Draupadī Partei. **Kategorie:** Primärquellenbeleg.
 
-Dann folgt die Demütigung: Duḥśāsana versucht, Draupadī vor der Versammlung zu entkleiden. Doch ihr Gewand nimmt kein Ende. In vielen späteren Fassungen und in der Volkstradition betet Draupadī zu Kṛṣṇa, der sie rettet; in der Kritischen Edition ist der Gebetsruf an Kṛṣṇa in diesem Zusammenhang nicht in den Haupttext aufgenommen *(Stelle prüfen)*. **Kategorie:** Primärquellenbeleg / Traditionelle Überlieferung (Ausgestaltung).
+Dann folgt die Demütigung: Duḥśāsana versucht, Draupadī vor der Versammlung zu entkleiden. Doch ihr Gewand nimmt kein Ende. In vielen späteren Fassungen und in der Volkstradition betet Draupadī zu Kṛṣṇa, der sie rettet; in der Kritischen Edition ist der Gebetsruf an Kṛṣṇa in diesem Zusammenhang nicht in den Haupttext aufgenommen (Mahābhārata 2.61.40–41; die Anrufungen Kṛṣṇas stehen nur in den Zusatzstellen 2.61.40\*542–550 des Apparats). **Kategorie:** Primärquellenbeleg / Traditionelle Überlieferung (Ausgestaltung).
 
 Erst als Unheilszeichen auftreten, greift der blinde König Dhṛtarāṣṭra ein und gewährt Draupadī Wünsche. Sie nutzt sie, um ihre Männer zu befreien – nicht sich selbst zuerst, sondern zuerst Yudhiṣṭhira. Ein zweites Spiel führt dann doch zur Verbannung: zwölf Jahre im Wald, ein Jahr unerkannt.
 
@@ -110,7 +110,7 @@ Karṇa ist zugleich großzügig und grausam: Er verschenkt seine angeborene sch
 
 ## Ein Sieg durch Regelbrüche
 
-Vor der Schlacht vereinbaren beide Seiten Regeln des Kampfes, den *dharmayuddha*: Ebenbürtige sollen gegen Ebenbürtige kämpfen, Wehrlose und Fliehende sollen verschont werden. **Kategorie:** Primärquellenbeleg *(Stelle im Bhīṣmaparvan prüfen)*.
+Vor der Schlacht vereinbaren beide Seiten Regeln des Kampfes, den *dharmayuddha*: Ebenbürtige sollen gegen Ebenbürtige kämpfen, Wehrlose und Fliehende sollen verschont werden. **Kategorie:** Primärquellenbeleg *(Mahābhārata 6.1.26–33)*.
 
 Die Pāṇḍavas gewinnen den Krieg jedoch nur, indem sie diese Regeln immer wieder brechen – meist auf Rat [[krishna|Kṛṣṇas]]:
 
@@ -130,10 +130,10 @@ Bhīṣma, von Arjunas Pfeilen durchbohrt, liegt nach seinem Fall auf einem Bett
 Der Śāntiparvan gliedert sich in drei große Teile:
 
 1. **Rājadharma** – die Pflichten des Königs: Schutz der Untertanen, Strafe, Diplomatie, Krieg.
-2. **Āpaddharma** – der Dharma der Notlage: Was gilt, wenn die normalen Regeln nicht eingehalten werden können? Eine bekannte Geschichte erzählt von dem Weisen Viśvāmitra, der in einer Hungersnot Hundefleisch stiehlt, um zu überleben *(Stelle prüfen)*.
+2. **Āpaddharma** – der Dharma der Notlage: Was gilt, wenn die normalen Regeln nicht eingehalten werden können? Eine bekannte Geschichte erzählt von dem Weisen Viśvāmitra, der in einer Hungersnot Hundefleisch stiehlt, um zu überleben *(Mahābhārata 12.139)*.
 3. **Mokṣadharma** – Lehren über die Befreiung, in denen Sāṃkhya, Yoga und frühe Formen des Vedānta erscheinen.
 
-Der Anuśāsanaparvan ergänzt Lehren über Schenkungen, Speisen, Gelübde und vieles mehr. In diesem Zusammenhang erscheint im Epos auch die vielzitierte Formel, Gewaltlosigkeit (*ahiṃsā*) sei der höchste Dharma *(Stellen prüfen)*. **Kategorie:** Primärquellenbeleg.
+Der Anuśāsanaparvan ergänzt Lehren über Schenkungen, Speisen, Gelübde und vieles mehr. In diesem Zusammenhang erscheint im Epos auch die vielzitierte Formel, Gewaltlosigkeit (*ahiṃsā*) sei der höchste Dharma *(z. B. Mahābhārata 13.116.1, 13.116.25, 13.117.37; ähnlich schon 1.11.12 und 3.198.69)*. **Kategorie:** Primärquellenbeleg.
 
 Dass ausgerechnet der Krieger Bhīṣma nach dem großen Blutvergießen Gewaltlosigkeit lehrt, ist keine Inkonsequenz, sondern Teil der Spannung, die das Epos aushält. Die Forschung hat diese Lehrbücher oft als spätere Erweiterungen betrachtet, in denen das Epos zu einem Lehrwerk über Dharma ausgebaut wurde (Brockington 1998); andere sehen in ihnen den geplanten Höhepunkt der „Erziehung des Dharma-Königs“ (Hiltebeitel 2001). **Kategorie:** Umstritten.
 

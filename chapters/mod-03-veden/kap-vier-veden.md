@@ -8,7 +8,7 @@ summary: „Der Veda“ ist keine einzelne Schrift, sondern ein Korpus aus vier 
 reading_time: 13
 evidence: [primary, established, hypothesis, tradition, disputed]
 status: review
-verification: partial
+verification: verified
 learning_objectives:
   - Die vier Veden benennen und ihren jeweiligen Inhalt und Zweck beschreiben.
   - Die vier Priesterämter des Śrauta-Rituals den Veden zuordnen.
@@ -108,13 +108,13 @@ Der Yajurveda ist in zwei Hauptformen überliefert:
 
 **Kategorie:** Primärquellenbeleg / Wissenschaftlich gesichert.
 
-Die Tradition erzählt zur Spaltung eine Legende. Der Weise Yājñavalkya habe sich mit seinem Lehrer überworfen und das gelernte Wissen wieder ausspeien müssen. Andere Schüler hätten es in Gestalt von Rebhühnern (*tittiri*) aufgepickt, daher der Name „Taittirīya“. Yājñavalkya selbst habe vom Sonnengott einen neuen, „weißen“ Yajurveda empfangen (u. a. Viṣṇu-Purāṇa, Buch 3, *Stelle prüfen*). **Kategorie:** Traditionelle Überlieferung. Die Forschung erklärt die Unterschiede dagegen mit getrennten regionalen Schultraditionen und einer späteren systematischen Neuordnung, die vermutlich im Osten Nordindiens stattfand (Witzel 1997). **Kategorie:** Wissenschaftliche Hypothese.
+Die Tradition erzählt zur Spaltung eine Legende. Der Weise Yājñavalkya habe sich mit seinem Lehrer überworfen und das gelernte Wissen wieder ausspeien müssen. Andere Schüler hätten es in Gestalt von Rebhühnern (*tittiri*) aufgepickt, daher der Name „Taittirīya“. Yājñavalkya selbst habe vom Sonnengott einen neuen, „weißen“ Yajurveda empfangen (u. a. Viṣṇu-Purāṇa 3.5). **Kategorie:** Traditionelle Überlieferung. Die Forschung erklärt die Unterschiede dagegen mit getrennten regionalen Schultraditionen und einer späteren systematischen Neuordnung, die vermutlich im Osten Nordindiens stattfand (Witzel 1997). **Kategorie:** Wissenschaftliche Hypothese.
 
 ## Der Atharvaveda: der Veda des Alltags
 
 Der **Atharvaveda** unterscheidet sich am stärksten von den anderen drei. Er ist weniger an das große Opfer gebunden und spiegelt mehr die Sorgen des Alltags. Man findet darin Heilsprüche gegen Fieber, Husten und Schlangenbiss, Liebeszauber, Schutzformeln für Haus und Vieh, Flüche gegen Feinde, Rituale für Könige, Hochzeits- und Bestattungslieder. Dazu kommen einige der eindrucksvollsten philosophischen Hymnen der vedischen Literatur, etwa über die Zeit (*kāla*) oder über das Brahman. **Kategorie:** Primärquellenbeleg.
 
-Die Saṃhitā ist in zwei Fassungen erhalten: in der **Śaunaka-Rezension** mit 20 Büchern und in der **Paippalāda-Rezension**. Diese war lange nur aus einer einzigen Birkenrinden-Handschrift aus Kaschmir bekannt. Im 20. Jahrhundert wurden in Odisha weitere Handschriften und eine lebende Rezitationstradition entdeckt. **Kategorie:** Wissenschaftlich gesichert (Einzelheiten der Entdeckungsgeschichte prüfen). Eine vollständige englische Übersetzung der Śaunaka-Fassung legten William Dwight Whitney und Charles Lanman 1905 vor.
+Die Saṃhitā ist in zwei Fassungen erhalten: in der **Śaunaka-Rezension** mit 20 Büchern und in der **Paippalāda-Rezension**. Diese war lange nur aus einer einzigen Birkenrinden-Handschrift aus Kaschmir bekannt. In den 1950er Jahren entdeckte Durgamohan Bhattacharyya in Odisha weitere Handschriften (Palmblatt) und eine lebende Rezitationstradition. **Kategorie:** Wissenschaftlich gesichert. Eine vollständige englische Übersetzung der Śaunaka-Fassung legten William Dwight Whitney und Charles Lanman 1905 vor.
 
 Der Atharvaveda wurde erst nach und nach als vierter Veda anerkannt. Ältere Texte sprechen von der *trayī vidyā*, dem „dreifachen Wissen“. Viele Forscher sehen darin einen Hinweis, dass die Atharvan-Texte zunächst einer anderen, weniger angesehenen Sphäre angehörten: der Heilkunst, der Magie und dem Dienst an Königen. **Kategorie:** Wissenschaftliche Hypothese.
 

@@ -8,7 +8,7 @@ summary: Die Purāṇas beschreiben die Welt als riesige Scheibe aus sieben ring
 reading_time: 12
 evidence: [primary, established, hypothesis, tradition]
 status: review
-verification: partial
+verification: verified
 learning_objectives:
   - Den Aufbau der purāṇischen Welt (Dvīpas, Meere, Meru, Jambudvīpa) beschreiben.
   - Die Stellung Bhāratavarṣas im purāṇischen Weltbild erklären.
@@ -71,15 +71,15 @@ Die Purāṇas beschreiben nicht nur die Zeit, sondern auch den **Raum** der Wel
 
 ## Sieben Kontinente, sieben Meere
 
-Im Zentrum der Welt liegt der Kontinent **Jambudvīpa**, benannt nach dem Rosenapfelbaum (*jambu*). Er ist von einem **Salzmeer** umgeben. Um dieses Meer legt sich ein weiterer, ringförmiger Kontinent, um diesen ein weiteres Meer – und so fort, bis es **sieben Kontinente** und **sieben Meere** sind. Nach dem Viṣṇu-Purāṇa heißen die Kontinente **Jambu, Plakṣa, Śālmali, Kuśa, Krauñca, Śāka** und **Puṣkara** (*Stelle prüfen*). **Kategorie:** Primärquellenbeleg.
+Im Zentrum der Welt liegt der Kontinent **Jambudvīpa**, benannt nach dem Rosenapfelbaum (*jambu*). Er ist von einem **Salzmeer** umgeben. Um dieses Meer legt sich ein weiterer, ringförmiger Kontinent, um diesen ein weiteres Meer – und so fort, bis es **sieben Kontinente** und **sieben Meere** sind. Nach dem Viṣṇu-Purāṇa heißen die Kontinente **Jambu, Plakṣa, Śālmali, Kuśa, Krauñca, Śāka** und **Puṣkara** (Viṣṇu-Purāṇa 2.2.5). **Kategorie:** Primärquellenbeleg.
 
-Die Meere bestehen nicht alle aus Wasser. Auf das Salzmeer folgen der Reihe nach Meere aus **Zuckerrohrsaft**, **Wein**, **Butterschmalz** (*ghṛta*), **Dickmilch**, **Milch** und schließlich **Süßwasser**. Jeder Kontinent ist doppelt so breit wie der vorhergehende, jedes Meer entspricht in der Breite dem Kontinent, den es umgibt. Jenseits des letzten Meeres liegt ein goldenes Land und eine Grenzgebirgskette, hinter der Dunkelheit herrscht (*Stelle prüfen*). **Kategorie:** Primärquellenbeleg.
+Die Meere bestehen nicht alle aus Wasser. Auf das Salzmeer folgen der Reihe nach Meere aus **Zuckerrohrsaft**, **Wein**, **Butterschmalz** (*ghṛta*), **Dickmilch**, **Milch** und schließlich **Süßwasser**. Jeder Kontinent ist doppelt so breit wie der vorhergehende, jedes Meer entspricht in der Breite dem Kontinent, den es umgibt. Jenseits des letzten Meeres liegt ein goldenes Land und eine Grenzgebirgskette, hinter der Dunkelheit herrscht (Viṣṇu-Purāṇa 2.2.6; 2.4, bes. 2.4.87 und 2.4.93–95). **Kategorie:** Primärquellenbeleg.
 
 Für ein heutiges Publikum wirken solche Meere fremd. Man versteht sie besser, wenn man sie nicht als missglückte Erdkunde liest, sondern als **symbolische Ordnung**: Die Substanzen der Meere sind Dinge, die im Ritual und im Alltag kostbar sind – Milch, Butterschmalz, Dickmilch –, und ihre Abfolge ordnet die Welt zu einem Muster von wachsender Reinheit und Fülle. **Kategorie:** Wissenschaftliche Hypothese.
 
 ## Der Weltberg
 
-In der Mitte Jambudvīpas erhebt sich der **Meru**, ein goldener Berg von gewaltiger Höhe. Das Viṣṇu-Purāṇa nennt eine Höhe von 84.000 *yojanas* über der Erde und 16.000 *yojanas* unter ihr (*Stelle prüfen*). Auf seinem Gipfel liegen die Städte der Götter, besonders die Stadt Brahmās. Um ihn herum kreisen Sonne, Mond und Sterne. **Kategorie:** Primärquellenbeleg.
+In der Mitte Jambudvīpas erhebt sich der **Meru**, ein goldener Berg von gewaltiger Höhe. Das Viṣṇu-Purāṇa nennt eine Höhe von 84.000 *yojanas* über der Erde und 16.000 *yojanas* unter ihr (Viṣṇu-Purāṇa 2.2.8–9). Auf seinem Gipfel liegen die Städte der Götter, besonders die Stadt Brahmās. Um ihn herum kreisen Sonne, Mond und Sterne. **Kategorie:** Primärquellenbeleg.
 
 Der Meru ist die **Achse der Welt** – das, was Himmel und Erde verbindet und um das sich alles ordnet. Dieses Bild hat die indische Kunst und Architektur tief geprägt. Viele Tempel, besonders in Nordindien und Südostasien, werden als Abbild des Weltbergs verstanden; ihr hoher Turm steht symbolisch für den Meru. **Kategorie:** Wissenschaftlich gesichert (Tempelsymbolik).
 
@@ -89,13 +89,13 @@ Immer wieder wurde versucht, den Meru mit einem realen Gebirge gleichzusetzen, e
 
 Jambudvīpa ist in **neun Regionen** (*varṣa*) gegliedert, die durch große Gebirgsketten getrennt sind. Die südlichste ist **Bhāratavarṣa**, das Land des Königs Bharata – im Wesentlichen der indische Subkontinent, nördlich begrenzt durch den Himālaya (*Himavat*). **Kategorie:** Primärquellenbeleg.
 
-Bhāratavarṣa hat im purāṇischen Weltbild eine Sonderstellung. Das Viṣṇu-Purāṇa beschreibt es als **karmabhūmi**, als „Land des Handelns“: Nur hier tragen Handlungen Früchte für die künftigen Geburten, nur von hier aus sind Himmel oder Befreiung erreichbar. Die anderen Regionen sind Länder des Genusses, in denen die Wesen die Früchte früherer Taten ernten. Darum, so sagt der Text, preisen selbst die Götter diejenigen, die in Bhārata geboren werden (*Stelle prüfen*). **Kategorie:** Primärquellenbeleg.
+Bhāratavarṣa hat im purāṇischen Weltbild eine Sonderstellung. Das Viṣṇu-Purāṇa beschreibt es als **karmabhūmi**, als „Land des Handelns“: Nur hier tragen Handlungen Früchte für die künftigen Geburten, nur von hier aus sind Himmel oder Befreiung erreichbar. Die anderen Regionen sind Länder des Genusses, in denen die Wesen die Früchte früherer Taten ernten. Darum, so sagt der Text, preisen selbst die Götter diejenigen, die in Bhārata geboren werden (Viṣṇu-Purāṇa 2.3.2 und 2.3.22–24). **Kategorie:** Primärquellenbeleg.
 
 Hier verbinden sich Geografie und Ethik: Der Ort, an dem man geboren ist, wird zum Schauplatz der moralischen und religiösen Entscheidung.
 
 ## Wo die Beschreibung real wird
 
-Sobald die Purāṇas Bhāratavarṣa selbst beschreiben, ändert sich der Ton. Nun werden **reale Gebirge, Flüsse und Völker** aufgezählt. Zu den sieben Hauptgebirgen (*kulaparvata*) gehören etwa **Mahendra**, **Malaya**, **Sahya**, **Śuktimat**, **Ṛkṣa**, **Vindhya** und **Pāriyātra**; viele davon lassen sich mit heutigen Bergzügen verbinden – der Vindhya mit dem Vindhya-Gebirge Zentralindiens, der Sahya mit den Westghats, der Malaya mit den südlichen Bergen Keralas und Tamil Nadus (*Stelle prüfen*). Aus jedem Gebirge entspringen Flüsse, die namentlich genannt werden, und es folgen Listen von Völkern und Regionen im Norden, Osten, Süden und Westen. **Kategorie:** Primärquellenbeleg / Wissenschaftlich gesichert (Teilidentifikationen).
+Sobald die Purāṇas Bhāratavarṣa selbst beschreiben, ändert sich der Ton. Nun werden **reale Gebirge, Flüsse und Völker** aufgezählt. Zu den sieben Hauptgebirgen (*kulaparvata*) gehören etwa **Mahendra**, **Malaya**, **Sahya**, **Śuktimat**, **Ṛkṣa**, **Vindhya** und **Pāriyātra**; viele davon lassen sich mit heutigen Bergzügen verbinden – der Vindhya mit dem Vindhya-Gebirge Zentralindiens, der Sahya mit den Westghats, der Malaya mit den südlichen Bergen Keralas und Tamil Nadus (Liste: Viṣṇu-Purāṇa 2.3.3; Identifikationen nach Wilsons Anmerkungen zur Stelle, Wilson 1840). Aus jedem Gebirge entspringen Flüsse, die namentlich genannt werden, und es folgen Listen von Völkern und Regionen im Norden, Osten, Süden und Westen. **Kategorie:** Primärquellenbeleg / Wissenschaftlich gesichert (Teilidentifikationen).
 
 Historische Geografen wie D. C. Sircar haben diese Listen systematisch ausgewertet, um alte Orts- und Völkernamen zu bestimmen (Sircar 1960). Dabei zeigt sich: Die Listen enthalten **echte geografische Kenntnisse**, sind aber nicht einheitlich datiert, teils durch spätere Abschreiber verändert und nicht immer eindeutig zuzuordnen. **Kategorie:** Wissenschaftlich gesichert (Methode), Umstritten (viele Einzelzuordnungen).
 

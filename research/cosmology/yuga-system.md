@@ -32,7 +32,7 @@ created: 2026-11-07
 updated: 2026-11-07
 ---
 
-> **Hinweis zum Prüfstand:** Die Zahlenwerte des Systems sind in der Fachliteratur gut dokumentiert. Die genauen **Vers- und Kapitelangaben** sind aus der Sekundärliteratur übernommen und noch **nicht durchgehend am Originaltext der kritischen Editionen geprüft**. Ungeprüfte Stellen sind mit *(Stelle prüfen)* markiert.
+> **Hinweis zum Prüfstand:** Die Zahlenwerte des Systems sind in der Fachliteratur gut dokumentiert. Die **Vers- und Kapitelangaben** sind am online zugänglichen Text geprüft: Manusmṛti am SARIT-E-Text (Ausgabe Shastri 1983), Mahābhārata am E-Text der kritischen Edition (BORI), Viṣṇupurāṇa, Sūryasiddhānta und Āryabhaṭīya an den Scans von Wilson 1840, Burgess 1860 und Clark 1930 (archive.org). **Offen** ist der direkte Abgleich der Manu-Stellen mit der gedruckten kritischen Edition Olivelles (2005).
 
 ## 1. Zusammenfassung
 
@@ -56,7 +56,7 @@ Jedes Yuga besteht aus einem Kern und zwei Dämmerungen (*sandhyā* am Anfang, *
 | Kali | 100 | 1.000 | 100 | 1.200 | 432.000 | 1 Fuß |
 | **Mahāyuga** | | | | **12.000** | **4.320.000** | |
 
-Das Bild vom Dharma als Stier, der im Kṛta-Yuga auf vier Füßen steht und in jedem folgenden Yuga einen Fuß verliert, ist u. a. in der Manusmṛti überliefert (Manu 1.81–82, *Stelle prüfen*). **Kategorie:** Primärquellenbeleg / Traditionelle Überlieferung.
+Das Bild vom Dharma als Stier, der im Kṛta-Yuga auf vier Füßen steht und in jedem folgenden Yuga einen Fuß verliert, ist u. a. in der Manusmṛti überliefert (Manu 1.81–82: der Dharma ist im Kṛta-Yuga „vierfüßig“, *catuṣpāt*, und wird in den übrigen Yugas „fußweise“, *pādaśaḥ*, gemindert; als Stier, *vṛṣa*, bezeichnet Manu 8.16 den Dharma). **Kategorie:** Primärquellenbeleg / Traditionelle Überlieferung.
 
 ### 2.2 Vom Mahāyuga zum Leben Brahmās
 
@@ -71,17 +71,17 @@ Nachvollziehbare Rechnung (alle Werte in Menschenjahren):
 5. **Jahr Brahmās** = 360 × 8.640.000.000 = **3.110.400.000.000**
 6. **Leben Brahmās** = 100 Jahre = **311.040.000.000.000** (≈ 3,11 × 10¹⁴)
 
-Die Aufteilung des Kalpa in 14 × 71 Mahāyugas plus 15 Sandhis ist in dieser Form für den **Sūryasiddhānta** (Kap. 1, *Stelle prüfen*) dokumentiert (Burgess 1860). Ältere Texte sprechen einfacher von „1.000 Yugas“ als Tag Brahmās und von 71 Yugas als Manvantara, ohne die Differenz (14 × 71 = 994) ausdrücklich auszugleichen.
+Die Aufteilung des Kalpa in 14 × 71 Mahāyugas plus 15 Sandhis ist in dieser Form für den **Sūryasiddhānta** (1.18–19 in der Zählung Burgess 1860) dokumentiert (Burgess 1860). Ältere Texte sprechen einfacher von „1.000 Yugas“ als Tag Brahmās und von 71 Yugas als Manvantara, ohne die Differenz (14 × 71 = 994) ausdrücklich auszugleichen.
 
 ### 2.3 Pralaya – die Auflösung
 
-Die Purāṇas unterscheiden mehrere Arten der Auflösung. Das Viṣṇupurāṇa (Buch 6, nach Wilson 1840, *Stelle prüfen*) beschreibt u. a.:
+Die Purāṇas unterscheiden mehrere Arten der Auflösung. Das Viṣṇupurāṇa (Buch 6, Kap. 3–5, nach Wilson 1840) beschreibt drei Arten:
 
 - **naimittika pralaya** – die „gelegentliche“ Auflösung am Ende jedes Tages Brahmās (Kalpa);
 - **prākṛta pralaya** – die Auflösung aller Elemente in die Urnatur (*prakṛti*) am Ende von Brahmās Leben;
 - **ātyantika pralaya** – die „endgültige“ Auflösung als individuelle Befreiung.
 
-Spätere Darstellungen ergänzen eine **nitya pralaya** (beständiges Vergehen). **Kategorie:** Traditionelle Überlieferung.
+An anderer Stelle (Buch 1, Kap. 7, nach Wilson 1840) nennt das Viṣṇupurāṇa vier Arten und ergänzt eine **nitya pralaya** (beständiges Vergehen). **Kategorie:** Traditionelle Überlieferung.
 
 ### 2.4 Die gegenwärtige Position in der Zeit (traditionell)
 
@@ -91,11 +91,11 @@ Nach purāṇischer Tradition befinden wir uns im Kali-Yuga des 28. Mahāyuga im
 
 | Text | Inhalt | Stelle | Prüfstand |
 |---|---|---|---|
-| [[manusmriti]] | Zeitmaße, vier Yugas mit Dämmerungen, Götterjahr, Tag Brahmās, Manvantara | Manu 1.64–86 | Bereich laut Olivelle (2005); Einzelverse prüfen |
-| [[mahabharata]] | Yuga-Lehre in Lehrgesprächen (u. a. Mārkaṇḍeya-Episode im Vanaparvan; Lehre Vyāsas im Śāntiparvan) | MBh (CE) 3.186–188; 12.224 | aus Sekundärliteratur, prüfen |
-| [[vishnu-purana]] | Zeitmaße, Yugas, Manvantaras, Kalpas; Pralaya | ViP 1.3; Buch 6 | nach Wilson 1840, prüfen |
-| [[surya-siddhanta]] | Yuga-System als Rechengrundlage, 15 Sandhis | SūSi 1 | nach Burgess 1860, prüfen |
-| [[aryabhatiya]] | Abweichende Einteilung; Kali-Jahr 3600 | Gītikāpāda; Kālakriyāpāda 10 | nach Clark 1930, prüfen |
+| [[manusmriti]] | Zeitmaße, vier Yugas mit Dämmerungen, Götterjahr, Tag Brahmās, Manvantara | Manu 1.64–86 (Zeitmaße 1.64–67; Yugas 1.68–71; Tag Brahmās 1.72–73; Manvantara 1.79; Dharma je Yuga 1.81–86) | am SARIT-E-Text (Shastri 1983) geprüft; Abgleich mit Olivelle (2005) offen |
+| [[mahabharata]] | Yuga-Lehre in Lehrgesprächen (u. a. Mārkaṇḍeya-Episode im Vanaparvan; Lehre Vyāsas im Śāntiparvan) | MBh (CE) 3.186–188 (Yuga-Längen 3.186.18–23); 12.224 (Yuga-Längen 12.224.18–20) | am E-Text der kritischen Edition (BORI) geprüft |
+| [[vishnu-purana]] | Zeitmaße, Yugas, Manvantaras, Kalpas; Pralaya | ViP 1.3; 1.7 (vier Arten des Pralaya); 6.3–5 | an Wilson 1840 (archive.org-Scan) geprüft |
+| [[surya-siddhanta]] | Yuga-System als Rechengrundlage, 15 Sandhis | SūSi 1.15–19 | an Burgess 1860 (archive.org-Scan) geprüft |
+| [[aryabhatiya]] | Abweichende Einteilung; Kali-Jahr 3600 | Gītikāpāda 3; Kālakriyāpāda 10 | an Clark 1930 (archive.org-Scan) geprüft |
 
 **Originalstelle (Beispiel, Manusmṛti 1.69):**
 
@@ -104,7 +104,7 @@ Nach purāṇischer Tradition befinden wir uns im Kali-Yuga des 28. Mahāyuga im
 
 *Arbeitsübersetzung (eigene, nicht aus einer Edition übernommen):* „Viertausend Jahre, sagt man, umfasst das Kṛta-Yuga; seine Dämmerung umfasst ebenso viele Hunderte, und ebenso die Abenddämmerung.“
 
-Der Wortlaut folgt der verbreiteten Vulgata; der **Abgleich mit der kritischen Edition Olivelles steht aus**. Bemerkenswert ist, dass dieser Vers selbst nicht von Götterjahren spricht – die Umrechnung ergibt sich erst aus dem Kontext (Manu 1.67, 1.71, *Stelle prüfen*).
+Der Wortlaut folgt der verbreiteten Vulgata und ist am SARIT-E-Text (Shastri 1983) geprüft; derselbe Vers steht wortgleich in MBh (CE) 12.224.19. Der **Abgleich mit der kritischen Edition Olivelles steht aus**. Bemerkenswert ist, dass dieser Vers selbst nicht von Götterjahren spricht – die Umrechnung ergibt sich erst aus dem Kontext (Manu 1.67: ein Menschenjahr ist Tag und Nacht der Götter; 1.71: die 12.000 Jahre heißen „Yuga der Götter“).
 
 ## 4. Historischer Kontext
 
@@ -122,7 +122,7 @@ Der Wortlaut folgt der verbreiteten Vulgata; der **Abgleich mit der kritischen E
 
 ## 6. Abweichende Überlieferungen und Interpretationen
 
-- **Āryabhaṭa (499 n. Chr.):** Teilt das Mahāyuga in **vier gleich lange Viertel** (*yugapāda*) von je 1.080.000 Jahren und rechnet nach Darstellung der Sekundärliteratur mit 72 Mahāyugas pro Manvantara. Brahmagupta (7. Jh.) kritisierte diese Abweichung. *(Stellen in Clark 1930 prüfen.)*
+- **Āryabhaṭa (499 n. Chr.):** Rechnet mit 72 Mahāyugas pro Manvantara (Gītikāpāda 3). Eine Teilung des Mahāyuga in **vier gleich lange Viertel** (*yugapāda*) von je 1.080.000 Jahren sagt der Text nicht ausdrücklich; sie wird aus dem Begriff *yugapāda* erschlossen und ihm von Brahmagupta zugeschrieben (Clark 1930 zu Gītikāpāda 3). Brahmagupta (7. Jh.) kritisierte diese Abweichung (Brāhmasphuṭasiddhānta 1.9; 11.4, nach Clark 1930).
 - **Purāṇische Varianten:** Einzelne Purāṇas weichen in Details ab, etwa bei den Sandhis oder bei der Zählung der Manvantaras. Ein systematischer Vergleich steht noch aus.
 - **Sri Yukteswar (1894):** Interpretiert die Yugas als **24.000-jährigen Zyklus** (zwei Bögen à 12.000 Jahre) und verlegt das Ende des Kali-Yuga in das Jahr 499 n. Chr. Diese Deutung ist religiös-esoterisch begründet und **nicht** Bestandteil der klassischen Textüberlieferung. **Kategorie:** Moderne Neuinterpretation (geringe Quellenqualität für historische Fragen).
 - **Wörtlich-traditionelle Lesart:** In vielen religiösen Traditionen werden die Zahlen als tatsächliche kosmische Zeiträume verstanden. Das ist als **Traditionelle Überlieferung** zu dokumentieren, nicht als historische oder naturwissenschaftliche Aussage.
@@ -138,7 +138,7 @@ Der Wortlaut folgt der verbreiteten Vulgata; der **Abgleich mit der kritischen E
 | Clark 1930 | Übersetzung | mittel | Standard für Āryabhaṭa, aber älter |
 | Pingree 1981 | Fachbuch | hoch | Standardüberblick |
 | González-Reimann 2002 | Monografie | hoch | Spezialstudie zu Mahābhārata und Yugas |
-| Kielhorn (EI 6) | Inschriften-Edition | hoch | Bibliografie prüfen |
+| Kielhorn (EI 6) | Inschriften-Edition | hoch | EI 6 (1900–01), S. 1–12 |
 | Yukteswar 1894 | Moderne Deutung | gering | nur als Beleg dieser Lesart |
 
 ## 8. Offene Forschungsfragen

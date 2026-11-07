@@ -8,7 +8,7 @@ summary: Sāṃkhya ist die älteste systematische Philosophie Indiens. Sie unte
 reading_time: 14
 evidence: [primary, established, hypothesis, disputed, tradition]
 status: review
-verification: partial
+verification: verified
 learning_objectives:
   - Den Dualismus von Puruṣa und Prakṛti und die 25 Prinzipien des Sāṃkhya erklären.
   - Die drei Guṇas beschreiben und ihre Rolle in Sāṃkhya, Yoga und Bhagavad Gītā erkennen.
@@ -119,7 +119,7 @@ Grundlage dieser Entfaltung ist die Lehre vom **satkāryavāda**: Die Wirkung is
 
 ## Warum leiden wir, und wie werden wir frei?
 
-Das Leiden entsteht nach dem Sāṃkhya aus einer **Verwechslung**. Der Puruṣa hält die Vorgänge der Natur – Denken, Fühlen, Wünschen – für seine eigenen. Die Sāṃkhyakārikā vergleicht das mit einem Blinden und einem Lahmen, die sich zusammentun. Die Natur kann handeln, aber nicht sehen. Der Puruṣa kann sehen, aber nicht handeln. **Kategorie:** Primärquellenbeleg *(Stelle prüfen)*.
+Das Leiden entsteht nach dem Sāṃkhya aus einer **Verwechslung**. Der Puruṣa hält die Vorgänge der Natur – Denken, Fühlen, Wünschen – für seine eigenen. Die Sāṃkhyakārikā vergleicht das mit einem Blinden und einem Lahmen, die sich zusammentun. Die Natur kann handeln, aber nicht sehen. Der Puruṣa kann sehen, aber nicht handeln. **Kategorie:** Primärquellenbeleg *(Sāṃkhyakārikā 21)*.
 
 Befreiung geschieht durch **unterscheidende Erkenntnis** (*viveka*). Wer klar erkennt, dass er der Zeuge ist und nicht das Bezeugte, für den „zieht sich die Natur zurück“, wie eine Tänzerin, die ihren Tanz beendet, wenn sie gesehen wurde. Der befreite Zustand heißt **kaivalya**, „Alleinsein“ des Bewusstseins. Einen Schöpfergott braucht der klassische Sāṃkhya dafür nicht. **Kategorie:** Primärquellenbeleg / Traditionelle Überlieferung (Lehrinhalt).
 

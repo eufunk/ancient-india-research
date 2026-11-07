@@ -8,7 +8,7 @@ summary: Auf die Hymnensammlungen folgten Texte, die das Ritual erklären, deute
 reading_time: 13
 evidence: [primary, established, hypothesis, disputed, tradition]
 status: review
-verification: partial
+verification: verified
 learning_objectives:
   - Die Textschichten Brāhmaṇa, Āraṇyaka, Upaniṣad und Sūtra unterscheiden.
   - Das Denken in Entsprechungen (bandhu) an Beispielen erklären.
@@ -85,7 +85,7 @@ Ihre Erklärungen folgen einer eigenen Logik: dem Denken in **Entsprechungen** (
 
 Für moderne Leser wirkt dieses Denken oft willkürlich. Die Forschung hat aber gezeigt, dass es eine systematische Ordnung der Welt in Reihen von Entsprechungen darstellt. Es bildet die Grundlage für die späteren Gleichsetzungen der Upaniṣaden, etwa die von Ātman und Brahman (siehe [[kap-brahman-atman]]). **Kategorie:** Wissenschaftliche Hypothese (breit akzeptiert).
 
-Die Brāhmaṇas enthalten außerdem viele **Erzählungen**, oft die ältesten Fassungen später berühmter Mythen. Das Śatapatha-Brāhmaṇa erzählt etwa, wie ein Fisch den Menschen Manu vor einer großen Flut warnt und rettet. Das ist eine frühe Form der Flutgeschichte, die später im Matsya-Purāṇa ausgebaut wird (Śatapatha-Brāhmaṇa 1.8.1, *Stelle prüfen*). **Kategorie:** Primärquellenbeleg.
+Die Brāhmaṇas enthalten außerdem viele **Erzählungen**, oft die ältesten Fassungen später berühmter Mythen. Das Śatapatha-Brāhmaṇa erzählt etwa, wie ein Fisch den Menschen Manu vor einer großen Flut warnt und rettet. Das ist eine frühe Form der Flutgeschichte, die später im Matsya-Purāṇa ausgebaut wird (Śatapatha-Brāhmaṇa 1.8.1.1–6). **Kategorie:** Primärquellenbeleg.
 
 Datiert werden die älteren Brāhmaṇas meist in die erste Hälfte des 1. Jahrtausends v. Chr. Die Begründung stützt sich auf Sprache, Geografie und relative Chronologie (Witzel 1997). **Kategorie:** Wissenschaftliche Hypothese.
 

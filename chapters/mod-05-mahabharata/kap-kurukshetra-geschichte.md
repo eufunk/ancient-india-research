@@ -8,7 +8,7 @@ summary: War der Krieg von Kurukṣetra ein historisches Ereignis? Das Kapitel t
 reading_time: 14
 evidence: [primary, established, hypothesis, disputed, tradition, unresolved]
 status: review
-verification: partial
+verification: verified
 learning_objectives:
   - Die Darstellung des Krieges im Epos (Heere, Waffen, Regeln) beschreiben.
   - Die Rolle Kurukṣetras in der vedischen Literatur kennen.
@@ -71,7 +71,7 @@ scenario: |
 
 ## Der Krieg im Epos
 
-Das Epos beschreibt eine Schlacht von **achtzehn Tagen**. Elf Heereseinheiten (*akṣauhiṇī*) kämpfen auf der Seite der Kauravas, sieben auf der Seite der Pāṇḍavas. Eine Akṣauhiṇī besteht nach der Angabe im Ādiparvan aus 21.870 Streitwagen, ebenso vielen Elefanten, 65.610 Reitern und 109.350 Fußsoldaten *(Stelle prüfen)*. **Kategorie:** Primärquellenbeleg.
+Das Epos beschreibt eine Schlacht von **achtzehn Tagen**. Elf Heereseinheiten (*akṣauhiṇī*) kämpfen auf der Seite der Kauravas, sieben auf der Seite der Pāṇḍavas. Eine Akṣauhiṇī besteht nach der Angabe im Ādiparvan aus 21.870 Streitwagen, ebenso vielen Elefanten, 65.610 Reitern und 109.350 Fußsoldaten *(Mahābhārata 1.2.15–23)*. **Kategorie:** Primärquellenbeleg.
 
 Rechnet man die Zahlen hoch, kämen über drei Millionen Kämpfer und Hunderttausende Elefanten und Wagen zusammen – auf einem Feld, das man an einem Tag durchqueren kann. Diese Zahlen sind ein Kennzeichen epischer Steigerung, wie man sie aus vielen Heldenepen kennt, und keine Truppenstärke im historischen Sinn. **Kategorie:** Wissenschaftlich gesichert (Forschungskonsens).
 
@@ -89,7 +89,7 @@ Vor der Schlacht vereinbaren beide Seiten Regeln des „gerechten Kampfes“ (*d
 
 ## Kurukṣetra vor dem Mahābhārata
 
-Kurukṣetra, das „Feld der Kuru“, ist nicht erst durch das Epos bekannt. Schon in spätvedischen Texten gilt es als heiliges Land, als „Opferplatz der Götter“ (*devayajana*), an dem die Götter selbst ihre Rituale vollzogen *(Stellen in Śatapatha-Brāhmaṇa und Taittirīya-Āraṇyaka prüfen)*. Die Manusmṛti rechnet Kurukṣetra zu dem Gebiet, das als Kernland der brahmanischen Kultur gilt, in der Nähe der Flüsse Sarasvatī und Dṛṣadvatī (Olivelle 2005, Manu 2.17–19, *Stelle prüfen*). **Kategorie:** Primärquellenbeleg.
+Kurukṣetra, das „Feld der Kuru“, ist nicht erst durch das Epos bekannt. Schon in spätvedischen Texten gilt es als heiliges Land, als „Opferplatz der Götter“ (*devayajana*), an dem die Götter selbst ihre Rituale vollzogen *(Śatapatha-Brāhmaṇa 14.1.1.2, vgl. 4.1.5.13; Taittirīya-Āraṇyaka 5.1.1, dort als Opferaltar [vedi] der Götter)*. Die Manusmṛti rechnet Kurukṣetra zu dem Gebiet, das als Kernland der brahmanischen Kultur gilt, in der Nähe der Flüsse Sarasvatī und Dṛṣadvatī (Olivelle 2005, Manu 2.17–19). **Kategorie:** Primärquellenbeleg.
 
 Im Mahābhārata selbst heißt der Ort auch *Samantapañcaka*: Hier soll der Krieger-Asket Paraśurāma nach der Vernichtung der Kṣatriyas fünf Seen mit deren Blut gefüllt haben. Wer in Kurukṣetra stirbt, so heißt es, erlangt den Himmel. **Kategorie:** Primärquellenbeleg / Traditionelle Überlieferung.
 
@@ -121,7 +121,7 @@ Kaum eine Frage der indischen Geschichte hat so viele unterschiedliche Antworten
 |---|---|---|
 | Traditionelle Kali-Epoche | 3102 v. Chr. | Beginn des Kali-Yuga nach der Siddhānta-Astronomie ([[evt-kali-yuga-epoch]]) |
 | Aihole-Inschrift (634/635 n. Chr.) | um 3100 v. Chr. | Zählung von Jahren seit dem Bhārata-Krieg ([[evt-aihole-inscription]]) |
-| Varāhamihira (6. Jh.) | Mitte des 3. Jt. v. Chr. | Angabe einer anderen Ära (Zeit Yudhiṣṭhiras) *(Stelle prüfen)* |
+| Varāhamihira (6. Jh.) | Mitte des 3. Jt. v. Chr. | Angabe einer anderen Ära (Zeit Yudhiṣṭhiras), *Bṛhatsaṃhitā* 13.3 |
 | Purāṇische Königslisten | späteres 2. Jt. v. Chr. | Angabe der Jahre von Parikṣits Geburt bis zu den Nandas; Zahl schwankt zwischen den Texten (Pargiter 1913) |
 | Astronomische Rückrechnungen | vom 6. Jt. bis ins 1. Jt. v. Chr. | Deutung von Himmelszeichen im Epos |
 | Archäologische Korrelation | ca. Anfang 1. Jt. v. Chr. | Painted Grey Ware (Lal) |
@@ -132,7 +132,7 @@ Schon diese Tabelle zeigt das Problem. Die Kali-Epoche und die Aihole-Inschrift 
 
 ## Ein historischer Kern?
 
-Einige Forscher halten es für möglich, dass Erinnerungen an Konflikte im spätvedischen Kuru-Pañcāla-Gebiet in die Erzählung eingegangen sind. Manche weisen auf ältere Erzählmuster hin – etwa die „Schlacht der zehn Könige“ des Ṛgveda, in der der Bharata-König Sudās eine Koalition von Stämmen besiegt – und fragen, ob das Epos alte Kriegserinnerungen neu gestaltet *(Stellen im Ṛgveda prüfen)*. **Kategorie:** Wissenschaftliche Hypothese.
+Einige Forscher halten es für möglich, dass Erinnerungen an Konflikte im spätvedischen Kuru-Pañcāla-Gebiet in die Erzählung eingegangen sind. Manche weisen auf ältere Erzählmuster hin – etwa die „Schlacht der zehn Könige“ des Ṛgveda, in der der Bharata-König Sudās eine Koalition von Stämmen besiegt – und fragen, ob das Epos alte Kriegserinnerungen neu gestaltet *(Ṛgveda 7.18; 7.33.3–5; 7.83.6–8)*. **Kategorie:** Wissenschaftliche Hypothese.
 
 Andere betonen, dass die Haupthandlung keine Spuren in den vedischen Texten hinterlassen hat, obwohl diese die Kuru gut kennen, und dass das Epos vor allem als literarisches und religiöses Werk zu verstehen ist (vgl. Brockington 1998). **Kategorie:** Umstritten.
 

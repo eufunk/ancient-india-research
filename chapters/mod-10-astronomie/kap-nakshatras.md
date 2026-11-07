@@ -8,7 +8,7 @@ summary: Lange bevor die zwölf Tierkreiszeichen nach Indien kamen, ordneten ved
 reading_time: 12
 evidence: [primary, established, hypothesis, disputed, tradition]
 status: review
-verification: partial
+verification: verified
 learning_objectives:
   - Erklären, was ein Nakṣatra ist und warum es 27 bzw. 28 gibt.
   - Die frühesten Nakṣatra-Listen in der vedischen Literatur benennen.
@@ -72,14 +72,14 @@ Ein solcher **Mondzodiak** ist für einen Ritualkalender sehr praktisch. Die Son
 
 ## Die vedischen Listen
 
-Einzelne Nakṣatra-Namen kommen bereits im [[rigveda|Ṛgveda]] vor, doch eine geschlossene Liste fehlt dort. Vollständige Listen finden sich erst in der jüngeren vedischen Literatur, etwa in der **Taittirīya-Saṃhitā** des Schwarzen Yajurveda und in der **Atharvaveda-Saṃhitā** (TS 4.4.10; AV 19.7, *Stellen prüfen*). Die Listen ordnen jedem Nakṣatra eine **Gottheit** zu. **Kategorie:** Primärquellenbeleg.
+Einzelne Nakṣatra-Namen kommen bereits im [[rigveda|Ṛgveda]] vor, doch eine geschlossene Liste fehlt dort. Vollständige Listen finden sich erst in der jüngeren vedischen Literatur, etwa in der **Taittirīya-Saṃhitā** des Schwarzen Yajurveda und in der **Atharvaveda-Saṃhitā** (TS 4.4.10; AV 19.7). Die Liste der Taittirīya-Saṃhitā ordnet jedem Nakṣatra eine **Gottheit** zu; der Atharvaveda-Hymnus nennt die Nakṣatras ohne ausdrückliche Gottheiten (Whitney/Lanman 1905, zu AV 19.7). **Kategorie:** Primärquellenbeleg.
 
 Zwei Beobachtungen sind auffällig:
 
 1. Die vedischen Listen **beginnen mit Kṛttikā**, den Plejaden.
 2. Manche Listen zählen **27**, andere **28** Nakṣatras; das 28. heißt **Abhijit**.
 
-Einige Zuordnungen, wie sie in der späteren Standardliste erscheinen (in den vedischen Listen gibt es Abweichungen, *im Einzelnen prüfen*):
+Einige Zuordnungen, wie sie in der späteren Standardliste erscheinen (in den vedischen Listen gibt es Abweichungen; die hier genannten Gottheiten stimmen mit TS 4.4.10 überein):
 
 | Nakṣatra | Gängige Gleichsetzung | Gottheit |
 |---|---|---|

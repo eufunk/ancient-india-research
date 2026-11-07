@@ -8,7 +8,7 @@ summary: Rāma gilt in der Tradition als vollkommener Mensch, als „Bester unte
 reading_time: 13
 evidence: [primary, established, hypothesis, disputed, tradition]
 status: review
-verification: partial
+verification: verified
 learning_objectives:
   - Die Figuren Rāma, Sītā, Lakṣmaṇa und Bharata als Verkörperungen unterschiedlicher Aspekte des Dharma beschreiben.
   - Die ethisch umstrittenen Episoden (Vālin, Feuerprobe, Verbannung Sītās, Śambūka) im Text verorten.
@@ -75,13 +75,13 @@ So entsteht im Ayodhyākāṇḍa das Bild einer Familie, in der jeder seine Pfl
 
 Der Dharma des Rāmāyaṇa ist allerdings nicht spannungsfrei, und der Text weiß das. Im vierten Buch verbündet sich Rāma mit dem Affenprinzen Sugrīva, der von seinem älteren Bruder **Vālin** vertrieben wurde. Als die Brüder miteinander kämpfen, tötet Rāma Vālin mit einem Pfeil – aus dem Verborgenen.
 
-Der sterbende Vālin wirft ihm Unrecht vor: Er habe nicht offen gekämpft und einen Gegner getötet, der ihm nichts getan habe. Rāma antwortet mit einer ausführlichen Rechtfertigung: Vālin habe die Frau seines Bruders an sich genommen, und als Vertreter des Königs habe Rāma das Recht, ein solches Vergehen zu bestrafen; außerdem gälten für die Jagd auf Tiere andere Regeln als für den Kampf unter Kriegern (*Stelle prüfen*). **Kategorie:** Primärquellenbeleg.
+Der sterbende Vālin wirft ihm Unrecht vor: Er habe nicht offen gekämpft und einen Gegner getötet, der ihm nichts getan habe. Rāma antwortet mit einer ausführlichen Rechtfertigung: Vālin habe die Frau seines Bruders an sich genommen, und als Vertreter des Königs habe Rāma das Recht, ein solches Vergehen zu bestrafen; außerdem gälten für die Jagd auf Tiere andere Regeln als für den Kampf unter Kriegern (Kiṣkindhākāṇḍa 17–18 nach der Kritischen Edition; Vālins Vorwurf 4.17.12 ff., Rāmas Antwort 4.18, bes. 18–36). **Kategorie:** Primärquellenbeleg.
 
 Dass der Text Vālins Anklage überhaupt so ausführlich zu Wort kommen lässt, ist bemerkenswert. Die Episode wurde in der Kommentartradition intensiv diskutiert und ist bis heute ein klassisches Beispiel für die Frage, ob ein guter Zweck ein fragwürdiges Mittel rechtfertigt. **Kategorie:** Umstritten (Deutung).
 
 ## Die Feuerprobe
 
-Der schärfste Konflikt betrifft [[sita|Sītā]]. Nach dem Sieg über [[ravana|Rāvaṇa]] im sechsten Buch, dem Yuddhakāṇḍa, wird Sītā zu Rāma gebracht. Statt sie freudig zu empfangen, erklärt Rāma vor allen Anwesenden, er habe den Krieg geführt, um seine Ehre wiederherzustellen; eine Frau, die so lange im Haus eines anderen Mannes gelebt habe, könne er nicht wieder aufnehmen. Sītā antwortet würdevoll und bitter – und lässt einen Scheiterhaufen errichten. Sie geht ins Feuer. Der Feuergott Agni selbst trägt sie unversehrt heraus und bezeugt ihre Reinheit. Erst dann nimmt Rāma sie an und erklärt, er habe sie nie bezweifelt, sondern ihre Reinheit vor der Welt beweisen müssen (*Stelle prüfen*). **Kategorie:** Primärquellenbeleg.
+Der schärfste Konflikt betrifft [[sita|Sītā]]. Nach dem Sieg über [[ravana|Rāvaṇa]] im sechsten Buch, dem Yuddhakāṇḍa, wird Sītā zu Rāma gebracht. Statt sie freudig zu empfangen, erklärt Rāma vor allen Anwesenden, er habe den Krieg geführt, um seine Ehre wiederherzustellen; eine Frau, die so lange im Haus eines anderen Mannes gelebt habe, könne er nicht wieder aufnehmen. Sītā antwortet würdevoll und bitter – und lässt einen Scheiterhaufen errichten. Sie geht ins Feuer. Der Feuergott Agni selbst trägt sie unversehrt heraus und bezeugt ihre Reinheit. Erst dann nimmt Rāma sie an und erklärt, er habe sie nie bezweifelt, sondern ihre Reinheit vor der Welt beweisen müssen (Yuddhakāṇḍa 103–106 nach der Kritischen Edition). **Kategorie:** Primärquellenbeleg.
 
 Die Szene zeigt einen Grundzug von Rāmas Charakter, der das ganze Epos durchzieht: Er handelt stets mit Blick darauf, wie sein Handeln vor der Öffentlichkeit erscheint. Für einen König ist das Pflicht. Für den Ehemann wird es zur Härte.
 
@@ -93,7 +93,7 @@ Für die Forschung ist wichtig, dass das Uttarakāṇḍa als **spätere Schicht
 
 ## Śambūka
 
-Im selben Buch steht eine weitere, oft kritisierte Episode. Ein Brahmane klagt, sein Sohn sei gestorben, weil im Reich etwas gegen die Ordnung verstoße. Rāma findet einen Asketen namens **Śambūka**, einen Śūdra, der Askese übt – was nach der Ständeordnung des Textes Śūdras nicht zusteht. Rāma tötet ihn, und der Knabe wird wieder lebendig (*Stelle prüfen*). **Kategorie:** Primärquellenbeleg.
+Im selben Buch steht eine weitere, oft kritisierte Episode. Ein Brahmane klagt, sein Sohn sei gestorben, weil im Reich etwas gegen die Ordnung verstoße. Rāma findet einen Asketen namens **Śambūka**, einen Śūdra, der Askese übt – was nach der Ständeordnung des Textes Śūdras nicht zusteht. Rāma tötet ihn, und der Knabe wird wieder lebendig (Uttarakāṇḍa 64–67 nach der Kritischen Edition). **Kategorie:** Primärquellenbeleg.
 
 Die Episode zeigt, wie eng der Dharma des Epos mit der **Ständeordnung** (*varṇa*) verbunden ist. Im 20. Jahrhundert wurde sie zu einem zentralen Argument der Kritik: Der Sozialreformer **B. R. Ambedkar** und der tamilische Reformer **E. V. Ramasamy (Periyar)** griffen das Rāmāyaṇa als Text an, der Kasten- und Geschlechterhierarchien legitimiere. **Kategorie:** Wissenschaftlich gesichert (dass diese Kritik geübt wurde).
 

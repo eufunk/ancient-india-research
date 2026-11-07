@@ -8,7 +8,7 @@ summary: Woher kommt die Welt, und wohin geht sie? Die indischen Texte geben dar
 reading_time: 13
 evidence: [primary, tradition, established, hypothesis, disputed]
 status: review
-verification: partial
+verification: verified
 learning_objectives:
   - Die wichtigsten vedischen Schöpfungsbilder (Nāsadīya, Hiraṇyagarbha, Puruṣa) unterscheiden.
   - Die Sāṃkhya-Reihe der Weltentfaltung (tattvas) erklären und ihre Übernahme in die Purāṇas beschreiben.
@@ -98,7 +98,7 @@ Zwei weitere Hymnen des zehnten Buches liefern Bilder, die später große Wirkun
 
 ## Das goldene Ei
 
-Die späteren Texte nehmen das Bild des goldenen Keims auf und machen daraus das **Weltei** (*aṇḍa*). In der Manusmṛti legt das Selbstseiende einen Samen in die Wasser; daraus wird ein goldenes Ei, in dem Brahmā geboren wird. Nach einem Jahr spaltet er das Ei durch bloßes Denken in zwei Hälften – Himmel und Erde (Manu 1.9–13, *Stelle prüfen*; Olivelle 2005). **Kategorie:** Primärquellenbeleg / Traditionelle Überlieferung.
+Die späteren Texte nehmen das Bild des goldenen Keims auf und machen daraus das **Weltei** (*aṇḍa*). In der Manusmṛti legt das Selbstseiende einen Samen in die Wasser; daraus wird ein goldenes Ei, in dem Brahmā geboren wird. Nach einem Jahr spaltet er das Ei durch bloßes Denken in zwei Hälften – Himmel und Erde (Manu 1.8–13; Olivelle 2005). **Kategorie:** Primärquellenbeleg / Traditionelle Überlieferung.
 
 ## Sāṃkhya: die Welt als Entfaltung
 
@@ -136,7 +136,7 @@ Welcher Gott an der Spitze steht, hängt vom Purāṇa ab: In vaiṣṇavitische
 
 ## Wie die Welt vergeht: vier Arten des Pralaya
 
-So ausführlich wie die Schöpfung beschreiben die Purāṇas die **Auflösung**. Das Viṣṇupurāṇa unterscheidet in seinem sechsten Buch vier Arten (Wilson 1840, Buch 6, *Stellen prüfen*):
+So ausführlich wie die Schöpfung beschreiben die Purāṇas die **Auflösung**. Das Viṣṇupurāṇa unterscheidet vier Arten (Buch 1, Kap. 7); ausführlich schildert es im sechsten Buch die naimittika-, prākṛta- und ātyantika-Auflösung (Buch 6, Kap. 3–5; Wilson 1840):
 
 - **Nitya pralaya**, die „beständige“ Auflösung: das tägliche Vergehen der Lebewesen.
 - **Naimittika pralaya**, die „anlassbedingte“ Auflösung am Ende jedes Tages Brahmās. Das Viṣṇupurāṇa schildert sie dramatisch: eine hundertjährige Dürre, sieben Sonnen, die die Wasser austrocknen, ein Weltenbrand, dann Wolken, die die Welt mit Regen überfluten, bis alles ein einziger Ozean ist – auf dem Viṣṇu in Schlaf sinkt. Danach folgt eine neue Schöpfung.

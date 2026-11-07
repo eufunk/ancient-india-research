@@ -8,7 +8,7 @@ summary: Im Ṛgveda wird die Sarasvatī als mächtigster aller Flüsse gepriese
 reading_time: 13
 evidence: [primary, established, hypothesis, disputed, tradition, unresolved]
 status: review
-verification: partial
+verification: verified
 learning_objectives:
   - Die wichtigsten Ṛgveda-Stellen zur Sarasvatī und ihre Aussagen kennen.
   - Das Ghaggar-Hakra-System und die Geschichte seiner Gleichsetzung mit der Sarasvatī erklären.
@@ -71,11 +71,11 @@ Kein Fluss wird im [[kap-rigveda|Ṛgveda]] so überschwänglich gepriesen wie d
 
 *Arbeitsübersetzung:* „Beste der Mütter, beste der Flüsse, beste der Göttinnen, Sarasvatī.“
 
-Weitere Stellen sind für die Debatte zentral (Jamison & Brereton 2014; Stellen im Einzelnen *prüfen*):
+Weitere Stellen sind für die Debatte zentral (Jamison & Brereton 2014):
 
-- Im **Flusshymnus** (Ṛgveda 10.75) wird die Sarasvatī in einer Aufzählung von Ost nach West zwischen Yamunā und Śutudrī (Sutlej) genannt – also etwa dort, wo heute der Ghaggar verläuft.
-- Ein Hymnus im siebten Buch (Ṛgveda 7.95) beschreibt sie als Fluss, der von den **Bergen bis zum Meer** (*samudra*) fließt.
-- In jüngeren vedischen Texten und im Mahābhārata **versiegt** die Sarasvatī im Sand der Wüste, an einem Ort namens *Vinaśana*, „Verschwinden“.
+- Im **Flusshymnus** (Ṛgveda 10.75) wird die Sarasvatī in einer Aufzählung von Ost nach West zwischen Yamunā und Śutudrī (Sutlej) genannt (Ṛgveda 10.75.5) – also etwa dort, wo heute der Ghaggar verläuft.
+- Ein Hymnus im siebten Buch (Ṛgveda 7.95.2) beschreibt sie als Fluss, der von den **Bergen bis zum Meer** (*samudra*) fließt.
+- In jüngeren vedischen Texten und im Mahābhārata **versiegt** die Sarasvatī im Sand der Wüste, an einem Ort namens *Vinaśana*, „Verschwinden“ (z. B. Pañcaviṃśa-Brāhmaṇa 25.10.1; Mahābhārata 3.80.118, 3.130.3, 9.36.1–2).
 
 **Kategorie:** Primärquellenbeleg (Wortlaut) / Umstritten (geografische Deutung). Schon die Bedeutung von *samudra* ist strittig: Es kann „Meer“ heißen, aber auch einen großen Wasserkörper oder – in übertragener Bedeutung – eine himmlische Flut.
 

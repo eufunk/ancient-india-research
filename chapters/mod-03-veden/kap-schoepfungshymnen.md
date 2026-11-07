@@ -8,7 +8,7 @@ summary: Im zehnten Buch des Ṛgveda stehen Hymnen, die nach dem Ursprung der W
 reading_time: 13
 evidence: [primary, established, hypothesis, disputed, tradition]
 status: review
-verification: partial
+verification: verified
 learning_objectives:
   - Inhalt und Aufbau der drei großen Schöpfungshymnen wiedergeben.
   - Die Rolle von Fragen und Rätseln in der vedischen Dichtung erklären.
@@ -121,7 +121,7 @@ Seine Wirkung war jedenfalls enorm. Spätere Rechtsbücher wie die Manusmṛti b
 
 ## Der Hiraṇyagarbha-Hymnus: „Welchem Gott?“
 
-Der dritte große Text ist der **Hiraṇyagarbha-Sūkta** (RV 10.121). Er beschreibt einen „goldenen Keim“, der am Anfang entstand und Himmel und Erde befestigte. Jede Strophe endet mit demselben Kehrvers:
+Der dritte große Text ist der **Hiraṇyagarbha-Sūkta** (RV 10.121). Er beschreibt einen „goldenen Keim“, der am Anfang entstand und Himmel und Erde befestigte. Die Strophen 1–9 enden mit demselben Kehrvers:
 
 > kásmai devā́ya havíṣā vidhema
 > *(Ṛgveda 10.121, Refrain)*
@@ -134,7 +134,7 @@ Die Brāhmaṇas lösten die Frage auf ihre Weise. Sie lasen das Fragewort *ka* 
 
 ## Weitere Stimmen
 
-Neben diesen drei Hymnen gibt es im zehnten Buch weitere Schöpfungsbilder. Ein Hymnus spricht davon, dass aus dem Nichtseienden das Seiende geboren wurde, und verknüpft dies mit der Göttin Aditi und dem Gott Dakṣa in einem paradoxen Wechsel von Geburt und Elternschaft (RV 10.72, *Stelle prüfen*). Andere Bilder sind der Zimmermann oder Schmied, der die Welt formt, oder die Trennung von Himmel und Erde. **Kategorie:** Primärquellenbeleg.
+Neben diesen drei Hymnen gibt es im zehnten Buch weitere Schöpfungsbilder. Ein Hymnus spricht davon, dass aus dem Nichtseienden das Seiende geboren wurde, und verknüpft dies mit der Göttin Aditi und dem Gott Dakṣa in einem paradoxen Wechsel von Geburt und Elternschaft (RV 10.72.2–5). Andere Bilder sind der Zimmermann oder Schmied, der die Welt formt, oder die Trennung von Himmel und Erde. **Kategorie:** Primärquellenbeleg.
 
 Die vedischen Dichter hatten also **kein Dogma** von der Schöpfung. Sie erprobten verschiedene Bilder, ohne eines für verbindlich zu erklären. **Kategorie:** Wissenschaftlich gesichert.
 

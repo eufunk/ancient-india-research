@@ -8,7 +8,7 @@ summary: Das Mahābhārata ist eine Familiengeschichte über vier Generationen �
 reading_time: 13
 evidence: [primary, tradition, hypothesis, unresolved]
 status: review
-verification: partial
+verification: verified
 learning_objectives:
   - Die Hauptlinien der Kuru-Genealogie von Śantanu bis zu den Pāṇḍavas und Kauravas wiedergeben.
   - Die Rolle von Bhīṣmas Gelübde und des niyoga für die Erbfolge erklären.
@@ -147,6 +147,6 @@ Hier ist eine klare Unterscheidung nötig.
 
 **Die Kuru als Volk** sind historisch gut belegt. Die spätvedischen Texte nennen die Kuru und die benachbarten Pañcāla als führende Völker im Gebiet zwischen Yamunā und Gaṅgā. Michael Witzel hat das Kuru-Reich als erstes größeres Staatswesen der vedischen Zeit beschrieben, etwa im 12. bis 10. Jahrhundert v. Chr. (Witzel 1995). **Kategorie:** Wissenschaftliche Hypothese (gut begründet).
 
-**Einzelne Namen** kehren in vedischen Texten wieder: Ein König **Parikṣit** wird in Hymnen des Atharvaveda gepriesen, ein **Janamejaya Pārikṣita** erscheint in Brāhmaṇa-Texten als Opferherr eines Pferdeopfers *(Stellen prüfen)*. Das zeigt, dass diese Namen zur Erinnerung der Kuru gehörten. **Kategorie:** Primärquellenbeleg (für die Namen in vedischen Texten).
+**Einzelne Namen** kehren in vedischen Texten wieder: Ein König **Parikṣit** wird in Hymnen des Atharvaveda gepriesen, ein **Janamejaya Pārikṣita** erscheint in Brāhmaṇa-Texten als Opferherr eines Pferdeopfers *(Atharvaveda [Śaunaka] 20.127.7–10; Śatapatha-Brāhmaṇa 13.5.4.1–2)*. Das zeigt, dass diese Namen zur Erinnerung der Kuru gehörten. **Kategorie:** Primärquellenbeleg (für die Namen in vedischen Texten).
 
 Es zeigt aber nicht, dass die epische Familiengeschichte – mit Bhīṣmas Gelübde, dem niyoga, den göttlichen Vätern und dem großen Krieg – historisch ist. Die vedischen Erwähnungen kennen den Bruderkrieg nicht. Wie die Genealogien der Purāṇas dient auch die des Epos der Ordnung der Vergangenheit und der Legitimation von Herrschaft; sie ist eine Form historischen Bewusstseins, kein Personenstandsregister (Thapar 2002). **Kategorie:** Ungeklärt (Historizität der epischen Personen).
