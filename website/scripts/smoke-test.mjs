@@ -39,6 +39,8 @@ try {
 
   const urls = ['/', '/kurse', '/schriften', '/geschichte', '/kosmologie', '/philosophie', '/figuren', '/zeitleiste',
     '/geografie', '/quellen', '/fragen', '/suche?q=rgveda', ...content.entities.map((e) => e.href)]
+  const known = new Set(urls.map((u) => u.split('?')[0]))
+  const broken = new Map()
   const origError = console.error
   for (const url of urls) {
     const errs = []
@@ -46,10 +48,15 @@ try {
     try {
       const html = renderToString(tree(url))
       if (html.includes('Nicht gefunden')) errs.push('NotFound gerendert')
+      for (const [, href] of html.matchAll(/href="(\/[^"#?]*)/g)) {
+        const p = decodeURIComponent(href)
+        if (!known.has(p)) broken.set(p, [...(broken.get(p) ?? []), url])
+      }
     } catch (e) { errs.push(e.stack ?? String(e)) }
     console.error = origError
     if (errs.length) { failed++; console.log(`✗ ${url}\n   ${errs.join('\n   ').slice(0, 800)}`) }
   }
+  for (const [p, from] of broken) { failed++; console.log(`✗ Toter Link ${p}  (auf: ${[...new Set(from)].slice(0, 5).join(', ')})`) }
   console.log(`${urls.length - failed}/${urls.length} Seiten ohne Fehler gerendert.`)
   if (content.problems.length) console.log('Datenprobleme:', content.problems)
 } finally {
